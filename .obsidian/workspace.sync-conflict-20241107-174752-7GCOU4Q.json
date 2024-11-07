@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-5.md",
+                "file": "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_lf_fundamentacion-juridica-5"
+              "title": "01_lf_fundamentacion-juridica-1"
             }
           }
         ]
@@ -160,7 +160,6 @@
   },
   "active": "0c8c6f1acb5c8553",
   "lastOpenFiles": [
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-1.md",
     "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-1.sync-conflict-20241107-173442-7GCOU4Q.md",
     "02-formal/021-derecho/2024-01_fundamentacion-juridica/~syncthing~01_lf_fundamentacion-juridica-1.sync-conflict-20241107-173442-7GCOU4Q.md.tmp",
     "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-1.sync-conflict-20241107-173335-7GCOU4Q.md",
@@ -195,6 +194,7 @@
     "02-formal/021-derecho/2024-01_fundamentacion-juridica/Lectura fundamental 8.md",
     "02-formal/021-derecho/2024-01_fundamentacion-juridica/Lectura fundamental 7.md",
     "02-formal/021-derecho/2024-01_fundamentacion-juridica/Lectura fundamental 6.md",
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/Lectura fundamental 5.md"
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/Lectura fundamental 5.md",
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/Lectura fundamental 4.md"
   ]
 }
