@@ -1,0 +1,397 @@
+Palabras clave : filosofía, derecho, autoridad, justicia, principios.Contenido
+1
+2
+3
+4Introducción
+La filosofía del derecho en Grecia y en Roma
+La Edad Media: la religión y el derecho
+La filosofía y el derecho en la Edad Moderna
+Filosofía del derecho: de la antigua 
+Grecia a la Edad Moderna
+Unidad 3 / Escenario 5
+Lectura fundamental
+
+
+POLITÉCNICO GRANCOLOMBIANO2221. Introducción
+En las dos unidades anteriores se ha revisado de qué manera ciertos sucesos históricos han producido 
+instituciones, modelos o principios jurídicos. Sin embargo, es erróneo pensar que el derecho únicamente 
+puede ser visto desde afuera, como un resultado de hechos históricos. El ordenamiento jurídico debe 
+tener coherencia interna para que pueda siquiera llegar a ser funcional. Por eso a lo largo del tiempo los 
+juristas más relevantes de su época han pretendido generar análisis teóricos del derecho. Sin embargo, 
+la discusión acerca de cómo se debe teorizar ese derecho genera la distinción principal entre la teoría 
+general del derecho y la filosofía del derecho.
+Al iniciar la presentación de su libro sobre filosofía del derecho, García Máynez (2007, p. 13), 
+parafraseando a Nawiasky, señala que “la Teoría General debe ser claramente distinguida de la Filosofía 
+del Derecho, insiste Nawiasky”. Es cierto que ambas se refieren a su objeto, “de acuerdo con puntos de 
+vista generales”; pero mientras aquella “estudia el derecho que es , esta trata del derecho que debe ser”.  
+Esa distinción entre la teorización del “ser” y la teorización del “deber ser” explica en gran medida por 
+qué realizar un ejercicio filosófico del derecho no es un capricho, sino una necesidad real de quienes de 
+una u otra manera operan a partir del sistema jurídico.
+Siguiendo con su planteamiento, García Máynez (2007, p. 13) señala que la teoría general del 
+derecho es eminentemente positivista, término que tiene una connotación especial en materia 
+científica, dado que implica que todo análisis debe partir de la experiencia y seguir un análisis 
+causalista. En ese sentido, el método positivista en la ciencia implica que se debe partir de “lo que 
+hay” para intentar interpretar y formular leyes o teoremas. Esto, si se aterriza al ámbito de lo jurídico, 
+implica que el estudio del derecho se da a partir de lo que ha sido y de lo que hoy es el derecho, para 
+poder organizarlo y sistematizarlo1. A partir de ese estudio, surgen los conceptos jurídicos, su análisis y 
+su categorización.
+Por otro lado, la filosofía del derecho realiza un análisis teórico del derecho, pero de manera muy 
+distinta, puesto que no se analiza el derecho “desde adentro” sino “desde afuera”. Esta diferencia 
+metodológica permite analizar estos conceptos de una manera distinta, para contribuir a una 
+teorización del derecho de una manera distinta. 
+1 Se recordará que al revisar la Corpus Iuris Civilis  de Justiniano, en el Escenario 1, se señaló que su intención principal era compendiar el derecho 
+existente en el Digesto, el Codex  (el viejo y el nuevo) y las Institutas. Los glosadores interpretaron exegéticamente el Digesto, los post-glosadores 
+introdujeron un método sistemático de interpretación de esa obra. Posteriormente los juristas franceses, según se vio en el Escenario 2, utilizaron 
+esas fuentes y las reorganizaron de manera normativamente más coherente, en un afán por codificar la ley existente en un único cuerpo normativo. 
+Estos serían ejercicios propios de lo que se ha denominado como la construcción de una teoría general del derecho.
+
+POLITÉCNICO GRANCOLOMBIANO333Precisamente Hegel, en su Filosofía del derecho (Hegel, p. 19) inicia la primera oración del capítulo de 
+introducción a su obra, así: “la ciencia filosófica del derecho tiene por objeto la Idea del Derecho, o 
+sea el concepto del Derecho y su realización”. Esta breve oración tiene una carga conceptual enorme, 
+puesto que forma parte de todo un sistema filosófico propuesto por Hegel, que no está planteado de 
+manera explícita en la obra, pero que puede entenderse a partir de su obra principal, la Fenomenología 
+del espíritu2.
+Por el momento, conviene destacar que Hegel se refiere a la filosofía del derecho como una ciencia, y 
+que adicionalmente indica con claridad que el objeto de estudio es la idea del derecho y su realización. 
+A continuación, entonces, una visión de lo que es la filosofía del derecho occidental y c ómo se ha 
+venido desarrollando a partir de algunos de sus exponentes principales.
+2. La filosofía del derecho en Grecia y en Roma
+Es un hecho poco disputado que la filosofía occidental encuentra su antecedente directo en Grecia, 
+por lo que se suele ir a la antigua Grecia en busca de muchos de los antecedentes filosóficos de 
+diversas cuestiones que aún hoy son objeto de debate. En ocasiones, muchos de los textos suelen 
+acudir directamente a Platón y a Aristóteles como antecedentes principales directos, por el análisis 
+de la noción de la justicia que realizan en La República y en la  Ética Nicomaquea , respectivamente. 
+Una de las principales enseñanzas que vienen de la filosofía griega es la cultura de acatamiento de la 
+ley. Obsérvese, por ejemplo, que al relatar lo que fue el proceso seguido contra Sócrates, Alexander 
+Demandt recoge la respuesta dada por Sócrates a sus amigos que querían ayudarlo a fugarse antes de 
+que se ejecutase la pena de muerte: 
+(…) Platón describe en el diálogo Critón cómo los amigos habían preparado la huida de su maestro. Pero 
+éste se negó, explicando que siempre había respetado las leyes y disfrutado de su protección; ahora quería 
+ser consecuente y asumir su castigo. Incluso un juicio que parece injusto merece respeto, caso contrario 
+las leyes pierden su fuerza. Si las leyes son malas, hay que cambiarlas, pero no saltárselas. O había que 
+convencer a las autoridades o someterse a ellas; en todo caso, en cualquier momento podía hacerse el 
+equipaje y emigrar. La democracia ática daba a cada uno la oportunidad de mejorar el Estado mediante la 
+libre expresión, o de abandonarlo por libre elección. La renuncia a ello significa para Sócrates un contrato 
+implícito con el Estado, que quebraría la huida tras la condena. (Demandt, 2000, p. 18)
+2 En esta Lectura fundamental no se analizará esa macroestructura planteada por Hegel en la Fenomenología del espíritu,  para no abandonar el eje 
+central de la filosofía del derecho. La filosofía de Hegel es compleja y no puede abordarse en este espacio.
+
+POLITÉCNICO GRANCOLOMBIANO444Lo expuesto por Sócrates es algo que está impreso en la cultura griega de la época, especialmente en la 
+ciudad-Estado de Atenas. El deber de observancia de la ley será algo que, en palabras de Sabine, sería 
+responsable de los cambios en la postura política de Platón, transformación que se evidencia al comparar 
+La República  con Las Leyes (Sabine, 1998, pp. 76-79). En efecto, a lo largo de toda La República , Platón 
+no plantea ningún tipo de relación entre el buen gobierno y el ordenamiento jurídico. Esto era algo que 
+iba en contra de las creencias básicas de un griego de la época. Para la muestra, obsérvese la respuesta 
+dada por Sócrates en la cita recién planteada; una muestra de la importancia del respeto por la ley y el 
+derecho. La obra platónica Las Leyes  vino precedida por un texto político que medió entre La república 
+y Las Leyes: El político . Sin embargo, es en  Las Leyes donde en mayor medida se observa una readmisión 
+del derecho como parte central de la obra política platónica.
+Con Aristóteles, sin embargo, se presenta un giro que resulta especialmente interesante. En primera 
+medida, Aristóteles no era originario de Atenas, como sí lo era Platón. Sin embargo, formó parte de 
+la Academia de Platón, es decir, del centro de enseñanza educativo creado por este último para la 
+formación y educación filosófica. Posteriormente, habiéndose ido de La Academia, Aristóteles viaja y 
+termina siendo maestro de una de las figuras políticas y militares más grandes de la historia: Alejandro 
+Magno. Tras finalizar esta etapa en su vida, Aristóteles regresa a Atenas y funda el Liceo, su centro de 
+enseñanza formal, en donde habría de germinar la escuela peripatética.
+La obra de Aristóteles, que es increíblemente amplia y aborda diversos temas, es relevante para el 
+desarrollo de la filosofía del derecho en dos de las vertientes principales de su obra: la lógica y la 
+ética (política). Desde el punto de vista metodológico, hubo diferencias importantes entre Platón 
+y Aristóteles, principalmente por la noción de lo real, que en Platón se encontraba en el mundo de 
+las ideas, mientras que en Aristóteles se encontraba en el mundo que de lo material y físico. De allí 
+derivan algunas diferencias fundamentales en muchos aspectos de su filosofía. 
+Para efectos de lo que aquí interesa, debe decirse que Aristóteles suele enfocar sus ideas en la solución 
+de cuestiones prácticas. Desde el punto de vista lógico, el primero de los aspectos señalados, Aristóteles 
+formula las primeras leyes de lógica formal. Esta presentación de la lógica formal Aristotélica, sea 
+aceptada o no, siempre será un referente indispensable para el desarrollo de las ciencias y en general del 
+conocimiento. De allí surgirán las nociones básicas para la estructura de cualquier ciencia y cualquier 
+práctica de discurso racional, como la retórica y la argumentación. El derecho, visto como ciencia, no 
+es la excepción. La filosofía del derecho, también como ciencia autónoma -recordando el término 
+empleado por Hegel, según se ha citado atrás- tampoco es la excepción. 
+
+POLITÉCNICO GRANCOLOMBIANO555El segundo aspecto que incide directamente en la filosofía del derecho contemporáneo es el 
+que se consagra en su obra política, principalmente condensada en dos obras muy distintas pero 
+complementarias:  Política y Ética nicomáquea.  A la segunda de estas obras se ha hecho referencia 
+en la lectura fundamental del escenario 1, por tratar el concepto de justicia de una manera que ha 
+sido adoptada hasta nuestros días. Por ello, conviene referirse brevemente al desarrollo filosófico 
+contenido en Política . Según lo recoge Sabine (1998, pp. 91-115), la obra es una manera de analizar los 
+problemas prácticos del gobierno, sus distintas maneras y la forma en que se interrelacionan con del 
+derecho. Esto es particularmente relevante porque las formas de gobierno analizadas por Aristóteles 
+suelen mantenerse hasta nuestros días, si bien con variantes lógicas derivadas del curso de la historia. 
+Tanto en Platón como en Aristóteles resulta claro que el gobierno se ejerce con un fundamento ético, 
+y no se trata de un ejercicio de poder como fin en sí mismo. 
+Desde el punto de vista cultural, el Imperio romano acogió mucho de lo que acontecía en Grecia. Para 
+entender esta realidad, téngase en cuenta que fue similar a lo que ocurrió con la influencia del Siglo 
+de las Luces en Europa y sus implicaciones en la América revolucionaria del siglo XIX. La situación fue 
+similar, entre otros aspectos, dada la cercanía geográfica de Roma y Atenas. Esa influencia, que se 
+pudo revisar en los escenarios 2 y 3, opera de manera similar a la que tuvo Grecia sobre los romanos. 
+Téngase en cuenta, por ejemplo, que el auge romano como potencia mundial surge en el segundo 
+periodo histórico de ese pueblo, en la época de la República Romana. Esta inició aproximadamente en 
+el año 509 a. C. y perduró hasta poco antes de la finalización del siglo I a. C., en el 27 a. C. La época 
+de oro griega, aquella en la que vivieron Pericles, Sócrates, Platón y Aristóteles, abarca precisamente 
+los siglos V y IV a. C.
+Se puede entender, entonces, cómo gran parte del conocimiento filosófico griego influyó a los 
+romanos, en diferentes niveles. Esto se evidencia en el nivel artístico, el arquitectónico y el cultural. 
+Solo por presentar algunos ejemplos, es palpable la influencia que hay de la filosofía griega —
+particularmente la retórica aristotélica— sobre el desarrollo de la obra de Cicerón, por ejemplo, en 
+La invención retórica . También hay una naturalización de la mitología griega en la romana. Por último, 
+conviene revisar la manera en que la construcción del derecho romano gira en gran medida en torno 
+a los conceptos filosóficos desarrollados por los griegos. Obsérvese, por ejemplo, cómo dos de las 
+nociones fundamentales de derecho desarrolladas por el gran jurisconsulto Ulpiano, en palabras de 
+Petit, guardan estrecha relación con la filosofía griega.
+Por una parte, el concepto de jurisprudencia o ciencia del derecho de acuerdo con Ulpiano es el 
+“conocimiento de las cosas divinas y humanas y ciencia de lo justo y de lo injusto” (Petit, 1892, p. 19). 
+En consecuencia, es claro que la ciencia jurídica versará sobre lo justo y lo injusto. 
+
+POLITÉCNICO GRANCOLOMBIANO666Esto explica por qué desde ese entonces e incluso hasta hoy, la noción de justicia es central en el 
+derecho. Sin embargo, similarmente a lo que ocurre con la explicación hegeliana en torno de la noción 
+de derecho que maneja la filosofía del derecho, esta no está dada por la filosofía del derecho, sino por 
+el derecho mismo. En este caso ocurre la operación contraria: la noción de justicia no viene dada por 
+el derecho sino por la filosofía.
+Si vamos más allá, también Ulpiano propone la definición de justicia al señalar que esta es “la voluntad 
+firme y continuada de dar a cada cual lo suyo” (Petit, 1892, p. 19). Esto, por supuesto, es algo que 
+no es nuevo en Ulpiano, pues tanto en Platón como en Aristóteles encontramos una referencia muy 
+parecida. Obsérvese, por ejemplo, que en el primer libro de La República, al inicio del diálogo que 
+Sócrates sostiene con Polemarco, el primero le pregunta al segundo por la noción de justicia que 
+presenta Simónides3, y este responde que es “dar a cada uno lo que se le debe”. En consecuencia, 
+se observa de qué manera esta definición de Simónides se da aproximadamente seis siglos antes 
+que la de Ulpiano4. Adicionalmente, Aristóteles, al desarrollar su noción de justicia, conceptualiza 
+distintos tipos de justicia, dentro de la cuales una de ellas es la de la justicia distributiva particular, que 
+desarrolla de manera similar. Es claro entonces que Ulpiano adoptó una noción de justicia griega para 
+el desarrollo del derecho romano de la época imperial.
+Roma, sin embargo, al haber adoptado en gran medida una herencia cultural griega, es un referente 
+mucho más relevante en relación con la construcción del derecho y la jurisprudencia que de la 
+filosofía del derecho.
+¿Sabía que...?
+Gran parte del legado griego que llegó a manos de los pensadores de la Edad 
+Media pasó a través del legado romano. Por lo tanto, para realizar un rastreo 
+adecuado de las fuentes utilizadas en la Edad Media, se debe considerar a 
+pensadores romanos como Séneca o Cicerón. Sus obras recogen gran parte del 
+legado griego, pero adaptado a la realidad romana de su momento.
+3 Simónides fue un poeta griego que vivió del 556 a. C. al 468 a. C.
+4 Domicio Ulpiano vivió desde 170 d. C. (aproximadamente) hasta el 228 d. C.
+
+POLITÉCNICO GRANCOLOMBIANO7773. La Edad Media: la religión y el derecho
+Cabe recordar que muchas de las categorías con las que se lee la historia actual derivan de creaciones 
+propias de la Edad Moderna, según se ha visto. Esto es así, pues es en ese momento histórico 
+donde surge una idea que homogeniza la historia y el concepto de historia universal empieza a 
+cobrar vigencia. Esto es importante porque el término Edad Media precisamente se utiliza para 
+significar una pausa entre dos momentos históricos de gran notoriedad cultural: la época clásica del 
+auge grecorromano y la modernidad, especialmente a partir del Renacimiento. El uso del término, 
+entonces, se suele asociar a una época oscura en la historia de la humanidad.
+En parte, este periodo de la Edad Media se caracteriza en occidente por el auge de la Iglesia católica. 
+El catolicismo venía siendo ya una influencia religiosa importante en el mundo, pero durante mucho 
+tiempo fue perseguida esa fe en Roma. El cambio de ser perseguidos a convertirse en la religión oficial 
+del Imperio romano se dio junto con el ocaso del Imperio romano de occidente, según se vio en el 
+Escenario 1. Muchos sostuvieron que el catolicismo era precisamente la causa principal de la invasión 
+de Roma en el 410 d. C. Esto es especialmente importante, puesto que, en respuesta a esto, Agustín 
+de Hipona (San Agustín, según los preceptos católicos) escribió un texto político y filosófico de la 
+mayor importancia: La ciudad de Dios . Como lo sostiene Sabine, el pensamiento de este pensador 
+católico fue determinante en gran parte de la política y del derecho en siglos venideros5. San Agustín 
+no solo defendió al cristianismo de la acusación de que era responsable de la caída del imperio, sino 
+que edificó toda una estructura que permitía sostener que solamente un Estado con filiación cristiana 
+podía ser bueno en la medida en que solo Dios (el dios católico) podía ser justo. La verdadera justicia 
+reside en Dios y, por lo tanto, ningún Estado que no fuera católico podría ser justo.
+Del mismo modo, Agustín de Hipona sostendrá que existen dos ciudades, en las cuales habitan las 
+dos partes del hombre: su cuerpo —en la ciudad terrenal donde vive— y su espíritu —en la ciudad 
+de Dios—. Esa idea de que todos los hombres de una u otra manera habitan la ciudad de Dios, 
+obligaría a que deban tender a ser mejores habitantes de esa ciudad, pues es a esa ciudad de Dios a 
+la que se llegaría si se es justo. Frente todas estas premisas surgen varias consecuencias inevitables: 
+1) toda persona —incluyendo emperadores— responde a Dios desde la perspectiva espiritual y, por 
+lo tanto, responde ante los representantes de Dios en La Tierra; y 2) todo concepto de justicia debe 
+estar alineado con la verdadera justicia, que reside en Dios. Para efectos de lo que interesa en este 
+Escenario, es decir, la filosofía del derecho, con San Agustín todo ordenamiento jurídico que pretenda 
+ser reconocido como justo debe ser un ordenamiento que reconozca estas verdades.
+5 Para una revisión de cómo la Iglesia católica se consolidó como un poder político determinante en la Edad Media, ver Sabine (1998, pp. 153-168).
+
+POLITÉCNICO GRANCOLOMBIANO888La ciudad de Dios  fue escrita entre 412 y 426 d. C. Cabe recordar que Roma había sido invadida en el 
+410 d. C., y habría finalmente de caer más adelante en 476 d. C., es decir cincuenta años después de 
+haber finalizado el libro de Agustín de Hipona. Por lo tanto, esa idea de los gobiernos verdaderamente 
+justos y del sometimiento de la comunidad cristiana a Dios en los aspectos espirituales habrá de 
+definir el gran tema político de la Edad Media: la disputa entre el poder secular y el poder espiritual. 
+A lo largo de los siglos, la gran discusión versaba sobre si alguno de los dos poderes estaba por encima 
+del otro y cuáles eran sus límites. Si bien en un inicio parecía existir una clara división, durante mucho 
+tiempo el papa adquirió gran poder terrenal a partir de la amenaza de la figura de la excomunión, lo 
+que implicaba que el gobernante excomulgado no encontraría la salvación. Esto, sin embargo, fue 
+puesto a prueba por Felipe el Hermoso en Francia y por Enrique VIII en Inglaterra, quienes lograron 
+desafiar exitosamente la autoridad papal.
+En medio de estas discusiones -que como se ha dicho dominaron gran parte de la Edad Media- en 
+el siglo XIII surge un cambio importante con el redescubrimiento de Aristóteles en manos de los 
+grandes pensadores católicos. Para ese entonces ya se venían fundando las primeras universidades y 
+también los monasterios y abadías, que tenían casi que un monopolio sobre la educación, en la medida 
+en que podían decidir qué era permitido y qué era prohibido leer y enseñar. Sin embargo, serán 
+determinantes para la filosofía del derecho los aportes de otro doctor de la Iglesia católica, Tomás de 
+Aquino (o Santo Tomás de Aquino, de acuerdo con los católicos). Este pensador, cuya máxima obra, 
+titulada la Suma teológica , fue escrita a mediados del siglo XIII d. C. (específicamente entre 1265 y 
+1274), es especialmente importante por las cuestiones que aborda en su obra.
+Tomás de Aquino entrelaza dos aspectos históricos cruciales para su época. En primer lugar, ya los 
+grandes pensadores cristianos de la época venían poniendo en práctica la escolástica, que era un modelo 
+de pensamiento que buscaba conciliar la fe con la razón. La lógica que seguía el método escolástico es 
+que, si la fe provenía de Dios, y la razón también, no podía existir una contradicción entre las dos, por 
+lo que podían conciliarse. Esta forma de pensar, en consecuencia, no buscaba limitar el desarrollo de 
+conocimiento a las verdades de fe, sino que igualmente estimulaba el uso de la razón.
+En segundo lugar, el filósofo de origen musulmán Averroes, quien vivió en el siglo XII, había rescatado 
+mucha de la obra de Aristóteles y la había comentado. Curiosamente, entonces, la obra de Aristóteles 
+llegó nuevamente a occidente a través de un filósofo de oriente, de una religión rival del catolicismo. 
+Por esa razón, Aristóteles fue inicialmente uno de los autores prohibidos por la Iglesia católica, 
+hasta que fue rescatado por Tomás de Aquino, quien basó muchas de sus ideas en los conceptos 
+Aristotélicos. De Santo Tomás se logran extraer varios puntos de la mayor importancia, tanto a nivel 
+de justicia, de ley y de moralidad.
+
+POLITÉCNICO GRANCOLOMBIANO999En primera medida, Tomás de Aquino seguirá, como lo sostiene Ruiz Rodríguez (2016, p. 19), una 
+idea de justicia de doble vía: como virtud y como cualidad del orden social. Como virtud, entenderá la 
+justicia en los mismos términos en que lo hiciera el jurisconsulto romano Ulpiano, mientras que, como 
+cualidad del orden social, la justicia implicaría que haya correspondencia entre el orden normativo 
+positivo y el derecho natural. A su vez, el ideario tomasino implicaba el reconocimiento de cuatro 
+tipos de leyes o niveles de leyes: la ley eterna, la ley natural, la ley divina y la ley humana. 
+La ley eterna es la que traza el plan eterno de Dios y no le es dado su conocimiento al hombre. La ley 
+natural es una derivación de aquella y puede llegar a ser conocida por el hombre a través de la razón. 
+La ley divina es aquella que le es dada a los hombres directamente de Dios a través de la revelación, 
+como ocurrió con los mandamientos dados a Moisés. La ley humana será la ley dictada por los 
+hombres. Siguiendo la línea de pensamiento de este filósofo, la ley humana será un elemento vital 
+en su exposición, por lo que al existir una concepción de justicia como orden social que implica una 
+observancia del derecho natural, es claro que el derecho en Santo Tomás tiene una carga moral y no 
+es independiente de ella, una moral dictada por Dios (el dios católico).
+La filosofía de Tomás de Aquino será determinante en muchos aspectos en siglos venideros, 
+especialmente en materia jurídica, por el tipo de conceptos que maneja, y que serán centrales en la 
+filosofía del derecho de siglos posteriores.
+En síntesis...
+En medio de la época denominada Edad Media ocurren una serie de cambios 
+estructurales en el entendimiento del derecho. El auge de la Iglesia católica habrá 
+de monopolizar gran parte del poder terrenal (secular) a partir de nociones de 
+pecado y salvación, que deberían ir acordes con la religión católica, dominante en 
+ese tiempo. Gran parte del desarrollo jurídico de la época se da en este contexto.
+
+POLITÉCNICO GRANCOLOMBIANO1010104. La filosofía y el derecho en la Edad Moderna
+Como se indicó en escenarios anteriores, la Edad Moderna implicó una conjunción de situaciones que 
+generaron un verdadero cambio en la historia. La existencia de un nuevo continente, el colonialismo, 
+la llegada de la imprenta y la potenciación de las ciencias y las artes, hicieron que este nuevo periodo 
+en la historia de la humanidad estuviera enfocado en volcar la visión de la humanidad en sí misma. Si 
+en la Edad Media el occidente se debatió entre Dios y los monarcas, el Renacimiento se volcó en el 
+hombre, su expresión, su intelecto y su cultura.
+Desde el punto de vista político y jurídico, la consolidación del concepto de Estado y de soberanía 
+serán los elementos distintivos de la época. Desde el punto de vista del derecho, vendrá con Althusius 
+y con Grocio una reformación del iusnaturalismo, en el sentido de prescindir de cualquier noción u 
+origen divino del derecho natural. Finalmente, en esta Edad Moderna se hará un giro importante en 
+materia de la práctica punitiva, a través del surgimiento de una visión garantista del derecho penal, 
+con un tránsito hacia la prisión como pena principal.
+En cuanto a la reformulación de derecho natural, se debe inicialmente atribuir a Johannes Althusius 
+el intento por secularizar el derecho natural. Sin embargo, tal y como lo sostiene Sabine (1998, 
+pp. 325-336) fue con Hugo Grocio, neerlandés, que se logró consolidar este moderno derecho 
+natural. La intención principal de Grocio, cuando teorizó sobre este particular, era brindar una 
+explicación suficientemente argumentada acerca de los postulados principales en materia de derecho 
+internacional público, pues hasta ese momento las relaciones entre los Estados (noción que venía 
+desarrollándose conceptualmente como un nuevo Estado-nación) venían mediadas principalmente 
+por la fuerza y no por el derecho. En consecuencia, la teorización de Grocio acerca del derecho 
+natural no solo tenía aplicación a nivel de los Estados individualmente considerados, sino también 
+en el ámbito internacional. Se dirá, entonces, que con Grocio surge un nuevo derecho internacional 
+con sujetos de derecho internacional, lo que hoy se denomina derecho internacional público en la 
+categorización actual de disciplinas jurídicas.
+Con Grocio, el vínculo que da origen a las distintas formas de comunidades, locales, nacionales 
+o internacionales, es un acuerdo de voluntades para adherirse a ellas. Este pacto o contrato que 
+existe entre ellas será un elemento crucial no solo para justificar su teoría, sino la de los tres grandes 
+filósofos contractualistas: Hobbes, Locke, Rousseau.
+
+POLITÉCNICO GRANCOLOMBIANO111111Hobbes, filósofo en todo el sentido de la palabra6, construyó un modelo político similar a como funciona 
+un cuerpo humano, en donde existen distintos miembros y órganos, pero en donde evidentemente 
+debe haber una cabeza que gobierne a ese cuerpo. ¿Por qué sería necesario hacer eso? Para Hobbes, 
+la necesidad de organizarse social y políticamente buscaba superar el estado de naturaleza -término 
+que va a ser empleado por los tres filósofos contractualistas, aunque con distinto significado- en donde 
+el hombre termina siendo un lobo para el hombre, es decir, en donde permanentemente vivirá en un 
+estado de guerra y conflicto si no celebra el contrato. En Hobbes, el gobernante elegido podrá tomar 
+la decisión que estime conveniente sin que nada ni nadie pueda controlarlo, pues su único compromiso 
+ineludible es mantener la paz entre sus súbditos, pudiendo incluso tomar la vida de alguno o algunos de 
+ellos si fuese necesario.
+Locke (también otro filósofo en todo el sentido de la palabra) se preocupó por brindar su visión acerca 
+de la creación del Estado a partir de un contrato social. En Locke existe una diferencia en cuanto al 
+punto de partida que lleva al contrato social. De acuerdo con su visión, los hombres siempre se han 
+tenido a sí mismos, así como el fruto de su labor, es decir, la propiedad. Adicionalmente, contrario a lo 
+que sostiene Hobbes, el estado de naturaleza no es aquel en el que se está en permanente conflicto 
+unos con otros, sino un escenario en donde los individuos viven tranquilamente y adquieren cosas a 
+través de la institución de la propiedad. Esto es especialmente importante, puesto que la propiedad 
+vendría a ser anterior al contrato social y, por lo tanto, no podría llegar a ser desconocida por las 
+instituciones creadas. Esto, por supuesto, riñe con lo expuesto por Hobbes, en la medida en que en 
+Hobbes no existe un derecho anterior al derecho instituido, distinto a la necesidad de protegerse 
+frente a los demás. Por ello, el contrato en Locke será una institución mucho más liberal, en la medida 
+en que el Estado —y por ende los gobernantes— han de surgir para garantizar ese estado de cosas; 
+una visión muy propia de las doctrinas liberales posteriores. Esta visión hará que en Locke haya ciertas 
+justificaciones para el tiranicidio cuando el gobernante transgrede ese pacto fundamental.
+Mientras que Hobbes y Locke eran de origen inglés, Rousseau era ginebrino de nacimiento. Además 
+de la diferencia de contexto político, cultural y social, Rousseau vivió en plena época de la Ilustración 
+y el enciclopedismo. Por tanto, además de discutir con sus antecesores, debía tener en cuenta la 
+importante explosión de conocimiento y cultura que se venía dando en Europa, particularmente en 
+Francia. Para su época, ya Montesquieu había publicado El espíritu de las leyes, en donde defendía 
+la tridivisión de poderes -idea que se ha conservado en occidente desde entonces- y por tanto tenía 
+varios insumos frente a los cuales teorizar. 
+6 La expresión que aquí se acuña tiene como objetivo mostrar que estos pensadores se dedicaban a la labor de filosofar y no eran profesionales en 
+otros campos que de manera incidental llegaron a filosofar. Las obras de estos filósofos son amplias y abarcan distintas temáticas aparte de la filosofía 
+política, que es la que aquí se aborda.
+
+POLITÉCNICO GRANCOLOMBIANO121212En su obra política más relevante,  El contrato social , Rousseau desarrolla su idea de la constitución 
+del Estado. Su visión del estado de naturaleza parecería como un punto relativamente medio entre la 
+visión negativa de Hobbes y la optimista de Locke. 
+Para Rousseau, el estado de naturaleza debería entenderse a partir de un tránsito del individuo a la 
+sociedad. Es famosa su idea de que “el hombre nace bueno y la sociedad lo corrompe”, extraída de 
+su obra  Emilio o De la educación , lo que lleva a pensar que esa tendencia a empeorar haría necesario 
+contar con el contrato social. Más allá del desarrollo pormenorizado de su teoría, de él se destaca la 
+exposición de un concepto que lo ha de sobrevivir: la voluntad general. Si bien algunos autores como 
+Sabine (1998, pp. 439-454), al analizar la obra de Rousseau, sostienen que hay paradojas y vacíos 
+en su obra, lo cierto es que con Rousseau se puede observar un giró del contractualismo mucho más 
+afín al modelo democrático, atendiendo a que la voluntad general es la que debe ser obedecida por 
+los gobernantes y esa voluntad general no puede entenderse como una simple suma de voluntades 
+individuales, sino la de los miembros de la sociedad con la verdad.
+Es importante anotar que, de la mano de estos ideales eminentemente políticos, la Ilustración mostró 
+una tendencia claramente llamada a sistematizar el conocimiento y a construir narrativas universales, 
+por lo que la filosofía del derecho que ha de surgir a partir de allí tiene la pretensión de ser general, 
+abstracta y sistematizadora, algo que se verá con mucha mayor claridad en el idealismo alemán de 
+Kant y Hegel.
+Conviene, sin embargo, señalar que durante esta época se presentó un cambio en la manera en que 
+se teorizaba el derecho penal, a partir de la obra De los delitos y las penas  de Cesare Beccaria. Para 
+este autor y muchos de sus sucesores, el poder punitivo del Estado se venía ejerciendo de manera 
+arbitraria, lo que inició un movimiento que hoy en día se denomina garantismo penal, según el cual el 
+derecho penal no podría ser ejercido de manera arbitraria. En su obra, Beccaria habría de enfocarse 
+en las garantías propias del acusado, a partir de la noción de lo que hoy se conoce como el ius puniendi , 
+es decir, la facultad que tiene el Estado para sancionar delitos; se dirá con Beccaria, por ejemplo, que 
+la ley penal debe ser anterior a la comisión del presunto delito. Igualmente, señalará los requisitos que 
+debe cumplir esa ley. Uno de ellos, por ejemplo, corresponde a la necesidad de que esa ley sea escrita.
+En ese mismo sentido, el utilitarista Jeremy Bentham habrá de desarrollar una teoría sobre la vigilancia 
+de los reos, introduciendo la idea del panóptico como mecanismo de vigilancia que serviría para 
+prevenir que los reos cometieran delitos. Un buen desarrollo, entonces, de ese cambio de las penas 
+corporales por la prisión, es desarrollada por Michel Foucault en Vigilar y castigar . 
+
+POLITÉCNICO GRANCOLOMBIANO131313Cómo mejorar...
+A pesar de que ni el derecho, ni la filosofía del derecho, son los principales 
+protagonistas de esta época, los enunciados científicos que se plantean en 
+la modernidad con miras a descubrir la verdad, serán determinantes para el 
+desarrollo posterior de esta ciencia. Para efectos de conocer en mejor medida 
+la manera en que pensaban en aquella época, es conveniente remontarse al 
+método cartesiano, para entender las limitantes propias de cada disciplina 
+a partir de la razón. Si bien muchos pensadores posteriores se alejarán de 
+Descartes y su método, este se convierte en un referente importante para 
+entender los desarrollos de las ciencias.
+
+POLITÉCNICO GRANCOLOMBIANO141414Referencias
+Aristóteles. (1990). Retórica . Gredos.
+Cicerón. (1997).  La invención retórica . Gredos.
+Demandt, A. (2000).  Sócrates ante el tribunal popular de Atenas. En Alexander Demandt (ed.), Los 
+grandes procesos de la historia , 9-26. Editorial Crítica.
+García  Máynez , E. (2007). Filosofía del derecho.  Editorial Porr úa.
+Hegel, G. W. F. (1975).  Filosofía del derecho . Universidad Nacional Autónoma de México.
+Petit, E. (1892). Tratado elemental de derecho romano. Editorial Porrúa.
+Ruiz Rodríguez, V. (2016). Santo Tomás de Aquino en la filosofía del derecho. En-claves del 
+pensamiento: Revista de Filosofía, Arte, Literatura, Historia, (19) , 13-40. https://doi.org/10.46530/
+ecdp.v0i19.223
+Sabine, G. H. (1998). Historia de la teoría política.  Fondo de Cultura Económica.
+
+POLITÉCNICO GRANCOLOMBIANO151515
+INFORMACIÓN TÉCNICA
+Módulo:  Fundamentación Jurídica
+Unidad 3:  La filosofía del derecho
+Escenario 5:  Filosofía del derecho I: de la antigüedad a la 
+Edad Moderna
+Autor:  Javier Darío Pabón Reverend
+Asesora Pedagógica:  Ingrid Gissell Ospina Posada
+Diseñador Gráfico: Andrés Felipe Figueroa Huertas
+Este material pertenece al Politécnico Grancolombiano.
+Prohibida su reproducción total o parcial.
+
+

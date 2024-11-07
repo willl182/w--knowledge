@@ -1,0 +1,605 @@
+Palabras clave : Código de Hammurabi, derecho romano, cristianismo, feudalismo, modernidad.Contenido
+1
+2
+3
+4
+5Introducción
+El derecho en la antigüedad
+El derecho romano
+Edad Media: glosadores, derecho comercial e influencia de las doctrinas cristianas en el 
+derecho
+El derecho en la modernidad: conquista de América, época colonial y origen del 
+constitucionalismo 
+El origen de nuestro derecho: 
+de la Edad Antigua a la Edad Moderna
+Unidad 1 / Escenario 1
+Lectura fundamental
+
+
+POLITÉCNICO GRANCOLOMBIANO2221. Introducción 
+Uno de los errores más comunes que se presentan en cualquier campo del saber, es asumir que el 
+estado actual de cosas siempre ha sido así, y que, por tanto, las nociones que se encuentran vigentes 
+son inmutables, o que siempre se han entendido de esa manera a lo largo de la historia. Por ello, 
+un adecuado entendimiento del derecho parte de comprender la manera en la que los conceptos 
+jurídicos actuales han llegado hasta nosotros. Por ello, repasar la construcción de estas nociones 
+del derecho a partir de un repaso de los hechos históricos más determinantes, es indispensable para 
+poder cimentar las bases del conocimiento jurídico.
+2. El derecho en la antigüedad
+La historiografía muestra que no existe una única manera de leer la historia universal. Por ello, existen 
+distintas maneras de entender y clasificar los momentos históricos. Una de las visiones tradicionales, 
+suele ser aquella que se construye a partir de los hitos históricos con incidencia en Europa. Tiene 
+sentido adoptar esa forma de lectura, bajo el entendido de que la construcción de la historia de 
+América, a partir del siglo XV, ha sido influenciada de manera decisiva por Europa, y, por lo tanto, lo 
+que llegó a ser relevante para el derecho europeo, se constituyó en relevante para la construcción del 
+derecho en América.
+Bajo ese entendido, la manera tradicional de leer la historia bajo una perspectiva europea, suele 
+dividir la historia de la humanidad en cuatro grandes edades: la Edad Antigua (desde la invención de 
+la escritura a la caída del Imperio romano de Occidente), la Edad Media (desde la caída del Imperio 
+romano de Occidente hasta la llegada a América por parte de Cristóbal Colón), la Edad Moderna 
+(desde la llegada de Colón a América hasta la Revolución francesa), y la Edad Contemporánea 
+desde la Revolución Francesa hasta nuestros días (Gamboa M, 2014). La primera de ellas es la más 
+prolongada en el tiempo, dado que la tecnología en ese momento era supremamente primitiva, y, 
+por lo tanto, los desarrollos tecnológicos, los sistemas de comunicación y en general los desarrollos 
+científicos, tardaban muchos años en producirse.
+El mundo conocido en ese momento por los europeos involucraba lo que hoy conocemos como los 
+continentes de Asia, África y Europa. De tal suerte que las referencias históricas más importantes que 
+se poseen de aquella época corresponden a las civilizaciones establecidas en Europa, las del cercano 
+oriente y las del norte de África, que constantemente entraban en colisión. 
+
+POLITÉCNICO GRANCOLOMBIANO333Sin embargo, las civilizaciones del lejano oriente —un término que parte de la posición geográfica 
+oriental— fueron igualmente poderosas y relevantes. Entre estas distintas culturas, quizá las que 
+más han logrado trascender el tiempo han sido China, Egipto, Grecia y Roma. Sin embargo, debido 
+al devenir histórico y político, quizá las civilizaciones más relevantes para las culturas jurídicas 
+occidentales son las de Grecia y Roma.
+En todo caso, es menester resaltar que el desarrollo del mundo jurídico occidental viene de la mano 
+de la escritura, como forma de preservación y transmisión del conocimiento por excelencia. Por 
+ello, un recorrido jurídico obliga a revisar las civilizaciones mesopotámicas, tales como la sumeria y 
+la babilonia, que fueron las primeras (de las que se tiene conocimiento) en usar la escritura como 
+forma de plasmar normas jurídicas. De ello dan cuenta los códigos de Ur-Nammu, y de Lipit-Ishtar, 
+nombrados ambos por los líderes en cuya vigencia se elaboraron. En ambos casos, estos códigos 
+—que no tienen ningún tipo de semejanza formal con la noción contemporánea de los códigos— 
+constituyen los primeros ejemplos de leyes escritas. De ellos conviene rescatar la idea de justicia que 
+encierra un criterio orientador del derecho, y que así mismo incluye una primera noción del concepto 
+actual de indemnización de perjuicios, como consecuencia de los daños causados.
+Quizá, de estos primeros códigos el más conocido de todos es el Código de Hammurabi, escrito 
+aproximadamente en el año 1750 a. C. Dicho código ha sido referenciado por otras culturas jurídicas, 
+y se ha conservado hasta nuestros días. Se encuentra grabado en una piedra, y actualmente reposa 
+en el Museo de Louvre, en la ciudad de París. En este código se consagra un texto que muestra que 
+el derecho babilónico se entendía como transmitido por los dioses a los gobernantes y tenía como 
+finalidad procurar la justicia en los dominios del rey (Toro Icaza, 2003, p. 247). Sin embargo, lo que 
+principalmente ha trascendido de este código, es la consagración de un estilo de justicia retributiva, 
+a partir de la consigna de que el mal recibido se debe castigar con un daño igual. Esta consigna ha 
+sido recogida modernamente bajo el concepto de la Ley del talión que es enunciada de la siguiente 
+manera: ojo por ojo, diente por diente. La designación a esta forma de justicia retributiva obedece 
+al concepto romano de esta modalidad de castigo (en latín talio, talionis )1. La enunciación de ojo por 
+ojo, diente por diente, deriva de que el Código de Hammurabi consagra expresamente dos leyes 
+concretas en las que se prevén ambos castigos, aunque de manera separada. Esa enunciación es 
+utilizada en los libros bíblicos del Éxodo, Levítico y Deuteronomio, que forman a su vez parte de la 
+Torá judía. Así mismo, el evangelio de Mateo atribuye una referencia expresa a esa norma en una de 
+las predicaciones de Jesús2.
+1 Esto se encuentra consignado en las XII Tablas, específicamente en la Tabla VIII.
+2 Cfr. Éxodo 21:24, Levítico 24:19-20, Deuteronomio 19:21, y Evangelio de Mateo 5:38.
+
+POLITÉCNICO GRANCOLOMBIANO444Obsérvese entonces de qué manera la referencia babilónica llega a nuestros días por lo menos por 
+dos vías distintas: la Biblia y el derecho romano. Esto es importante porque permite ver que ya desde 
+la época de los sumerios y los babilonios, era claro que el derecho tenía un componente de regulación 
+de las normas de interrelación de los súbditos del rey, así como una serie de normas destinadas a 
+castigar delitos; lo que hoy entenderíamos como el derecho civil y el derecho penal. Sin embargo, 
+para hallar una explicación mucho más moderna de estas nociones, será necesario llegar a las 
+concepciones modernas de la ciencia.
+Si a la cultura sumeria y babilónica debemos en gran medida el surgimiento del derecho escrito como 
+forma práctica de resolución de conflictos, así como la referencia expresa al valor de la justicia, es a 
+los griegos antiguos a los que debemos gran parte de la fundamentación filosófica del derecho. En 
+efecto, es a través de la filosofía griega que se inicia un ejercicio racional sistemático de pensar en lo 
+justo. Por ello, en la actualidad se hace referencia a la filosofía griega como la filosofía clásica. De las 
+distintas discusiones sobre lo justo, hoy permean en nuestro medio las de Platón y las de Aristóteles. 
+En el primer caso, La República  es un texto de estudio obligado puesto que enfrenta al lector al 
+cuestionamiento sobre lo justo y lo injusto. Allí, a través del conocido método dialéctico3 por el que se 
+reconoce a Platón, se logra mostrar cómo la justicia es un valor moral al que se debe aspirar cuando 
+se gobierna y, por lo tanto, debe ser un tema central del derecho, como forma de organización social4. 
+En el caso de Aristóteles, es en su Ética nicomáquea  donde desarrollan con mayor detalle las formas 
+de justicia: la justicia distributiva y la justicia correctiva5. La justicia distributiva buscaba incorporar lo 
+que hoy en día se denomina equidad, siendo este un criterio que permite corregir desigualdades. En 
+consecuencia, es posible dar más al que tiene menos y dar menos a quien tiene más, siendo esta una 
+distribución (de allí su nombre) más justa. La justicia correctiva busca corregir desigualdades que no 
+se originan necesariamente en una mala distribución y busca garantizar un acceso en condiciones 
+similares a derechos, bienes u otros. En todo caso, es de resaltar que aún en la actualidad, los distintos 
+desarrollos de justicia en Aristóteles son objeto de interpretaciones por parte de los expertos.
+De la mano con estas nociones de justicia, también en Grecia6 aparecía un importante debate 
+en torno a las formas de gobierno que podían tener los distintos pueblos, siendo particularmente 
+relevante la discusión entre los distintos tipos de gobierno, sus ventajas y sus desventajas.
+3 El método dialéctico platónico se centra en una contraposición de ideas aparentemente contrapuestas. El cuestionamiento mutuo de las posturas 
+discutidas genera un avance argumentativo que al final de los textos suele verse resuelto en una postura aceptada por quienes participan en el debate.
+4 Todo el libro La República , el más famoso de Platón, gira en torno de la noción de justicia. Adicionalmente, es relevante el diálogo titulado Gorgias . 
+Para mayor ilustración sobre el tema, ver Olivari (2008).
+5 El libro V de la Ética Nicomáquea  desarrolla ampliamente el concepto de justicia.
+6 Como se ha indicado atrás, a Grecia se le debe un gran legado, que abarca la institución de formas de juzgamiento público y el desarrollo primigenio 
+de lo que sería un derecho mercantil, aunque fundado en las prácticas comerciales de la antigüedad. En este punto, los fenicios eran unos de los más 
+grandes pueblos comerciantes y se interrelacionaban con muchas otras civilizaciones. No obstante, frente a lo que interesa aquí, es de destacar el 
+avance en la regulación de comercio marítimo con instrumentos como la Ley de Rodas, o lex rhodia  (en latín).
+
+POLITÉCNICO GRANCOLOMBIANO555Esto vendrá a ser relevante, dado que la ciudad-Estado de Atenas se destacó entre las demás 
+especialmente por su cultura y, por lo tanto, su modelo de democracia vino a repercutir en la historia 
+política de siglos posteriores. A su vez, esa elección sobre la manera en que se administra el poder 
+político y público será históricamente una de las preocupaciones más relevantes, y dará origen 
+muchos siglos después a discusiones en torno de la manera en la que se debe ejercer y limitar el 
+poder público. Esta discusión es el origen de las ramas jurídicas del derecho constitucional y derecho 
+administrativo. El concepto actual de ciudadano, por ejemplo, puede rastrearse en sus orígenes a este 
+sistema de gobierno ateniense, en el cual la ciudadanía no era únicamente generadora de derechos 
+sino de deberes, y de allí el origen de esa distinción —que ha resistido el paso del tiempo— entre lo 
+público y lo privado.
+Conviene mencionar, por último, que si bien desde la perspectiva de la narrativa griega los persas 
+eran bárbaros7, pues no estaban a la altura de su cultura, lo cierto es que esta última civilización no era 
+carente de cultura, instituciones políticas desarrolladas y tecnología. Ocurre, sin embargo, que dada la 
+herencia cultural e histórica que llegó a Suramérica, la herencia persa no llegó a ser tan fuerte como lo 
+pudo ser la grecorromana, razón por la cual se puede aún tener una visión minimizada de la relevancia 
+de los persas en el escenario histórico global.
+¿Sabía que...?
+De Atenas surgen las primeras nociones de democracia, bajo el entendido 
+que se trata del gobierno ( kratos ) del pueblo ( demos ). Más allá del aporte 
+que brindaron con sus instituciones jurídicas, las nociones de lo público y 
+de lo privado, así como la organización política desarrollada en la ciudad 
+para la toma de decisiones, el legado ateniense será fundamental para 
+los posteriores desarrollos de las democracias modernas, ante la crisis del 
+absolutismo monárquico. El ágora como escenario de deliberación pública, 
+por ejemplo, es un antecedente directo de las nociones modernas del 
+parlamento.
+7 Como ocurre con una gran porción de la historia de la humanidad, la confrontación de grandes potencias determinó la política, el derecho 
+y la cultura de toda una época. En la época del auge griego, los persas eran su contraparte proveniente de oriente. Si bien la civilización persa 
+era expansionista y belicosa, tenía un importante desarrollo científico y cultural. Sin embargo, la mayoría de las fuentes griegas mostrarán la 
+confrontación de griegos y persas como una civilización de griegos (cultos y civilizados) frente a los persas, a los que se les denomina bárbaros, 
+básicamente como una forma peyorativa de referirse a su cultura, y la de todos los no griegos. Al momento de afrontar textos literarios y políticos de 
+la época, es importante ser conscientes de esta visión griega de las demás civilizaciones, especialmente la persa.
+
+POLITÉCNICO GRANCOLOMBIANO6663. El derecho romano
+Si a Grecia se le debe atribuir en gran medida el origen de muchos de los conceptos filosóficos del 
+derecho, al derecho romano se le debe atribuir gran parte del desarrollo de las instituciones jurídicas. 
+Las instituciones, como lo entendieron los romanos, son aquellos pilares sobre los que fundamenta el 
+desarrollo de la disciplina jurídica. En el caso de los romanos, ellos tenían la capacidad de desarrollar 
+formidables estrategias militares, pero a la vez, adaptarse rápidamente a los distintos pueblos que 
+iban incorporando a su imperio. Sin embargo, al hacer referencia a una potencia que perduró durante 
+tantos siglos, no bastaba únicamente tener el poderío militar. Por eso, el derecho romano es visto 
+como uno de los pilares de la estabilidad del pueblo romano.
+No obstante, las instituciones jurídicas más conocidas, aquellas que lograron trascender a la vigencia 
+misma del imperio, son precisamente aquellas desarrolladas por el emperador Justiniano en el Imperio 
+romano de Oriente, siglos después de la caída del Imperio romano de Occidente. A continuación, 
+entonces, es conveniente revisar algunos de los distintos avances que fueron dándose en el tiempo8.
+3.1. Derecho romano primitivo arcaico
+• La civilización romana se encuentra gobernada por la clase dominante de los patricios9, y en 
+general el derecho público y privado girará en torno de ellos.
+• La obra jurídica principal de esta época será Las Doce Tablas, que busca brindar certeza 
+jurídica a los habitantes del reino romano.
+• El derecho civil inicia un tránsito de la tradición oral hacia el derecho escrito.
+8 La presente enunciación corresponde a una visión muy esquemática y sencilla de organizar hechos que tardaron muchos años en consolidarse. Para 
+mayor profundidad acerca de estos periodos, ver Petit (1892, pp. 28-74) y López Guardiola (2012, pp. 65-100), por ejemplo
+9 Téngase en cuenta que la división social en la antigüedad era muy marcada, y la cantidad de privilegios y derechos que se ostentaban dependían 
+de la clase social a la que se perteneciera. Los patricios eran la clase social más alta, y, por tanto, eran los llamados a participar de las decisiones de 
+gobierno. Por esta misma causa, eran una clase social acaudalada.
+
+POLITÉCNICO GRANCOLOMBIANO7773.2. Derecho romano clásico
+• Las nociones de derecho sustancial y derecho procesal se empiezan a decantar. Tan importante 
+será el conocimiento de los derechos que se tienen, como la manera concreta de hacerlos valer. 
+El formalismo jurídico y la complejidad de los sistemas caracterizan esta época.
+• El periodo de expansión inicial de Roma entra en vigor en este momento histórico. El 
+derecho adquiere una preponderancia para el orden social. En consecuencia, el derecho civil 
+de personas, de familia y de bienes se desarrolla ampliamente durante este periodo, así como 
+las instituciones principales que llegarán hasta el derecho moderno.
+• Surge una nueva clase de personas dedicadas al conocimiento, enseñanza, difusión y práctica 
+del derecho. Se trata de los juristas, un oficio de alto honor y que no era de fácil acceso para 
+la población.
+3.3. Derecho romano postclásico
+• El derecho romano es el referente del mundo conocido. En un claro modelo imperial y 
+de expansión, surge la noción de garantizar el orden en los territorios conquistados por 
+Roma. El derecho civil, de los ciudadanos, y el derecho de gentes ( ius gentium )10 empieza a 
+desarrollarse.
+• Los emperadores, en aras de unificar su imperio, deciden iniciar procesos de compendio y de 
+codificación del derecho romano para garantizar seguridad jurídica y, por lo tanto, el orden en 
+el imperio.
+• Muchas de las tribus bárbaras europeas empiezan a consolidar la aplicación del derecho 
+romano.
+• La Iglesia católica empieza a adquirir un rol relevante en la política europea, y empieza a 
+desarrollar instituciones jurídicas, de la mano del derecho romano.
+10 El derecho de gentes o ius gentium  se oponía al derecho civil propio de los ciudadanos. Esto se entiende con mayor claridad si se tiene en cuenta 
+que la cantidad de personas que ostentaban la categoría de ciudadanos era muy reducida, y no incluía a extranjeros, ni a mujeres (por ejemplo). En 
+consecuencia, ante un poder político tan grande, no era únicamente relevante el derecho de los ciudadanos, sino también el de los no-ciudadanos.
+
+POLITÉCNICO GRANCOLOMBIANO8883.4. Derecho romano justinianeo
+• El Imperio romano de Occidente es incapaz de resistir las invasiones bárbaras11 y, por lo tanto, 
+Roma deja de ser el centro del imperio. Los romanos serán los establecidos en el Imperio 
+romano de Occidente.
+• El derecho romano vigente y aplicable es codificado en tres obras que componen el Corpus 
+iuris ivile , y que será lo que llegará a la Edad Media como testimonio del derecho romano.
+El derecho romano ha trascendido hasta nuestros días principalmente por sus aportes en materia de 
+derecho civil. Cabe resaltar que esto no es un aporte menor, dado que, durante mucho tiempo, las 
+disciplinas jurídicas básicamente se dividían en dos: derecho civil y derecho penal. Si bien es cierto 
+que el derecho romano desarrolló normas que involucraban ámbitos adicionales, fue principalmente 
+en el campo del derecho civil en el que se lograron desarrollar las más importantes instituciones. 
+El desarrollo de la institución de la familia, el de persona, el de capacidad jurídica, el de contrato, 
+el de la propiedad y el de la posesión, el de perjuicio, el de acción, así como la sucesión, son todas 
+instituciones que tuvieron su principal desarrollo en el derecho romano.
+Visto en retrospectiva, parece ser un tema menor, dado que el mundo globalizado de la actualidad 
+cuenta con un sinnúmero de disciplinas, de fuentes jurídicas y de instituciones. Adicionalmente, el 
+concepto de constitución, como carta fundamental en materia política y jurídica, se encuentra bien 
+arraigado. Sin embargo, en la época romana, estas instituciones jurídicas eran las encargadas de 
+desarrollar no solo la vida personal de los individuos, sino la organización del Estado. A diferencia de lo 
+que ocurre en la actualidad, la organización social se encontraba bastante dividida y jerarquizada, por 
+lo que la figura del pater familias era fundamental en el desarrollo y manejo del hogar, y era similar a la 
+figura del gobernante en Roma. 
+A través de la adecuada regulación del pater familias12, Roma mantenía el orden, porque el manejo de 
+la vida privada en el hogar estaba delegado en la figura del pater familias, quien era virtualmente el 
+dueño de su esposa, de sus hijos y de sus esclavos, al igual que de todos los bienes que a ellos se les 
+asignara (Petit, 1892). 
+11 Así como los griegos se referían a todos los no griegos como “bárbaros”, el concepto se asimiló de manera similar por los romanos. Al referirse a los 
+bárbaros, no se refiere específicamente a una etnia, sino al concepto de no romanos. En general, las poblaciones de origen germánico fueron las que 
+militarmente originaron mayor problema para la estabilidad de Roma.
+12 Debe tenerse en cuenta que la institución de la familia no era primordialmente una forma de organización íntima y privada, sino una manera de 
+ejercer un control político y administrativo frente a los súbditos de Roma. En esencia, la familia era una forma de organización política más pequeña 
+que la república, pero que seguía una lógica similar. Por lo tanto, la adecuada regulación de la familia a través de la cabeza (el pater familias ), era 
+igualmente una forma de control por parte de la república frente a la vida privada de los romanos
+
+POLITÉCNICO GRANCOLOMBIANO999La institución de la esclavitud, hoy revaluada en Colombia y en la mayoría del mundo, estuvo 
+jurídicamente desarrollada, y era una fuente de productividad económica en Roma. De tal suerte, 
+figuras como el contubernio (matrimonio entre esclavos) y la manumisión (liberación de un esclavo) 
+tenían específica regulación en el derecho romano.
+Desde el punto de vista de la organización política, a Roma debemos la institución del senado, 
+instancia que ha perdurado hasta nuestros días, aunque con cambios en su estructura y 
+funcionamiento. Asimismo, el concepto de república (derivado del latín res publica  o cosa pública) se 
+rastrea a Roma. Se suelen manejar tres momentos de la historia de Roma: la monarquía (desde su 
+fundación, cerca del 753 a.C. hasta el 510 a.C.), la república (desde el 510 a.C. hasta el 27 a.C.) y 
+el imperio (desde el 27 a.C. hasta el 476 d.C.). De hecho, la consolidación de Roma como potencia 
+mundial inicia en la época de la república13.
+Es importante recordar que, si bien se ha dicho atrás que el Imperio romano terminó en el 476, esto 
+no es del todo cierto. Antes de ese año, en el año 395 y con la muerte del emperador Teodosio I, 
+el Imperio romano se dividió finalmente en dos. Y a anteriormente había experimentado esa división 
+administrativa, pero luego de la reunificación del mando por Teodosio, al morir entregó a sus dos hijos 
+el mando sobre las dos mitades del imperio. El Imperio romano de Occidente fue entonces el que 
+sufrió su caída definitiva en el año 476 d. C.14 (esto es relevante dado que uno de los referentes más 
+importantes de la obra del derecho romano es el emperador Justiniano). Justiniano, por su parte, 
+gobernó desde el año 527 d. C. en el Imperio romano de Oriente. Para esa época, el Imperio romano 
+de Oriente seguía siendo eminentemente romano en su estructura, forma de gobierno y cultura.
+En la actualidad, sin embargo, al Imperio romano de Oriente, que perduró hasta el año 1453, con la 
+caída de Constantinopla, se le denomina Imperio bizantino. Se trata de una denominación que le fue 
+dada con posterioridad a su vigencia, dado que, para muchos, ese imperio dejó de ser romano, hasta el 
+punto de que se cambió el latín como lengua oficial por el griego (Asimov, 1983, p. 57); esto ocurrió 
+a inicios del siglo VII, es decir, cerca de medio siglo después del reinado de Justiniano I, quien gobernó 
+desde el 527 d. C. hasta el 565 d. C. Este imperio, que en sus inicios era eminentemente romano, 
+tuvo en Justiniano I a uno de sus referentes más importantes, no tanto por su capacidad o poderío 
+militar, sino por su especial interés en consolidar el derecho romano. 
+13 Esta división es una división tradicional que se suele manejar en los textos de historia universal. En todo caso, para más información sobre estos 
+periodos históricos y su historia, ver: Asimov (1981) y Asimov (2000).
+14 Si bien el periodo histórico previo a la invasión definitiva de Roma implicó muchos cambios de gobierno, se suele tomar el año 476 como el año 
+definitivo de la caída de Roma, cuando Odoacro (un bárbaro) hace abdicar o renunciar al poder al joven emperador romano de 16 años Rómulo 
+Augústulo. Para ese entonces, Roma había dejado de ser el poder central del Imperio, y si bien seguía siendo formalmente la capital del Imperio de 
+occidente, no contaba con los recursos militares y económicos suficientes para hacer frente a la expansión de las distintas tribus bárbaras, que se 
+venían desarrollando incluso al interior del Imperio.
+
+POLITÉCNICO GRANCOLOMBIANO101010Obsérvese que el reinado de Justiniano se da en un momento especialmente importante, puesto que 
+viene poco tiempo después de la caída definitiva del Imperio romano de Occidente, y también poco 
+tiempo antes de la helenización15 del Imperio romano de Oriente.
+De allí que la obra de Justiniano fuera especialmente relevante, dado que con él se produce una obra 
+de la mayor importancia en la historia del derecho: el Corpus iuris civilis o Cuerpo del derecho civil. 
+No se trata, como podría pensarse, de una única obra, sino mejor de una colección de obras jurídicas 
+desarrolladas bajo el reinado del emperador. Incluye las siguientes obras, a saber:
+• Codex (un compendio normativo de muchas normas jurídicas dictadas en el Imperio romano, 
+desde el siglo II). Esta obra tuvo una revisión posterior, por lo que se suele referir al código 
+viejo y al código nuevo.
+• Digesto  o Pandectas16 (una recopilación del pensamiento de grandes juristas durante el 
+Imperio romano).
+• Instituciones o institutas (un tratado destinado a la enseñanza del derecho).
+• Las novellae constitutiones  o constituciones nuevas (un compendio de las constituciones o 
+normas dictadas durante el reinado de Justiniano).
+Obsérvese, entonces, que la importancia de Justiniano para la difusión y conocimiento del derecho 
+romano es capital, pues incluye una recopilación normativa de gran parte del desarrollo del derecho 
+romano, de forma tal que fuera mucho más sencillo su conocimiento, su aprendizaje y su difusión.
+15 El término helenización se utiliza para referirse a una asimilación que realiza una cultura extranjera de la cultura griega. El término se remonta a la 
+época de la guerra de Troya, que fue originada por el rapto de la princesa Helena. Ese suceso originó un momento de unión de las distintas ciudades-
+Estado griegas para hacer frente a Troya. De tal suerte, Helena habría originado la verdadera unión de la civilización griega, debido a su rapto. En 
+adelante, se acudirá al término helénico como un aparente sinónimo de lo que hoy en día se denominaría griego.
+16 El nombre romano del texto era Digesto  mientras que el término Pandectas  viene de una raíz griega. Se trata, sin embargo, del mismo cuerpo de 
+literatura jurídica.
+
+POLITÉCNICO GRANCOLOMBIANO111111En síntesis...
+El derecho romano es un derecho que se fue desarrollando durante 
+siglos, por lo que no se puede hablar de un único tipo de derecho 
+romano. El derecho va cambiando según la expansión de Roma, el auge 
+de la Iglesia católica al interior del imperio, y las interacciones entre los 
+romanos nativos y los nuevos ciudadanos de Roma adoptados por las 
+prácticas imperiales. Existen distintos momentos del derecho romano, 
+pero su consolidación final como un sistema se da a partir de la labor del 
+emperador Justiniano, en el Imperio romano de Oriente.
+4. Edad Media: glosadores, derecho comercial e influencia de las 
+doctrinas cristianas en el derecho
+La Edad Media se suele catalogar como un periodo de oscuridad. Esta idea deriva no tanto de lo que 
+realmente ocurrió en esta época, sino principalmente por lo que determinó su inicio y su fin: la caída 
+del Imperio romano de Occidente, y el Renacimiento, respectivamente. Como se observa, el inicio 
+de la Edad Media coincide con la finalización de uno de los imperios más grandes —en todo el sentido 
+de la palabra— que ha visto el mundo, y el Renacimiento constituyó a su vez uno de los momentos 
+históricos con mayor florecimiento de la ciencia, el arte, y en general de la cultura. Por lo tanto, tiene 
+sentido que se suela catalogar a la Edad Media como un periodo de oscuridad.
+Reseñado lo anterior, es conveniente mencionar algunos aspectos históricos relevantes. En primera 
+medida, conviene referirse a los glosadores, una escuela jurídica que se le debe a Irnerio, quien habría 
+redescubierto el Digesto de Justiniano. A él se le atribuye, junto con un grupo importante de juristas, 
+el estudio y comentario de las obras de Justiniano. En esencia, el método de estudio implicaba la 
+lectura e interpretación de estas obras, da manera similar a lo que actualmente conocemos como 
+el método exegético. Se trata de un método en el cual la interpretación de la norma obedece al 
+significado literal de las palabras y al orden gramatical empleado. El método rechaza toda forma de 
+interpretación que deforme el sentido literal de la norma.
+
+POLITÉCNICO GRANCOLOMBIANO121212El nacimiento de la Escuela de los Glosadores se da en la Universidad de Bolonia, la primera universidad 
+en fundarse en el mundo, a finales del siglo XI. En el año 1090, se suele fijar el redescubrimiento del 
+Digesto (Bernal Gómez, 2010), que como se recordará, implicaba una compilación de las máximas de 
+los más ilustres juristas romanos y, por tanto, una invaluable fuente para conocer el pensamiento jurídico 
+de los romanos. Por máximas se ha de entender esos postulados de orden superior que servirán de 
+fundamento para elaboraciones o normas de inferior jerarquía. En materia jurídica, las máximas romanas 
+suelen condenar principios de administración de justicia o interpretaciones normativas aplicadas por 
+los pretores o magistrados en desarrollo del derecho romano. En la actualidad, se podría entender ese 
+concepto como el fundamento de la doctrina o teoría jurídica.
+Obsérvese, sin embargo, que el redescubrimiento del Digesto o Pandectas se da algo más de cinco 
+siglos después de la elaboración de la obra. ¿Había acaso muerto el derecho romano hasta que 
+Irnenio redescubrió el Digesto? No. El derecho romano siempre fue fuente invaluable del derecho 
+de las poblaciones occidentales que de una u otra manera habían sido herederas del Imperio romano 
+de Occidente. Sin embargo, como es lógico, la llegada de poblaciones no romanas implicaba la 
+adaptación de gran parte del derecho romano a cada población en específico. En otras palabras, el 
+derecho romano que se conocía antes del descubrimiento de Irnerio en 1090 era un derecho romano 
+no puro. Por ello, se entiende que una de las preocupaciones de los glosadores fuera rescatar la pureza 
+del derecho romano a través de sus interpretaciones literales de la obra justinianea. De allí que sus 
+aportes principales se trataran de revitalizar el derecho romano a través de la difusión de las glosas o 
+comentarios realizados sobre las fuentes de derecho romano conocidas.
+Las summas  eran el tipo de obras que desarrollaban los glosadores, y que en esencia correspondían 
+a tratados jurídicos sobre temas específicos relacionados con el derecho romano. Esto es relevante, 
+puesto que como se verá a continuación, el término ha logrado sobrevivir al paso del tiempo, en 
+manos de otro importante autor, al que se hará referencia más adelante. Conviene finalizar indicando 
+que los glosadores estuvieron vigentes, como escuela jurídica, entre 1090 y 1250 aproximadamente, 
+es decir, cerca de 150 años17.
+Luego de los glosadores, les siguió otra escuela jurídica a la que actualmente conocemos como los 
+post-glosadores o comentaristas, quienes al igual que sus antecesores, tenían un interés especial por 
+el derecho romano, y quienes igualmente procedieron a trabajar las obras de Justiniano, y también las 
+obras de los glosadores. 
+17 Para más información, ver el capítulo XI de Margadant (1986).
+
+POLITÉCNICO GRANCOLOMBIANO131313Sin embargo, su método era algo distinto, puesto que, a diferencia de sus antecesores, los post-
+glosadores no le rendían culto especial al derecho romano: por el contrario, buscaban hacer uso de 
+las fuentes para volverlo un derecho aplicable o vigente. En otras palabras, los post-glosadores eran 
+estudiosos del derecho, pero con un enfoque mucho más crítico que sus antecesores; producían 
+obras de análisis exegético, pero también otro tipo de obras más enfocadas en la creación de doctrina 
+jurídica y no en la simple réplica de la ya existente. También desarrollaban tratados que buscaban 
+incorporar todo lo conocido sobre una materia determinada. Históricamente debemos ubicar a los 
+post-glosadores o comentaristas entre mediados del siglo XIII hasta el siglo XIV.
+Además de la importancia que tenían estas dos escuelas, es menester resaltar la importancia de la 
+Iglesia católica en el desarrollo y la vigencia del derecho durante la Edad Media. Para ese entonces, el 
+catolicismo se había convertido en la religión dominante de Occidente. En efecto, en el siglo IV d. C., 
+el cristianismo adquirió un importante auge. En primera medida, el emperador Constantino el Grande 
+procedió a reversar las medidas que perseguían a los cristianos. Si bien él no oficializó la religión, sí 
+contribuyó al fortalecimiento del cristianismo, hasta el punto de que fue bautizado poco antes de 
+morir. Años después, en el 380, a través del Edicto de Tesalónica, el imperio oficializó la religión 
+cristiana para todo el imperio. Esto es relevante, pues según se ha visto, para ese entonces el Imperio 
+romano de Occidente iba en decadencia y estaba próximo a caer, y el Imperio romano de Oriente 
+sería el llamado a ser el verdadero continuador del Imperio romano de la antigüedad.
+Las distintas luchas al interior de los cristianos, llevaron a que se fuesen dando distintos tipos de 
+exclusiones, cismas o divisiones hasta llegar a consolidarse las dos corrientes principales en el 
+momento la Iglesia católica, con sede en Roma, y las distintas iglesias ortodoxas. El catolicismo 
+encontró en Pablo de Tarso, en Agustín de Hipona y en Tomás de Aquino, entre otros, importantes 
+referentes de la Iglesia católica (la Iglesia cuenta con 36 doctores de la Iglesia, entre los cuales 
+están los dos últimos) para ir cimentando las verdades de fe. La influencia de la Iglesia en el derecho 
+fue determinante, dado que el derecho canónico fue especialmente relevante en el día a día de las 
+personas: el poder de la Iglesia católica no solo se daba en el plano espiritual, sino también en el plano 
+temporal (poder político y jurídico de humanos sobre humanos). De tal suerte, el papa tenía poder 
+real en los distintos principados, reinos o imperios, y, por lo tanto, lo que la Iglesia determinaba era una 
+verdad de fe y, además, una norma jurídica.
+
+POLITÉCNICO GRANCOLOMBIANO141414Famoso fue el auge del Tribunal de la Inquisición, institución que surgió a finales del siglo XII, puesto 
+que ese mecanismo ideado por la Iglesia para controlar la herejía18 implicaba en la práctica un control 
+social a través de la fe y del derecho. De los juicios realizados por esta institución y sus ordalías, es 
+que en la actualidad se deriva la idea del sistema inquisitivo en derecho penal. Que quien tome la 
+decisión final sea igualmente quien se encarga de la investigación, es algo propio de este tipo de 
+sistema, basado en el modelo del Tribunal de la Inquisición. Debe tenerse en cuenta, que, si bien en 
+la Edad Media la Iglesia católica tuvo un protagonismo importante, no era la única religión fuerte que 
+competía en Europa. Hacia el oriente, el islam fue ganando preponderancia y llegando a conquistar 
+gran parte de la Península Ibérica.
+En la Edad Media, hay un primer momento de dispersión o atomización del poder. Si bien existían 
+grandes reinos o imperios, como es el caso del Imperio carolingio, el Sacro Imperio Romano 
+Germánico, o el ya mencionado Imperio bizantino, lo usual no era la existencia de estructuras 
+centralizadas sólidas, ni en lo político ni en lo económico. El modelo político y económico de amplia 
+parte de la Edad Media derivaba de las instituciones feudales; la caballería, el contrato de vasallaje y 
+la religión eran determinantes para entender la forma de vida durante este periodo. Es así como gran 
+parte del poder político y económico residía en la tenencia y explotación de la tierra. Es allí, entonces, 
+donde se reconfiguran los estamentos sociales entre la nobleza, el clero, los siervos de la gleba, y 
+también los esclavos (aunque la doctrina cristiana era contraria a la existencia de la esclavitud y se 
+dieron importantes movimientos por su abolición a partir del siglo XI). 
+Ese desarrollo de los estamentos como una noción piramidal adquiere mayor sentido en la Edad 
+Media: el de abajo le responde al de arriba, hasta llegar al gran señor feudal que sería el monarca o 
+el papa. Es de anotar que, con el auge de la cristiandad y la creciente concepción del control de las 
+personas a través de la idea del pecado, la penitencia y la salvación del alma, se logró que fuera la 
+Iglesia el ente controlador, durante un importante periodo de tiempo, de la educación formal. En 
+consecuencia, era lógico que muchas veces fuera el clero el que tuviera el monopolio de la educación, 
+y de las fuentes de la educación. Por ello, el acceso a muchos de los textos antiguos que no iban en 
+concordancia con la fe cristiana, fueron escondidos y quemados.
+El derecho secular y el derecho canónico fueron entonces muy importantes e iban de la mano en la 
+Edad Media, pues tanto los monarcas como la Iglesia intentaban mantener el poder. 
+18 El concepto de herejía es complejo, pero en términos sencillos, implicaría una transgresión a los dogmas de fe o verdades aceptadas por la religión. 
+Su manifestación se da de distintas maneras, pero en esencia implica un acto de rebeldía frente a la fe católica, y por ende, frente a Dios.
+
+POLITÉCNICO GRANCOLOMBIANO151515Un intento de volver a armonizar la fe y la razón se dio con la escolástica, que buscó mostrar que 
+el origen de la verdad racional y la verdad de fe era Dios, y que de ese modo era imposible que se 
+hablara de una contradicción real entre ambas fuentes de conocimiento de la verdad. Esa unión o 
+alianza entre el poder secular y el poder religioso llevó a que se realizaran ejercicios tales como las 
+cruzadas en la Tierra Santa para los cristianos y otro tipo de empresas de largo aliento que requerían 
+importantes manejos de recursos.
+En esa época, entonces, surgen muchos instrumentos interesantes como los títulos valores —para 
+evitar tener que transportar físicamente importantes sumas de dinero con los riesgos que ello 
+conlleva—. Del mismo modo, alrededor de las murallas (o burgos) de los castillos de los señores 
+feudales se empiezan a asentar pequeños grupos de personas que no forman parte de ningún tipo de 
+estamento aristocrático, ni tampoco eran siervos que dependían de ellos. Por lo tanto, a este nuevo 
+tipo de estamento se les conoció como los burgueses (que vivían alrededor de los burgos). Este grupo 
+de personas empiezan a desarrollar unas nuevas formas de comercio y de economía que no dependían 
+de la tierra (modelo feudal). En la medida en que estas nuevas formas de economía se fueron 
+asentando con propiedad, este grupo de burgueses y comerciantes se empezaron a organizar, a través 
+de gremios de mercaderes y posteriormente empezaron a crear una nueva forma de jurisdicción, a 
+través de los cónsules.
+En consecuencia, las nuevas formas de comerciar y hacer negocios, el nacimiento de los primeros 
+instrumentos netamente comerciales como los títulos valores, y el comienzo de una nueva forma 
+de jurisdicción encargada de dirimir los conflictos jurídicos derivados de estas nuevas prácticas 
+comerciales, son elementos que llevan a que se hable por primera vez de un derecho mercantil. El 
+derecho mercantil, en consecuencia, será una forma especializada de lo que anteriormente era campo 
+de interés del derecho civil, y podría ubicarse temporalmente entre los siglos XI y XII d.C.19
+La práctica atomizada del derecho, el auge de la costumbre como generadora de derecho, y las 
+dinámicas de guerras y conquistas a lo largo de Europa y el oriente próximo, llevan a que dentro 
+de Europa empiecen a surgir dos tipos de corrientes jurídicas muy marcadas y diferenciadas: 
+aquella fundada en la prevalencia del derecho escrito, que en siglos venideros va a ser abanderada 
+por Francia; y aquella basada en la práctica del derecho consuetudinario con prevalencia por la 
+decisión judicial, que va a ser abanderada por Inglaterra. Se trata, entonces, de la distinción entre las 
+tradiciones del derecho continental y el common law.
+19 Respecto de la historia del derecho mercantil, ver, por ejemplo, Dávalos Torres (2010).
+
+POLITÉCNICO GRANCOLOMBIANO1616165. El derecho en la modernidad: la conquista de América, la época 
+colonial y el origen del constitucionalismo
+Se dice que la modernidad surge a finales del siglo XV, puesto que ocurren diversos hechos que 
+generan importantes cambios, como lo son20:
+• La llegada de Cristóbal Colón a América el 12 de octubre de 1492.
+• La caída del Imperio bizantino el 29 de mayo de 1453.
+• La invención de la imprenta aproximadamente en 1450.
+• La llegada del movimiento cultural conocido como el Renacimiento, aproximadamente a 
+mediados del siglo XV.
+Como se observa, en un periodo relativamente corto de tiempo, ocurren eventos importantes que 
+generan cambios trascendentales en la manera como se comportaba el mundo entero. La forma 
+en que el conocimiento se difundía cambió singularmente, pero se dio, además, un cambio en el 
+modelo económico, el sistema político y las nuevas prácticas comerciales. En consecuencia, la 
+modernidad implicaba dejar atrás las prácticas obsoletas de la antigüedad. Es en este momento en 
+el que las potencias europeas dan un salto cualitativo para posicionarse como los imperios mundiales 
+indiscutidos, encabezados por las tres civilizaciones más importantes del momento: la española, la 
+británica y la francesa. Si bien no fueron las únicas civilizaciones poderosas, sí fueron las que más 
+sobresalieron en la época.
+En lo que respecta a Suramérica y Colombia, el especial énfasis lo merece España y su modelo de 
+gobierno. Hasta hacía relativamente poco, España, antes de la colonización suramericana, no era 
+propiamente un reino unificado, sino que estaba compuesta por territorios dispersos y ambientados 
+al modelo musulmán implantado por los musulmanes. Sin embargo, con los nacientes Estados-
+naciones, la unión de las coronas de Aragón y de Castilla a través del matrimonio de los denominados 
+Reyes Católicos (Fernando e Isabel) implicó la decisión de reunificar la Península Ibérica bajo su 
+mando, en lo que se conoció como la reconquista española, que finalizó precisamente en el año 1492 
+(mismo año de la llegada de Colón a América) con la conquista del reino de Granada por parte de los 
+Reyes Católicos.
+20 Para entender la complejidad de determinar el inicio y el fin de la Edad Moderna, ver, por ejemplo, Gloël, 2016.
+
+POLITÉCNICO GRANCOLOMBIANO1717175.1. El derecho indiano
+Dos aspectos deben destacarse de la cronología de eventos hasta ahora vista: la fuerte influencia 
+católica en el proceso de conquista y colonialismo en Suramérica, y la creación de un modelo de 
+legislación específico para las colonias. Si bien en un inicio la legislación española vino a ser relevante, 
+como por ejemplo a través de las Siete Partidas (siglo XIII), obra realizada por instrucciones de 
+Alfonso X “l Sabio”, lo cierto es que la legislación de las Indias parecía ser claramente diseñada para 
+una colonia de los españoles, y no para un territorio de España. Aunque sobre el papel la conquista de 
+España debía ser un proceso altruista y de cuidado de los nativos, también es cierto que so pretexto 
+de la conversión de los infieles a la verdadera fe (la fe católica), se realizaron muchos actos de clara 
+agresión, instrumentalización de la mano de obra aborigen, y matanza de las tribus más agresivas o 
+militarmente más desarrolladas.
+A través de la organización de virreinatos o capitanías, los españoles procedieron a establecer un 
+poder político que tendía a ser hegemónico. Así como el plan de los Reyes Católicos era unificar a 
+España bajo una misma lengua, una misma cultura y fe. Similarmente, se intentó realizar un ejercicio 
+parecido en América, aunque era evidente que la distancia real entre España y sus colonias le confería 
+un increíble margen de maniobra a los españoles en América. Sin embargo, de este periodo no se 
+conservan mayores fuentes en el derecho nacional colombiano, dado que las nacientes repúblicas del 
+norte de Suramérica del siglo XIX se construyeron en abierta oposición al esquema legislativo español 
+en América, en especial a raíz del feroz y sangriento proceso de pacificación.
+Durante la época de la colonia, que ocurre cuando el dominio español en las tierras suramericanas 
+muta de un intento por conquistar más que por un proceso de regularizar jurídicamente el dominio 
+español, se presenta un desarrollo normativo específicamente dirigido al manejo de las colonias 
+españolas en las indias21. La legislación fue literalmente construyéndose a partir de la normatividad 
+que se iba necesitando. En otras palabras, si bien se puede rastrear distintos cuerpos legislativos que 
+aplicaron en indias, empezando por las Siete Partidas  de Alfonso X, la Recopilación de leyes de indias , 
+la Nueva recopilación  y la tardía Novísima recopilación , lo cierto es que se trató de un derecho flexible, 
+casuístico y que siempre tuvo en mente el fin evangelizador que España pretendió de la mano de la 
+Iglesia católica.22 
+21 El concepto de indias, indio y demás términos similares, obedece a la intención inicial de Colón de llegar a India con miras a desarrollar rutas 
+comerciales, principalmente de especias. Dado que América era totalmente desconocido para Europa, en un primer momento los españoles creyeron 
+que sí habían llegado a tierras del oriente indio, y no a un nuevo mundo.
+22 No es tarea fácil registrar el derecho indiano como un cuerpo sistemático debido a sus características casuísticas y a su intento por conciliar la 
+legislación ibérica (de España) con la vida práctica en las colonias, sus estructuras económicas y políticas particulares. En todo caso, para un mejor 
+entendimiento de las características del derecho indiano, se recomienda Ver Bernal Gómez, (2015).
+
+POLITÉCNICO GRANCOLOMBIANO181818En todo caso, la legislación indiana fue el punto de partida sobre el que trabajaron las nacientes 
+repúblicas para darse su propia legislación, y a pesar de que posteriormente se mostrará la importancia 
+del derecho francés en la legislación colombiana, este modelo se habrá de aplicar como un avance 
+frente a la legislación inicialmente aplicable, que era el cuerpo normativo indiano.
+Cómo mejorar...
+Para poder entender las distintas tradiciones jurídicas que llegan a América, 
+es necesario rastrear el desarrollo del derecho romano y su influencia en 
+el desarrollo del derecho canónico de la Iglesia católica. Adicionalmente, 
+las teorías políticas francesas y el naciente derecho constitucional serán 
+determinantes para entender las ideas y tradiciones jurídicas que llegarán a 
+las colonias españolas en América.
+5.2. La importancia del naciente constitucionalismo
+Para efectos de poder entender las fuentes jurídicas que serán relevantes en Colombia a partir de su 
+independencia, es necesario abordar igualmente el surgimiento de las constituciones, y por ende del 
+proceso de constitucionalización en Europa. Como se ha indicado anteriormente, el surgimiento de 
+los Estados-nación se construyó sobre la base de la unificación de la identidad cultural de los distintos 
+Estados. Esa identidad dejó de ser especialmente importante por un periodo de tiempo, en donde 
+había una lengua culta (el latín) y la lengua vulgar propia de cada población. Sin embargo, a raíz de 
+muchos de los cismas que sufrió la Iglesia católica, como por ejemplo a raíz de la Reforma protestante; 
+el surgimiento del anglicanismo, el calvinismo, el luteranismo —todos ellos apartándose de la Iglesia 
+católica—, las identidades nacionales empezaron a ser relevantes, e igualmente relevante pasó a ser 
+contar con una figura poderosa que fuese capaz de unificar a la nación a partir de un único Estado.
+
+POLITÉCNICO GRANCOLOMBIANO191919En los siglos XV y XVI se hace evidente una tendencia a formar Estados fuertes, y ya en el siglo XVII 
+surgen teorías filosóficas que fundamentan esa unidad a través de los modelos contractualistas, 
+con Jean Bodin23 a mediados del siglo XVI al introducir el concepto de soberanía, que habría de ser 
+retomado por los contractualistas Hobbes, Locke y Rousseau24 en años venideros para estructurar sus 
+teorías. De estos tres contractualistas, Hobbes era el más abierto defensor del absolutismo, con miras 
+a evitar el estado de naturaleza, según el cual el hombre se comportaba como un lobo para el mismo 
+hombre, es decir, con sus semejantes.
+Estando estructurado de esa manera, el absolutismo monárquico fue históricamente importante, pero 
+llegó a generar abusos del poder por parte del monarca. De tal suerte, fueron esos abusos de poder 
+que los súbditos empezaron a dar manifestaciones concretas de querer limitar el poder del monarca. 
+En Inglaterra se dieron los primeros casos, la Petition of Rights  o petición de derechos de 1628, la Bill 
+of Rights  o carta de derechos en 1689, o la famosa consigna de no taxation without representation  (no 
+hay tributación sin representación) que se dio en las colonias estadounidenses en 1750. En esencia, 
+estos actos implicaban la exigencia de limitación al monarca absoluto, y por lo tanto se entienden 
+como los antecedentes directos de las constituciones escritas.
+El concepto de constitución, en consecuencia, fue primero un intento por limitar el poder del 
+monarca, y en cierta forma, obligarlo a cumplir con compromisos frente a sus súbditos. En 
+consecuencia, se ve en ellos el concepto de constitución como un acuerdo político fundamental 
+que establece reglas de juego para el ejercicio del poder. El proceso de constitucionalización será 
+especialmente relevante a partir de la expedición de los Estados Unidos de América en 1787, pues 
+será referente para todos los procesos constitucionales de las repúblicas americanas emancipadas de 
+España, como es el caso de Colombia.
+23 El concepto de soberanía, como un carácter inherente de los Estados, corresponde a un intento por mostrar las fronteras del poder y su orden 
+jerárquico. Será soberano el que no deba responder a nadie más. Quien primero teorizó esto con mayor claridad y solvencia fue Jean Bodin. Los 
+teóricos del contractualismo acudirán a esta noción para estructurar las teorías políticas dominantes que intentaron explicar el Estado. Esto se 
+revisará con detenimiento en la Unidad 3.
+24 Estos autores se desarrollarán en la Unidad 3.
+
+POLITÉCNICO GRANCOLOMBIANO202020Referencias
+Asimov, I. (1981). La República Romana . Alianza Editorial. 
+Asimov, I. (2000). El Imperio Romano . Alianza Editorial. 
+Asimov, I. (1983).  Constantinopla  (3.ª ed.). Alianza Editorial.
+Bernal Gómez, B. (2015). El derecho indiano, concepto, clasificación y características. Ciencia 
+Jurídica, 4 (7), 183-193. https://doi.org/10.15174/cj.v4i1.134 
+Bernal Gómez, B. (2010). Historia del derecho . Nostra Ediciones.
+Dávalos Torres, M. S. (2010). Manual de introducción al derecho mercantil . Nostra Ediciones.
+Gamboa M., J. A. (2014, 15–17 de septiembre). La conquista de América en los esquemas cronológicos 
+de la historia europea: una reflexión sobre el tema de la periodización  [sesión de conferencia]. VIII 
+jornadas internacionales de arte, historia y cultura colonial. Medievalidad y Renacimiento en la 
+América colonial. http://www.museocolonial.gov.co/educacion/jornadas-internacionales/Documents/
+VIII%20JIAHCC%202014%20-%20Memorias.pdf 
+Gloël, M. (2016). La Edad Moderna: el término y su presencia en las historiografías occidentales. 
+Revista de Historia Social y de las Mentalidades, 20 (2), 11-32. http://www.revistas.usach.cl/ojs/index.
+php/historiasocial/article/view/2706 
+López Guardiola, S. G. (2012). Derecho romano I . Red Tercer Milenio. 
+Margadant, G.F. (1986). La segunda vida del derecho romano . Miguel Ángel Porrúa. 
+Petit, E. (1910). Tratado elemental de derecho romano . Editorial Porrúa.
+Toro Icaza, B. (2003). El “código” de Hammurapi: Sentido político, forma científica y aporte 
+jurídico. Derecho y Humanidades, (9) , 235-248. https://revistas.uchile.cl/index.php/RDH/article/
+view/21938/23258
+
+POLITÉCNICO GRANCOLOMBIANO212121
+INFORMACIÓN TÉCNICA
+Módulo:  Fundamentación Jurídica
+Unidad 1:  Conceptos básicos de la historia del derecho: 
+derecho romano y devenir histórico del derecho hasta el 
+siglo XIX
+Escenario 1:  Antigüedad y derecho romano
+Autor:  Javier Darío Pabón Reverend
+Asesora Pedagógica:  Ingrid Gissell Ospina Posada
+Diseñador Gráfico: Andrés Felipe Figueroa Huertas
+Este material pertenece al Politécnico Grancolombiano.
+Prohibida su reproducción total o parcial.
+
+
