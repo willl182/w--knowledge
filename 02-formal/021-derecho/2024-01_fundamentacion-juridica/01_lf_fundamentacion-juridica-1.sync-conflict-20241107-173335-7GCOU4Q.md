@@ -2,9 +2,11 @@ El derecho en la antigüedad
 El derecho romano
 Edad Media: glosadores, derecho comercial e influencia de las doctrinas cristianas en el derecho
 El derecho en la modernidad: conquista de América, época colonial y origen del constitucionalismo 
+
 # 1. Introducción 
 
 Uno de los errores más comunes que se presentan en cualquier campo del saber, es asumir que el estado actual de cosas siempre ha sido así, y que, por tanto, las nociones que se encuentran vigentes son inmutables, o que siempre se han entendido de esa manera a lo largo de la historia. Por ello, un adecuado entendimiento del derecho parte de comprender la manera en la que los conceptos jurídicos actuales han llegado hasta nosotros. Por ello, repasar la construcción de estas nociones del derecho a partir de un repaso de los hechos históricos más determinantes, es indispensable para poder cimentar las bases del conocimiento jurídico.
+
 # 2. El derecho en la antigüedad
 
 La historiografía muestra que no existe una única manera de leer la historia universal. Por ello, existen distintas maneras de entender y clasificar los momentos históricos. Una de las visiones tradicionales, suele ser aquella que se construye a partir de los hitos históricos con incidencia en Europa. Tiene sentido adoptar esa forma de lectura, bajo el entendido de que la construcción de la historia de América, a partir del siglo XV, ha sido influenciada de manera decisiva por Europa, y, por lo tanto, lo que llegó a ser relevante para el derecho europeo, se constituyó en relevante para la construcción del derecho en América.
@@ -29,33 +31,38 @@ En el caso de Aristóteles, es en su Ética nicomáquea  donde desarrollan con m
 Esto vendrá a ser relevante, dado que la ciudad-Estado de Atenas se destacó entre las demás especialmente por su cultura y, por lo tanto, su modelo de democracia vino a repercutir en la historia política de siglos posteriores. A su vez, esa elección sobre la manera en que se administra el poder político y público será históricamente una de las preocupaciones más relevantes, y dará origen muchos siglos después a discusiones en torno de la manera en la que se debe ejercer y limitar el poder público. Esta discusión es el origen de las ramas jurídicas del derecho constitucional y derecho administrativo. El concepto actual de ciudadano, por ejemplo, puede rastrearse en sus orígenes a este sistema de gobierno ateniense, en el cual la ciudadanía no era únicamente generadora de derechos sino de deberes, y de allí el origen de esa distinción —que ha resistido el paso del tiempo— entre lo público y lo privado.
 
 Conviene mencionar, por último, que si bien desde la perspectiva de la narrativa griega los persas eran bárbaros7, pues no estaban a la altura de su cultura, lo cierto es que esta última civilización no era carente de cultura, instituciones políticas desarrolladas y tecnología. Ocurre, sin embargo, que dada la herencia cultural e histórica que llegó a Suramérica, la herencia persa no llegó a ser tan fuerte como lo pudo ser la grecorromana, razón por la cual se puede aún tener una visión minimizada de la relevancia de los persas en el escenario histórico global.
+
 # 3. El derecho romano
 
 Si a Grecia se le debe atribuir en gran medida el origen de muchos de los conceptos filosóficos del derecho, al derecho romano se le debe atribuir gran parte del desarrollo de las instituciones jurídicas. Las instituciones, como lo entendieron los romanos, son aquellos pilares sobre los que fundamenta el desarrollo de la disciplina jurídica. En el caso de los romanos, ellos tenían la capacidad de desarrollar formidables estrategias militares, pero a la vez, adaptarse rápidamente a los distintos pueblos que iban incorporando a su imperio. Sin embargo, al hacer referencia a una potencia que perduró durante tantos siglos, no bastaba únicamente tener el poderío militar. Por eso, el derecho romano es visto como uno de los pilares de la estabilidad del pueblo romano.
 
 No obstante, las instituciones jurídicas más conocidas, aquellas que lograron trascender a la vigencia misma del imperio, son precisamente aquellas desarrolladas por el emperador Justiniano en el Imperio romano de Oriente, siglos después de la caída del Imperio romano de Occidente. A continuación, entonces, es conveniente revisar algunos de los distintos avances que fueron dándose en el tiempo8.
+
 ## 3.1. Derecho romano primitivo arcaico
 
 • La civilización romana se encuentra gobernada por la clase dominante de los patricios9, y en general el derecho público y privado girará en torno de ellos.
 • La obra jurídica principal de esta época será Las Doce Tablas, que busca brindar certeza jurídica a los habitantes del reino romano.
 • El derecho civil inicia un tránsito de la tradición oral hacia el derecho escrito.
+
+
 ## 3.2. Derecho romano clásico
 
 • Las nociones de derecho sustancial y derecho procesal se empiezan a decantar. Tan importante será el conocimiento de los derechos que se tienen, como la manera concreta de hacerlos valer. El formalismo jurídico y la complejidad de los sistemas caracterizan esta época.
 • El periodo de expansión inicial de Roma entra en vigor en este momento histórico. El derecho adquiere una preponderancia para el orden social. En consecuencia, el derecho civil de personas, de familia y de bienes se desarrolla ampliamente durante este periodo, así como las instituciones principales que llegarán hasta el derecho moderno.
 • Surge una nueva clase de personas dedicadas al conocimiento, enseñanza, difusión y práctica del derecho. Se trata de los juristas, un oficio de alto honor y que no era de fácil acceso para la población.
+
 ## 3.3. Derecho romano postclásico
 
 • El derecho romano es el referente del mundo conocido. En un claro modelo imperial y de expansión, surge la noción de garantizar el orden en los territorios conquistados por Roma. El derecho civil, de los ciudadanos, y el derecho de gentes ( ius gentium )10 empieza a desarrollarse.
 • Los emperadores, en aras de unificar su imperio, deciden iniciar procesos de compendio y de codificación del derecho romano para garantizar seguridad jurídica y, por lo tanto, el orden en el imperio.
 • Muchas de las tribus bárbaras europeas empiezan a consolidar la aplicación del derecho romano.
 • La Iglesia católica empieza a adquirir un rol relevante en la política europea, y empieza a desarrollar instituciones jurídicas, de la mano del derecho romano.
+
+
 ## 3.4. Derecho romano justinianeo
 
 • El Imperio romano de Occidente es incapaz de resistir las invasiones bárbaras11 y, por lo tanto, Roma deja de ser el centro del imperio. Los romanos serán los establecidos en el Imperio romano de Occidente.
-• El derecho romano vigente y aplicable es codificado en tres obras que componen el Corpus iuris ivile , y que será lo que llegará a la Edad Media como testimonio del derecho romano. 
-
-El derecho romano ha trascendido hasta nuestros días principalmente por sus aportes en materia de derecho civil. Cabe resaltar que esto no es un aporte menor, dado que, durante mucho tiempo, las disciplinas jurídicas básicamente se dividían en dos: derecho civil y derecho penal. Si bien es cierto que el derecho romano desarrolló normas que involucraban ámbitos adicionales, fue principalmente en el campo del derecho civil en el que se lograron desarrollar las más importantes instituciones. El desarrollo de la institución de la familia, el de persona, el de capacidad jurídica, el de contrato, el de la propiedad y el de la posesión, el de perjuicio, el de acción, así como la sucesión, son todas instituciones que tuvieron su principal desarrollo en el derecho romano.
+• El derecho romano vigente y aplicable es codificado en tres obras que componen el Corpus iuris ivile , y que será lo que llegará a la Edad Media como testimonio del derecho romano. El derecho romano ha trascendido hasta nuestros días principalmente por sus aportes en materia de derecho civil. Cabe resaltar que esto no es un aporte menor, dado que, durante mucho tiempo, las disciplinas jurídicas básicamente se dividían en dos: derecho civil y derecho penal. Si bien es cierto que el derecho romano desarrolló normas que involucraban ámbitos adicionales, fue principalmente en el campo del derecho civil en el que se lograron desarrollar las más importantes instituciones. El desarrollo de la institución de la familia, el de persona, el de capacidad jurídica, el de contrato, el de la propiedad y el de la posesión, el de perjuicio, el de acción, así como la sucesión, son todas instituciones que tuvieron su principal desarrollo en el derecho romano.
 
 Visto en retrospectiva, parece ser un tema menor, dado que el mundo globalizado de la actualidad cuenta con un sinnúmero de disciplinas, de fuentes jurídicas y de instituciones. Adicionalmente, el concepto de constitución, como carta fundamental en materia política y jurídica, se encuentra bien arraigado. Sin embargo, en la época romana, estas instituciones jurídicas eran las encargadas de desarrollar no solo la vida personal de los individuos, sino la organización del Estado. A diferencia de lo que ocurre en la actualidad, la organización social se encontraba bastante dividida y jerarquizada, por lo que la figura del pater familias era fundamental en el desarrollo y manejo del hogar, y era similar a la figura del gobernante en Roma. 
 
@@ -81,6 +88,7 @@ De allí que la obra de Justiniano fuera especialmente relevante, dado que con �
 Obsérvese, entonces, que la importancia de Justiniano para la difusión y conocimiento del derecho romano es capital, pues incluye una recopilación normativa de gran parte del desarrollo del derecho romano, de forma tal que fuera mucho más sencillo su conocimiento, su aprendizaje y su difusión.
 
 El derecho romano es un derecho que se fue desarrollando durante siglos, por lo que no se puede hablar de un único tipo de derecho romano. El derecho va cambiando según la expansión de Roma, el auge de la Iglesia católica al interior del imperio, y las interacciones entre los romanos nativos y los nuevos ciudadanos de Roma adoptados por las prácticas imperiales. Existen distintos momentos del derecho romano, pero su consolidación final como un sistema se da a partir de la labor del emperador Justiniano, en el Imperio romano de Oriente.
+
 ## 4. Edad Media: glosadores, derecho comercial e influencia de las doctrinas cristianas en el derecho
 
 La Edad Media se suele catalogar como un periodo de oscuridad. Esta idea deriva no tanto de lo que realmente ocurrió en esta época, sino principalmente por lo que determinó su inicio y su fin: la caída del Imperio romano de Occidente, y el Renacimiento, respectivamente. Como se observa, el inicio de la Edad Media coincide con la finalización de uno de los imperios más grandes —en todo el sentido de la palabra— que ha visto el mundo, y el Renacimiento constituyó a su vez uno de los momentos históricos con mayor florecimiento de la ciencia, el arte, y en general de la cultura. Por lo tanto, tiene sentido que se suela catalogar a la Edad Media como un periodo de oscuridad.
@@ -139,6 +147,7 @@ Durante la época de la colonia, que ocurre cuando el dominio español en las ti
 
 En todo caso, la legislación indiana fue el punto de partida sobre el que trabajaron las nacientes repúblicas para darse su propia legislación, y a pesar de que posteriormente se mostrará la importancia del derecho francés en la legislación colombiana, este modelo se habrá de aplicar como un avance frente a la legislación inicialmente aplicable, que era el cuerpo normativo indiano.
 
+
 ## 5.2. La importancia del naciente constitucionalismo
 
 Para efectos de poder entender las fuentes jurídicas que serán relevantes en Colombia a partir de su independencia, es necesario abordar igualmente el surgimiento de las constituciones, y por ende del proceso de constitucionalización en Europa. Como se ha indicado anteriormente, el surgimiento de los Estados-nación se construyó sobre la base de la unificación de la identidad cultural de los distintos Estados. Esa identidad dejó de ser especialmente importante por un periodo de tiempo, en donde había una lengua culta (el latín) y la lengua vulgar propia de cada población. Sin embargo, a raíz de muchos de los cismas que sufrió la Iglesia católica, como por ejemplo a raíz de la Reforma protestante; el surgimiento del anglicanismo, el calvinismo, el luteranismo —todos ellos apartándose de la Iglesia católica—, las identidades nacionales empezaron a ser relevantes, e igualmente relevante pasó a ser contar con una figura poderosa que fuese capaz de unificar a la nación a partir de un único Estado.
@@ -181,12 +190,21 @@ El concepto de constitución, en consecuencia, fue primero un intento por limita
 Asimov, I. (1981). La República Romana . Alianza Editorial. 
 Asimov, I. (2000). El Imperio Romano . Alianza Editorial. 
 Asimov, I. (1983).  Constantinopla  (3.ª ed.). Alianza Editorial.
-Bernal Gómez, B. (2015). El derecho indiano, concepto, clasificación y características. Ciencia Jurídica, 4 (7), 183-193. https://doi.org/10.15174/cj.v4i1.134 
+Bernal Gómez, B. (2015). El derecho indiano, concepto, clasificación y características. Ciencia 
+Jurídica, 4 (7), 183-193. https://doi.org/10.15174/cj.v4i1.134 
 Bernal Gómez, B. (2010). Historia del derecho . Nostra Ediciones.
 Dávalos Torres, M. S. (2010). Manual de introducción al derecho mercantil . Nostra Ediciones.
-Gamboa M., J. A. (2014, 15–17 de septiembre). La conquista de América en los esquemas cronológicos de la historia europea: una reflexión sobre el tema de la periodización  [sesión de conferencia]. VIII jornadas internacionales de arte, historia y cultura colonial. Medievalidad y Renacimiento en la América colonial. http://www.museocolonial.gov.co/educacion/jornadas-internacionales/Documents/ VIII%20JIAHCC%202014%20-%20Memorias.pdf 
-Gloël, M. (2016). La Edad Moderna: el término y su presencia en las historiografías occidentales. Revista de Historia Social y de las Mentalidades, 20 (2), 11-32. http://www.revistas.usach.cl/ojs/index. php/historiasocial/article/view/2706 
+Gamboa M., J. A. (2014, 15–17 de septiembre). La conquista de América en los esquemas cronológicos 
+de la historia europea: una reflexión sobre el tema de la periodización  [sesión de conferencia]. VIII 
+jornadas internacionales de arte, historia y cultura colonial. Medievalidad y Renacimiento en la 
+América colonial. http://www.museocolonial.gov.co/educacion/jornadas-internacionales/Documents/
+VIII%20JIAHCC%202014%20-%20Memorias.pdf 
+Gloël, M. (2016). La Edad Moderna: el término y su presencia en las historiografías occidentales. 
+Revista de Historia Social y de las Mentalidades, 20 (2), 11-32. http://www.revistas.usach.cl/ojs/index.
+php/historiasocial/article/view/2706 
 López Guardiola, S. G. (2012). Derecho romano I . Red Tercer Milenio. 
 Margadant, G.F. (1986). La segunda vida del derecho romano . Miguel Ángel Porrúa. 
 Petit, E. (1910). Tratado elemental de derecho romano . Editorial Porrúa.
-Toro Icaza, B. (2003). El “código” de Hammurapi: Sentido político, forma científica y aporte jurídico. Derecho y Humanidades, (9) , 235-248. https://revistas.uchile.cl/index.php/RDH/article/ view/21938/23258
+Toro Icaza, B. (2003). El “código” de Hammurapi: Sentido político, forma científica y aporte 
+jurídico. Derecho y Humanidades, (9) , 235-248. https://revistas.uchile.cl/index.php/RDH/article/
+view/21938/23258

@@ -81,6 +81,7 @@ De allí que la obra de Justiniano fuera especialmente relevante, dado que con �
 Obsérvese, entonces, que la importancia de Justiniano para la difusión y conocimiento del derecho romano es capital, pues incluye una recopilación normativa de gran parte del desarrollo del derecho romano, de forma tal que fuera mucho más sencillo su conocimiento, su aprendizaje y su difusión.
 
 El derecho romano es un derecho que se fue desarrollando durante siglos, por lo que no se puede hablar de un único tipo de derecho romano. El derecho va cambiando según la expansión de Roma, el auge de la Iglesia católica al interior del imperio, y las interacciones entre los romanos nativos y los nuevos ciudadanos de Roma adoptados por las prácticas imperiales. Existen distintos momentos del derecho romano, pero su consolidación final como un sistema se da a partir de la labor del emperador Justiniano, en el Imperio romano de Oriente.
+
 ## 4. Edad Media: glosadores, derecho comercial e influencia de las doctrinas cristianas en el derecho
 
 La Edad Media se suele catalogar como un periodo de oscuridad. Esta idea deriva no tanto de lo que realmente ocurrió en esta época, sino principalmente por lo que determinó su inicio y su fin: la caída del Imperio romano de Occidente, y el Renacimiento, respectivamente. Como se observa, el inicio de la Edad Media coincide con la finalización de uno de los imperios más grandes —en todo el sentido de la palabra— que ha visto el mundo, y el Renacimiento constituyó a su vez uno de los momentos históricos con mayor florecimiento de la ciencia, el arte, y en general de la cultura. Por lo tanto, tiene sentido que se suela catalogar a la Edad Media como un periodo de oscuridad.
@@ -138,6 +139,7 @@ A través de la organización de virreinatos o capitanías, los españoles proce
 Durante la época de la colonia, que ocurre cuando el dominio español en las tierras suramericanas muta de un intento por conquistar más que por un proceso de regularizar jurídicamente el dominio español, se presenta un desarrollo normativo específicamente dirigido al manejo de las colonias españolas en las indias21. La legislación fue literalmente construyéndose a partir de la normatividad que se iba necesitando. En otras palabras, si bien se puede rastrear distintos cuerpos legislativos que aplicaron en indias, empezando por las Siete Partidas  de Alfonso X, la Recopilación de leyes de indias , la Nueva recopilación  y la tardía Novísima recopilación , lo cierto es que se trató de un derecho flexible, casuístico y que siempre tuvo en mente el fin evangelizador que España pretendió de la mano de la Iglesia católica.22 
 
 En todo caso, la legislación indiana fue el punto de partida sobre el que trabajaron las nacientes repúblicas para darse su propia legislación, y a pesar de que posteriormente se mostrará la importancia del derecho francés en la legislación colombiana, este modelo se habrá de aplicar como un avance frente a la legislación inicialmente aplicable, que era el cuerpo normativo indiano.
+
 
 ## 5.2. La importancia del naciente constitucionalismo
 

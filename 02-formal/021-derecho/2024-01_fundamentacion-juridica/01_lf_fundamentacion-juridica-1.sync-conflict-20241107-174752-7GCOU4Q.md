@@ -139,6 +139,7 @@ Durante la época de la colonia, que ocurre cuando el dominio español en las ti
 
 En todo caso, la legislación indiana fue el punto de partida sobre el que trabajaron las nacientes repúblicas para darse su propia legislación, y a pesar de que posteriormente se mostrará la importancia del derecho francés en la legislación colombiana, este modelo se habrá de aplicar como un avance frente a la legislación inicialmente aplicable, que era el cuerpo normativo indiano.
 
+
 ## 5.2. La importancia del naciente constitucionalismo
 
 Para efectos de poder entender las fuentes jurídicas que serán relevantes en Colombia a partir de su independencia, es necesario abordar igualmente el surgimiento de las constituciones, y por ende del proceso de constitucionalización en Europa. Como se ha indicado anteriormente, el surgimiento de los Estados-nación se construyó sobre la base de la unificación de la identidad cultural de los distintos Estados. Esa identidad dejó de ser especialmente importante por un periodo de tiempo, en donde había una lengua culta (el latín) y la lengua vulgar propia de cada población. Sin embargo, a raíz de muchos de los cismas que sufrió la Iglesia católica, como por ejemplo a raíz de la Reforma protestante; el surgimiento del anglicanismo, el calvinismo, el luteranismo —todos ellos apartándose de la Iglesia católica—, las identidades nacionales empezaron a ser relevantes, e igualmente relevante pasó a ser contar con una figura poderosa que fuese capaz de unificar a la nación a partir de un único Estado.
