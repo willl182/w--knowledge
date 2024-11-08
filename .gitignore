@@ -231,3 +231,6 @@ Thumbs.db
 # IDE-specific
 .vscode/
 .idea/
+
+# carpeta recursos
+04-recursos/
