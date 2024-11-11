@@ -1,0 +1,117 @@
+# Formulacion del proyecto multimedia
+## competencia del programa
+Formular el proyecto multimedia de acuerdo con metodologías y documento de Requisitos
+## elemento de competencia
+parametrizar la multimedia
+determinar la estructura
+
+## Resultado de aprendizaje
+1 Establecer los requisitos, plataformas y condiciones técnicas del proyecto de acuerdo con las especificaciones del público objetivo y el cliente
+2 Elaborar la propuesta del proyecto de acuerdo con los requisitos y el plan de Trabajo.
+3 Ajustar la propuesta del proyecto de acuerdo con el proceso de validación con el cliente
+4 Realizar el pitchbook del proyecto con base en las características del usuario y la identidad corporativa.
+
+## Saberes
+### saberes de proceso
+1 Establecer los requisitos, plataformas y condiciones técnicas del proyecto de acuerdo con las especificaciones del público objetivo y el cliente 
+● Identificar necesidades del usuario y del cliente 
+● Identificar características del usuario y del cliente 
+● Identificar requisitos técnicos del proyecto 
+● Seleccionar la tipología y la plataforma del proyecto 
+● Reconocer las técnicas de recolección de información 
+● Seleccionar la técnica de recolección de información 
+● Elaborar los instrumentos de recolección de información 
+● Validar los instrumentos de recolección de información 
+● Aplicar instrumentos de recolección de información 
+● Identificar procedimientos técnicos y de lenguaje para la plataforma. 
+● Reconocer infraestructura tecnológica de hardware, software y comunicaciones. 
+● Identificar las herramientas de desarrollo.
+
+2 Elaborar la propuesta del proyecto de acuerdo con los requisitos y el plan de trabajo concertado en la negociación con el cliente 
+● Tabular resultados de recolección de información 
+● Reconocer los aspectos legales de regulación de proyectos 
+● Aplicar conceptos básicos de costos y presupuesto 
+● Establecer términos y condiciones del proyecto. 
+● Aplicar técnicas y conceptos de atención al cliente 
+● Elaborar plan de trabajo del proyecto 
+● Elaborar propuesta del proyecto
+
+3 Ajustar la propuesta del proyecto de acuerdo con el proceso de validación con el cliente 
+● Realizar presentación del proyecto 
+● Elaborar actas e informes 
+● Validar la propuesta del proyecto 
+● realizar ajustes a propuesta del proyecto
+
+4 Realizar el pitchbook del proyecto con base en las características del usuario y la identidad corporativa 
+● Realizar la propuesta gráfica 
+● Presentar la propuesta gráfica 
+● Validar la propuesta gráfica con el cliente
+
+### saberes conceptos y principios
+1 Establecer los requisitos, plataformas y condiciones técnicas del proyecto de acuerdo con las especificaciones del público objetivo y el cliente 
+● Multimedia: conceptos, tipos, componentes, características, medios de difusión, web, móvil, APIs, frameworks, televisión y escritorio, Plataformas tecnológicas relacionadas con el diseño y desarrollo de multimedia 
+● Web: conceptos, tipos, elementos, características, lenguajes, protocolos y motores de búsqueda. Plataformas tecnológicas relacionadas con desarrollo web 
+● Realidad aumentada y virtual: Entornos reales, Entornos aumentados, Características de realidad virtual vs realidad aumentada, Conceptos de iluminación en proyectos de realidad aumentada, Patrones en AR, tipos de patrones en AR (marcadores, tracking, objetos 3d), Mockups, Herramientas para la creación de mockups, Diseño en capas de realidad aumentada, Plataformas tecnológicas relacionadas con realidad aumentando 
+● Proyectos: aplicación en el contexto productivo y/o social, ciclo de vida, objetivos, metodología, plan de trabajo, listas de verificación, documentación del proyecto, brief, matriz de análisis (DAFO, DOFA, entre otras). 
+● Recolección de información: Entrevistas, encuestas, sesiones de grupo, talleres de sensibilización, observación, redes sociales, blog, herramientas de teleconferencia y comunidades. 
+● Servicio al cliente: conceptos básicos sobre la atención al cliente Infraestructura tecnológica de hardware, software y comunicaciones: Condiciones de acceso a APIs, condiciones de configuración de los servidores, procedimientos técnicos de integración entre plataforma y aplicativo. 
+● Herramientas de desarrollo: Características. Ambientes de desarrollo. Criterios y características básicos para selección de herramientas.
+
+2 Elaborar la propuesta del proyecto de acuerdo con los requisitos y el plan de trabajo concertado en la negociación con el cliente 
+● Técnicas de comunicación: Redacción y ortografía. 
+● Técnicas de negociación: principios básicos de negociación, tipos de empresas, elaboración de propuestas, tipos de clientes, tipos de contratos. 
+● Regulación legal de proyectos: Propiedad intelectual y derechos de autor, protección de derechos, registros y patentes, procedimientos, normas, leyes, copyright en plataformas on line. 
+● Conceptos básicos de costos y presupuesto aplicados en proyectos multimedia, web realidad aumentada y realidad virtual. 
+● Elaboración de cronogramas: Uso de herramientas y formatos para la elaboración de cronogramas. Técnicas de elaboración de planes de trabajo. Uso de plataformas tecnológicas para coordinación de equipos de trabajo y tareas del proyecto. 
+● Regulación técnica en proyectos tecnológicos: Identificación de procedimientos técnicos y de lenguaje para montaje del proyecto a la plataforma
+
+3 Ajustar la propuesta del proyecto de acuerdo con el proceso de validación con el cliente 
+● Técnicas de comunicación: Elaboración de presentaciones, elaboración de actas e informes. 
+● Presentación de actas e informes, técnicas de presentación, comunicación verbal y no verbal
+
+4 Realizar el pitchbook del proyecto con base en las características del usuario y la identidad corporativa
+ ● Diseño gráfico: conceptualización de ideas, teoría del color, composición de la imagen, teoría de la imagen, resolución y formatos. 
+ ● Creatividad e Innovación: definición, tipos, técnicas, características y procesos creativos. 
+ ● Validación de propuesta gráfica, actividades de pensamiento divergente y convergente, conceptos de innovación y técnicas de innovación.
+
+## criterios de evaluacion
+1 Establecer los requisitos, plataformas y condiciones técnicas del proyecto de acuerdo con las especificaciones del público objetivo y el cliente 
+● Determina la tipología y la plataforma del proyecto según las especificaciones técnicas 
+● Selecciona la plataforma y recursos necesarios para el montaje del proyecto. 
+● Selecciona la técnica de recolección de información que responda a las necesidades del proyecto. 
+● Elabora los instrumentos de recolección de información de acuerdo con las normas técnicas 
+● Aplica los instrumentos de recolección de información para definir las características del proyecto 
+● Identifica la herramienta de desarrollo para el proyecto de acuerdo con el mapa de navegación y documentos de diseño. 
+● Tabula resultados de la recolección de información para elaboración de informes. 
+● Elabora actas e informes para documentar las especificaciones del proyecto. 
+● Elabora documento de especificación de requerimientos para el proyecto de acuerdo con informe de tabulación.
+
+2 Elaborar la propuesta del proyecto de acuerdo con los requisitos y el plan de trabajo concertado en la negociación con el cliente 
+ ● Interpreta el informe de requisitos para la elaboración de la propuesta del proyecto 
+ ● Elabora informe de costos del proyecto para la negociación con el cliente. 
+ ● Estructura plan de trabajo para definir roles en la producción del proyecto utilizando plataformas tecnológicas para la elaboración de informes y aplicación de instrumentos. 
+ ● Expone el proyecto empleando técnicas de presentación verbal, no verbal y escrita. 
+ ● Negocia la propuesta del proyecto con el cliente para la concertación de acuerdos.
+ 
+3 Ajustar la propuesta del proyecto de acuerdo con el proceso de negociación con el cliente.
+ ● Realiza los ajustes del proyecto de acuerdo con lo definido en la negociación con el cliente 
+ ● Valida los resultados del análisis con el cliente para determinar el alcance del proyecto.
+ 
+4 Realizar el pitchbook del proyecto con base en las características del usuario y la identidad corporativa.
+ ● Elabora el diseño de la información con base en los requerimientos del usuario 
+ ● Diseña elementos gráficos del proyecto con base en los requerimientos del usuario y del cliente. 
+ ● Elabora el pitchbook de acuerdo con las características definidas para el proyecto 
+ ● Presenta el pitchbook del proyecto para evidenciar avances y generar un proceso de retroalimentación con el cliente.
+
+## Software Especializado.
+ ● Licencias WINDOWS 10 DE 64 BIT. Cant. 
+ ● Licencias software Autodesk de 64 bits Para: Maya, 3dmax, Toon Boom, animate pro 2, mudbox, Dragonframe stop motion 3.0, Anime studio pro, motion builder. 
+ ● Licencias Zbrush. 
+ ● Licencias Adobe Creative Cloud (Dreamweaver, Animate, Premier, Audition, Illustrator, Photoshop, After effect, Flash Builder, Prelude, InDesing, Lightroom, Muse, Brackets). 
+ ● Licencias Open office 4.1.2. 
+ ● Licencias Unity3d Pro. 
+ ● Licencias Unity3d Pro para Iphone. 
+ ● Licencias Unity3d Pro para Android. 
+ * Licencias Microsoft office 2016. 
+ ● Licencias Vuforia, Layar. ARTToolkit, Wikitud, Kudan, librerias web.
+

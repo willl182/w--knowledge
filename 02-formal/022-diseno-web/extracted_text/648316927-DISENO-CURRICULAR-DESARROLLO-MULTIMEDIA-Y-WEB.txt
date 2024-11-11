@@ -1,0 +1,1460 @@
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.1 
+Este documento impreso se considera copia no controlada  
+ 
+RED DE CONOCIMIENTO  
+INFORMACIÓN GENERAL DEL PROGRAMA DE FORMACIÓN  
+CÓDIGO/Versión  DENOMINACIÓN DEL PROGRAMA:  
+2281xxx  Desarrollo Multimedia y Web  
+DURACIÓN MÁXIMA 
+ESTIMADA  DEL 
+APRENDIZAJE EN 
+HORAS  4068 horas  
+JUSTIFICACIÓN  En el ámbito internacional, existen estudios que revelan que el déficit de 
+la formación del recurso humano es una de las principales barreras 
+identificadas en el estudio para el desarrollo de un sector competitivo 
+en los países en desarrollo. A este respecto, en muchas naciones exist e 
+un déficit importante de ingenieros de software y especialistas de áreas 
+afines a las Tecnologías de la Información y la Comunicación (TIC), así 
+como insuficiencias en materia de capacidades de emprendimiento e 
+innovación, competencias de gerencia y gest ión comercial. El problema 
+principal en estos países, lo que podría aplicar también para Colombia, 
+es que la demanda potencial de la industria supera la oferta local de 
+mano de obra calificada, a un ritmo que puede estancar su crecimiento, 
+especialmente ha cia los mercados externos.  
+  
+Colombia es el quinto Mercado en la región de América Latina, 
+contribuyendo con el cinco por ciento (1.600 millones USD) del total del 
+mercado de servicios de TI de 32,000 millones USD [GartnerEMA2012] y 
+se pronostica que el me rcado crecerá al 12.1% para alcanzar 2,600 
+millones USD para el 2016.  
+  
+Proexport [Proexport2013], el cuerpo de inversión y promoción a las 
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.2 
+Este documento impreso se considera copia no controlada  
+exportaciones en Colombia, reporta que el Mercado de TI, comprendido 
+de hardware, productos y servicios de software,  es de 6.800 millones 
+USD, de los cuales, el 30% son servicios de TI llevándonos a 2.052 
+millones USD. Mientras que el total de la industria de TI ha crecido 12% 
+anualmente los últimos 5 años, la industria de servicios de TI ha crecido 
+al 23% y se pronosti ca un déficit incremental de empleos de 166,956 
+(agresivo), 103,250 (moderado) o 55,217 (conservador) para 2020.  
+Dadas las proyecciones, después de 2016 el problema de la escasez de 
+talento de TI crece exponencialmente y no puede resolverse fácilmente. 
+Por lo tanto el Gobierno de Colombia debe tomar serias medidas para 
+superar la disponibilidad de talento antes de 2015 para ver la 
+efectividad de las medidas.  
+Lo anterior, demuestra claramente la necesidad existente y futura de 
+formación de personal en tecnol ogías relacionadas con el sector de las 
+TIC, las cuales han sido identificadas hacia desarrollos a medida, 
+programación, algoritmos, bases de datos y redes (Arquitectura Cliente -
+Servidor); integración aplicada de las áreas,  testing y la adaptación del 
+software a mercados y sectores locales, tecnologías de gestión y 
+producción en la nube, tecnologías de seguridad digital o 
+ciberseguridad,  tecnologías de producción, gestión y manipulación de 
+contenidos digitales sobre redes y plataformas digitales, fijas, m óviles y 
+convergentes, big data, SCRUM, tecnologías de seguridad, generación, 
+producción y explotación de software en la nube, así como reforzar 
+conocimiento en áreas como Administración de Proyectos y habilidades 
+analíticas y fortalecer las habilidades bl andas en áreas como la 
+comunicación, trabajo en equipo, interacción con clientes e Inglés de 
+Negocios.  
+  
+Estos campos requeridos de formación, están siendo demandados por el 
+sector productivo y generan oportunidades potenciales de desempeño 
+para las person as, lo cual es uno de los factores tenidos en cuenta para 
+la generación de diseños curriculares relacionados con las tecnologías 
+del sector TIC y la red de conocimiento en informática, diseño y 
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.3 
+Este documento impreso se considera copia no controlada  
+desarrollo de software, como apoyo al desarrollo del mismo.  
+  
+El SENA ofrece el programa de formación Tecnólogo en Desarrollo 
+multimedia y web, con todos los elementos de formación profesional, 
+sociales, tecnológicos y culturales, aportando como elementos 
+diferenciadores de valor agregado metodologías de aprendizaje 
+innovadoras, el acceso a tecnologías de última generación y una 
+estructuración sobre métodos más que contenidos, lo que potencia la 
+formación de ciudadanos librepensadores, con capacidad crítica, 
+solidaria y emprendedora, factores que lo acreditan y lo hac en 
+pertinente y coherente con su misión, innovando permanentemente de 
+acuerdo con las tendencias y cambios tecnológicos y las necesidades del 
+sector empresarial y de los trabajadores, impactando positivamente la 
+productividad, la competitividad, la equidad  y el desarrollo del país.  
+ 
+REQUISITOS DE 
+INGRESO  Académicos :  
+ 
+Académicos: Bachiller Grado 11.  
+ 
+Superar prueba de aptitud, motivación, interés y competencias mínimas 
+de ingreso.  
+ 
+OCUPACIONES QUE 
+PODRÁ DESEMPEÑAR  Desarrollador de multimedia – 2513 -  5141  
+Desarrollador de sitios web -2513 -  2173  
+ 
+ESTRATEGIA 
+METODOLÓGICA  
+ Centrada en la construcción de autonomía para garantizar la calidad de 
+la formación en el marco de la formación por competencias, el 
+aprendizaje por proyectos y el  uso de  técnicas didácticas activas que 
+estimulan el pensamiento para la resolución de prob lemas simulados y 
+reales; soportadas en la utilización de las tecnologías de la información y 
+la comunicación, integradas, en ambientes abiertos y pluritecnológicos, 
+que en todo caso recrean el contexto productivo y vinculan al aprendiz 
+con la realidad cot idiana y el desarrollo de las competencias.  
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.4 
+Este documento impreso se considera copia no controlada  
+ 
+Igualmente, debe estimular de manera  permanente la autocrítica y la 
+reflexión del aprendiz sobre el qué hacer y los resultados de aprendizaje 
+que logra a través de la  vinculación  activa  de las cuatro fuente s de 
+información para la construcción de conocimiento:  
+● El instructor  - Tutor  
+● El entorno  
+● Las TIC  
+● El trabajo colaborativo.  
+ 
+ 
+ 
+CONTENIDOS CURRICULARES DE LA COMPETENCIA  
+ 
+NOMBRE COMPETENCIA DEL PROGRAMA  CÓDIGO NCL  NOMBRE DE NCL  
+Formulación del proyecto multimedia  220501100  Formular el proyecto 
+multimedia de acuerdo con 
+metodologías y documento de 
+requisitos  
+CÓDIGO DEL 
+ELEMENTO  ELEMENTO DE COMPETENCIA  
+1 
+2 Parametrizar la multimedia  
+Determinar la estructura  
+DURACIÓN MÁXIMA ESTIMADA PARA EL LOGRO DEL 
+APRENDIZAJE  750 HORAS  
+2. RESULTADOS DE APRENDIZAJE  
+N° DENOMINACIÓN  
+22050110001  Establecer los requisitos, plataformas y condiciones técnicas del proyecto  de 
+acuerdo con las especificaciones del público objetivo y el cliente  
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.5 
+Este documento impreso se considera copia no controlada  
+22050110002  Elaborar la propuesta del proyecto de acuerdo con los requisitos y el plan de 
+trabajo.  
+22050110003  Ajustar la propuesta del proyecto de acuerdo con el proceso de validación 
+con el cliente.  
+22050110004  Realizar el pitchbook del proyecto  con base en las características del usuario 
+y la identidad corporativa.  
+3. SABERES  
+3.1  SABERES DE PROCESO  
+Establecer los requisitos, plataformas y condiciones técnicas del proyecto  de acuerdo con las 
+especificaciones del público objetivo y el cliente  
+ 
+● Identificar necesidades del usuario y del cliente  
+● Identificar características del usuario y del cliente  
+● Identificar requisitos técnicos del proyecto  
+● Seleccionar la tipología y la plataforma del proyecto  
+● Reconocer las técnicas de recolección de información  
+● Seleccionar la técnica de recolección de información  
+● Elaborar los instrumentos de recolección de información  
+● Validar los instrumentos de recolección de información  
+● Aplicar instrumentos de recolección de información  
+● Identificar procedimientos técnicos y de lenguaje para la plataforma.  
+● Reconocer infraestructura tecnológica de hardware, software y comunicaciones.  
+● Identificar las herramientas de desarrollo.  
+ 
+Elaborar la propuesta del proyecto de acuerdo con los requisitos y el plan de trabajo concertado 
+en la n egociación con el cliente  
+ 
+● Tabular resultados de recolección de información  
+● Reconocer los aspectos legales de regulación de proyectos  
+● Aplicar conceptos básicos de costos y presupuesto  
+● Establecer términos y condiciones del proyecto.  
+● Aplicar técnicas y conceptos de atención al cliente  
+● Elaborar plan de trabajo del proyecto.  
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.6 
+Este documento impreso se considera copia no controlada  
+● Elaborar propuesta del proyecto  
+ 
+Ajustar la propuesta del proyecto de acuerdo con el proceso de validación con el cliente  
+ 
+● Realizar presentación del proyecto  
+● Elaborar actas e informes  
+● Validar la propuesta del proyecto  
+● realizar ajustes a propuesta del proyecto  
+ 
+Realizar el pitchbook del proyecto  con base en las características del usuario y la identidad 
+corporativa  
+ 
+● Realizar la propuesta gráfica  
+● Presentar la propuesta gráfica  
+● Validar la  propuesta gráfica con el cliente  
+ 
+3.2 SABERES CONCEPTO Y PRINCIPIOS  
+ 
+Establecer los requisitos, plataformas y condiciones técnicas del proyecto  de acuerdo con las 
+especificaciones del público objetivo y el cliente  
+ 
+● Multimedia: conceptos, tipos, componentes, características, medios de difusión, web, 
+móvil, APIs, frameworks, televisión y  escritorio, Plataformas tecnológicas relacionadas 
+con el diseño y desarrollo de multimedia  
+● Web: conceptos, tipos, elementos, caract erísticas, lenguajes, protocolos y motores de 
+búsqueda. Plataformas tecnológicas relacionadas con desarrollo web  
+● Realidad aumentada y virtual: Entornos reales, Entornos aumentados, Características de 
+realidad virtual vs realidad aumentada, Conceptos de ilu minación en proyectos de 
+realidad aumentada, Patrones en AR, tipos de patrones en AR (marcadores, tracking, 
+objetos 3d), Mockups, Herramientas para la creación de mockups, Diseño en capas de 
+realidad aumentada, Plataformas tecnológicas relacionadas con rea lidad aumentando  
+● Proyectos: aplicación en el contexto productivo y/o social, ciclo de vida, objetivos, 
+metodología, plan de trabajo, listas de verificación, documentación del proyecto, brief, 
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.7 
+Este documento impreso se considera copia no controlada  
+matriz de análisis (DAFO, DOFA, entre otras).  
+● Recolección de in formación: Entrevistas, encuestas, sesiones de grupo, talleres de 
+sensibilización, observación, redes sociales, blog, herramientas de teleconferencia y 
+comunidades.  
+● Servicio al cliente: conceptos básicos sobre la atención al cliente  
+Infraestructura tecnoló gica de hardware, software y comunicaciones: Condiciones de 
+acceso a APIs, condiciones de configuración de los servidores, procedimientos técnicos de 
+integración entre plataforma y aplicativo.  
+● Herramientas de desarrollo: Características. Ambientes de desar rollo. Criterios y 
+características básicos para selección de herramientas.  
+ 
+Elaborar la propuesta del proyecto de acuerdo con los requisitos y el plan de trabajo concertado 
+en la negociación con el cliente  
+ 
+● Técnicas de comunicación: Redacción y ortografía.  
+● Técnicas de negociación: principios básicos de negociación, tipos de empresas, 
+elaboración de propuestas, tipos de clientes, tipos de contratos.  
+● Regulación legal de proyectos: Propiedad intelectual y derechos de autor, protección de 
+derechos, registros y patentes, procedimientos, normas, leyes, copyright en plataformas 
+on line.  
+● Conceptos básicos de costos y presupuesto aplicados en  proyectos multimedia, web 
+realidad aumentada y realidad virtual.  
+● Elaboración de cronogramas: Uso de herramientas y formatos p ara la elaboración de 
+cronogramas.  Técnicas de elaboración de planes de trabajo.  Uso de plataformas 
+tecnológicas para coordinación de equipos de trabajo y tareas del proyecto.  
+● Regulación técnica en proyectos tecnológicos: Identificación de procedimientos  técnicos y 
+de lenguaje para montaje del proyecto a la plataforma.  
+ 
+Ajustar la propuesta del proyecto de acuerdo con el proceso de validación con el cliente  
+ 
+● Técnicas de comunicación: Elaboración de presentaciones, elaboración de actas e 
+informes.  
+● Presentación de actas e informes, técnicas de presentación, comunicación verbal y no 
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.8 
+Este documento impreso se considera copia no controlada  
+verbal.  
+ 
+Realizar el pitchbook del proyecto  con base en las características del usuario y la identidad 
+corporativa  
+ 
+● Diseño gráfico: conceptualización de ideas, teoría del  color, composición de la imagen, 
+teoría de la imagen, resolución y formatos.  
+● Creatividad e Innovación: definición, tipos, técnicas, características y procesos creativos.  
+● Validación de propuesta gráfica, actividades de pensamiento divergente y convergente,  
+conceptos de innovación y técnicas de innovación.  
+ 
+4. CRITERIOS DE EVALUACIÓN  
+ 
+Establecer los requisitos, plataformas y condiciones técnicas del proyecto  de acuerdo con las 
+especificaciones del público objetivo y el cliente  
+ 
+● Determina la tipología y la plataforma del proyecto según las especificaciones técnicas  
+● Selecciona la plataforma y recursos necesarios para el montaje del proyecto.  
+● Selecciona la técnica de recolección de información que responda a las necesidades del 
+proyecto.  
+● Elabora los instrument os de recolección de información de acuerdo con las normas 
+técnicas  
+● Aplica los instrumentos de recolección de información para definir las características del 
+proyecto  
+● Identifica la herramienta de desarrollo para el proyecto de acuerdo con el mapa de 
+nave gación y documentos de diseño.  
+● Tabula resultados de la recolección de información para elaboración de informes.  
+● Elabora actas e informes para documentar las especificaciones del proyecto.  
+● Elabora documento de especificación de requerimientos para el proyec to de acuerdo con 
+informe de tabulación.  
+ 
+Elaborar la propuesta del proyecto de acuerdo con los requisitos y el plan de trabajo concertado 
+en la negociación con el cliente  
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.9 
+Este documento impreso se considera copia no controlada  
+ 
+● Interpreta el informe de requisitos para la elaboración de la propuesta del proyecto  
+● Elabora informe de costos del proyecto para la negociación con el cliente.  
+● Estructura plan de trabajo para definir roles en la producción del proyecto utilizando 
+plataformas tecnológicas para la elaboración de informes y aplicación de instrumentos . 
+● Expone el proyecto empleando  técnicas de presentación verbal, no verbal y escrita.  
+● Negocia la propuesta del proyecto con el cliente para la concertación de acuerdos.  
+ 
+Ajustar la propuesta del proyecto de acuerdo con el proceso de negociación con el clie nte. 
+ 
+● Realiza los ajustes del proyecto de acuerdo con lo definido en la negociación con el cliente  
+● Valida los resultados del análisis con el cliente para determinar el alcance del proyecto.  
+ 
+ 
+Realizar el pitchbook del proyecto  con base en las característi cas del usuario y la identidad 
+corporativa.  
+ 
+● Elabora el diseño de la información con base en los requerimientos del usuario  
+● Diseña elementos gráficos del proyecto con base en los requerimientos del usuario y del 
+cliente.  
+● Elabora el pitchbook de acuerdo con  las características definidas para el proyecto  
+● Presenta el pitchbook del proyecto para evidenciar avances y generar un proceso de 
+retroalimentación con el cliente.  
+ 
+5. PERFIL TÉCNICO DEL INSTRUCTOR  
+ 
+Requisitos Académicos: Requisitos Académicos: Profesional  o tecnólogo en producción de 
+multimedia, desarrollo multimedia y web, diseño gráfico, diseño visual, comunicación visual, 
+publicidad, artes plastìcas con énfasis en medios, ingenieros multimedia, ingenieros de sistemas, 
+animación y/o áreas afines, preferi blemente con Certificación Internacional en Desarrollo de 
+Productos de Multimedia sobre Plataformas Adobe.  
+ 
+Experiencia laboral: Veinticuatro (24) meses de Experiencia: de los cuales Dieciocho (18) meses 
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.1
+0 
+Este documento impreso se considera copia no controlada  
+estarán relacionados con el ejercicio de la profesió n u oficio objeto de la formación profesional y 
+Seis (6) meses en labores de docencia.  
+ 
+Competencias:  
+● Gestión de proyectos  
+● Diseño gráfico o visual  
+● Maquetación  
+● Diseño de interfaces y elementos para proyectos tecnológicos (multimedia, web, realidad 
+aumenta da, realidad virtual)  
+● Animación  
+● Formular, ejecutar y evaluar proyectos  
+● Capacidad en la coordinación de equipos interdisciplinares.  
+● Establecer procesos comunicativos asertivos.  
+● Manejar las TIC asociadas al área objeto de la formación.  
+● Capacidad para trabaja r en equipo  
+● Dominio de un segundo idioma.  
+● Adaptación al cambio.  
+● Argumentativo y propositivo  
+● Formular, ejecutar y evaluar proyectos  
+● Trabajar en equipo  
+● Establecer procesos comunicativos asertivos  
+● Manejar herramientas informáticas asociadas al área objeto de  la formación  
+ 
+6. AMBIENTES MÍNIMOS DE APRENDIZAJE PARA LA COMPETENCIA DE FORMACIÓN  
+Maquinaria y Equipo Especializado  
+ 
+● 30 Equipos de alto rendimiento, con las siguientes características mínimas: Procesador 
+Core i7­3820 de 3.3 Ghz, Board ASUS P8Z68­V PRO/GEN3 Disco duro de 1 Tera, Tarjeta de 
+video Asus GeForce GTX 1080 Memoria Ram DDR5 de 32Gb Fuente de poder de 750 
+Watts Reales teclado genérico, Mouse genérico, Monitor de 22" Full HD, IPS, LED  
+● 15 Tablet iOS 9,5 16GB pulgadas WiFi.  
+● 15 Tab let Android 10 pulgadas WiFi.  
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.1
+1 
+Este documento impreso se considera copia no controlada  
+● 15 Teléfono móvil Android.  
+● 15 Teléfono Móvil iOS.  
+● 15 CardBoard  
+● 3 Oculus Rift o Gear Vr3 Cámaras 360  
+● 3 Myo ArmBand  
+● 3 Vr Joystick  
+● 1 Kinect  
+● Tabletas Digitalizadoras Wacom Intous 5 o Pro. Wireless.  
+● 1 Servidor en Torre Intel Xeon E3 -1220V2 3.10GHz, 16GB, 2TB (2x 1TB)  
+● Proyector para mapping superior a 10.000 lumenes  
+● 30 Tabletas Digitalizadoras Intuos 5, area activa 224 x 140 mm, 2048 niveles de presión, 
+Resolución 5080 dpi  
+● 5 Cámaras fotográficas digital resol 20.2 mega píxeles con memor ia SDHC 32 GB. 
+Preferiblemente Cannon EOS 6d Mark3.  
+● 3 Cámaras De Video con las siguientes características:  
+○ HD, Formato de grabación AVCHD o HDV, 3ccd  
+○ Soporte de grabación en Tarjeta, Conexiones y salidas de video para televisión y 
+ordenador, y Modos autom áticos y manuales.  
+● 3 Trípodes Fotografía -Video con Burbuja de Nivel, fabricado de Aluminio liviano, con patas 
+antideslizantes y retráctil.  
+● 30 Diademas con micrófono.  
+● 1 Televisor Led Full HD 50 pulgadas, wifi, grabación interna de video.  
+● 5 Grabadoras profes ionales de 4 pistas portátiles.  
+ 
+Mobiliario  
+ 
+● Mesas para trabajo colaborativo para 30 aprendices.  
+● 1 Mesa de trabajo para instructor  
+● 31 Sillas  
+● 1 Tablero  
+● 1 Locker  
+ 
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.1
+2 
+Este documento impreso se considera copia no controlada  
+Software Especializado.  Licencia por máquina  
+● Licencias WINDOWS 10 DE 64 BIT. Cant.  
+● Licencias software Autodesk de 64 bits Para: Maya, 3dmax, Toon Boom, animate pro 2, 
+mudbox, Dragonframe stop motion 3.0, Anime studio pro, motion builder.  
+● Licencias Zbrush.  
+● Licencias Adobe Creative Cloud (Dreamweaver, Animate, Premier, Audition, Illustrator, 
+Photosh op, After effect, Flash Builder, Prelude, InDesing, Lightroom, Muse, Brackets).  
+● Licencias Open office 4.1.2.  
+● Licencias Unity3d Pro.  
+● Licencias Unity3d Pro para Iphone.  
+● Licencias Unity3d Pro para Android.  
+● Licencias Microsoft office 2016.  
+● Licencias Vuforia, L ayar. ARTToolkit, Wikitud, Kudan, librerias web.  
+ 
+7. REFERENTES BIBLIOGRÁFICOS PARA LA COMPETENCIA DE FORMACIÓN  
+● Stephen Anderson, Diseño que seduce: Cómo desarrollar webs y aplicaciones atractivas al 
+usuario. Editorial: Anaya Multimedia.  
+● Steve Krug, No me                                                            
+● Donald Norman, The Design of Everyday Things / Revised and expanded edition. Editorial: 
+Basic Books.  
+● Jeff Gothelf, Josh Seiden y Eric Ries, Lean UX: Cómo aplicar los principios de Lean a la 
+mejora  de la experiencia de usuario. Editorial:Universidad Internacional de la Rioja.  
+● Jon Duckett, JavaScript and JQuery: Interactive Front -End Web Development. Editorial: 
+Wiley.  
+● Wilson L. Pantoja, Julio A. Hurtado, Patrones de diseño: construyendo aplicaciones 
+flexibles y reutilizables. Editorial: Universidad del Cauca.  
+● Martin Alaimo, Equipos Más Productivos: Personas e interacciones por sobre procesos y 
+herramientas. Editorial: Kleer.  
+● Martin Alaimo, Proyectos Ágiles con Scrum: Flexibilidad, aprendizaje, innovación y 
+colaboración en contextos complejos. Editorial: Kleer.  
+● Martin Alaimo, Facilitador de Equipos Ágiles: El camino de un coach hacia la agilidad 
+empresarial. Editorial: Kleer.  
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.1
+3 
+Este documento impreso se considera copia no controlada  
+● Martin Alaimo, Proyectos Ágiles con Scrum. 2 Edición. Editorial: Kleer.  
+● Mullen, Tony (2011).  Prototyping Augmented Reality. Indianapolis Indiana.  
+● Kipper Gregory, Rampolla Joseph (2013).  Augmented Reality An Emerging Technologies 
+Guide to AR. First Edition. Syngress.  
+ 
+ 
+ 
+CONTENIDOS CURRICULARES DE LA COMPETENCIA  
+ 
+NOMBRE COMPETENCIA DEL 
+PROGRAMA  CÓDIGO NCL  NOMBRE DE NCL  
+Elaboración del proyecto multimedia.  
+ 220501101  Elaborar proyecto multimedia de 
+acuerdo con procedimientos 
+técnicos.  
+CÓDIGO DEL 
+ELEMENTO  ELEMENTO DE COMPETENCIA  
+1 
+2 
+3 
+                                           
+ 
+ 
+ 
+ 
+ Ensamblar mapa de navegación  
+Determinar guión técnico  
+Fabricar componentes 
+multimedia  
+DURACIÓN MÁXIMA ESTIMADA PARA EL LOGRO DEL 
+APRENDIZAJE  962 HORAS  
+8. RESULTADOS DE APRENDIZAJE  
+N° DENOMINACIÓN  
+22050110101  Definir la interactividad y la estructura visual del proyecto de acuerdo con las 
+necesidades del usuario.  
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.1
+4 
+Este documento impreso se considera copia no controlada  
+22050110102  Desarrollar el prototipo según estándares de usabilidad, accesibilidad y 
+escalabilidad.  
+22050110103  Probar la usabilidad de los elementos gráficos, audiovisuales e interactivos de 
+acuerdo con las especificaciones del proyecto.  
+22050110104  Adaptar los elementos gráficos, audiovisuales e interactivos del prototipo 
+conforme con los resultados de las pruebas  
+9. SABERES  
+3.1  SABERES DE  PROCESO  
+ 
+Definir la interactividad y la estructura visual del proyecto de acuerdo con las necesidades del 
+usuario.  
+● Generar sistema de navegación  
+● Desarrollar el guión  
+● Construir elementos narrativos  
+● Crear el Storyboard  
+● Diseñar el Wireframe  
+● Construir el Mo ckup  
+● Diseñar la experiencia de usuario.   
+ 
+Desarrollar el prototipo que contiene los elementos gráficos, audiovisuales e  interactivos según 
+estándares de usabilidad, accesibilidad y escalabilidad.  
+  
+● Seleccionar medios de captura, almacenamiento y transferencia de elementos gráficos y 
+Audiovisuales.  
+● Componer imágenes vectoriales y/o bitmap  
+● Elaborar formatos técnicos de preproducción  
+● Producir video  
+● Editar piezas sonoras  
+● Realizar la animación  
+● Desarrollar los elementos interactivos  
+● Aplicar estándares d e usabilidad y accesibilidad  
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.1
+5 
+Este documento impreso se considera copia no controlada  
+● Construir el prototipo del proyecto  
+  
+Probar la usabilidad de los elementos gráficos, audiovisuales e interactivos de acuerdo con las 
+especificaciones del proyecto.  
+  
+● Elaborar los instrumentos de pruebas de usabilidad y accesib ilidad.  
+● Aplicar pruebas de usabilidad y accesibilidad.  
+● Desarrollar el informe de conclusiones de la prueba de usabilidad y accesibilidad  
+  
+Adaptar los elementos gráficos, audiovisuales e interactivos del prototipo conforme con los 
+resultados de las pruebas . 
+  
+● Seleccionar los formatos de salida de los elementos gráficos, audiovisuales e interactivos  
+● Ajustar los elementos gráficos, audiovisuales e interactivos  
+● Optimizar los elementos gráficos, audiovisuales e interactivos  
+● Exportar los elementos audiovisuales.  
+ 
+9.2 SABERES CONCEPTO Y PRINCIPIOS  
+Definir la interactividad y la estructura visual del proyecto de acuerdo con las necesidades del 
+usuario.  
+● Sistemas de Navegación: Concepto, Clases, (Lineal, jerárquico, libre, híbrido, etc) 
+navegabilidad.  
+● Guiones: Tipos, conceptos, características, estructura narrativa básica. Storyboard.  
+● Wireframe, Mockup.  
+● Diseño de Experiencia de Usuario: Definición, principios, características, elementos, 
+arquitectura de la información, diseño de interacción, diseño de interfaz de usuar io. 
+  
+Desarrollar el prototipo que contiene los elementos gráficos, audiovisuales e  interactivos según 
+estándares de usabilidad, accesibilidad y escalabilidad.  
+  
+● Prototipo: Definición, finalidad, clases.  
+● Usabilidad: Estándares, conceptos, características,  principios, aplicaciones.  
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.1
+6 
+Este documento impreso se considera copia no controlada  
+● Accesibilidad: Estándares, conceptos, normatividad, principios y aplicación.  
+● Fundamentos del diseño: Principios, elementos, teoría del color, composición. 
+diagramación, tipografía, leyes de Gestalt, imagen corporativa, línea gráf ica. 
+● Imagen: tipos, formatos, producción, edición, corrección.  
+● Video: pre -producción, producción, formatos.  
+● Lenguaje Audiovisual: Encuadre, planos, ángulos, profundidad de campo, movimientos de 
+cámara, ley de tercios.  
+● Lenguaje de programación: Tipos, características, sintaxis.  
+● Lenguajes de Marcado y Maquetación: Conceptos, Características, Sintaxis.  
+● Sonido: producción, edición, criterios uso, licenciamiento.  
+● Animación: creación y caracterización de personajes, línea de acción, model sheet, 
+animatic.  
+● Técnicas de Animación: Flipbook, stopmotion, pixilación, claymation, rotoscopia, 
+recortables digitales, animación experimental, animación 2D y Animación 3D.  
+● Elementos interactivos: botones, acordeones, slides, galerías, hotspots, formularios, 
+menú, bases de datos, marcadores, Tracking, Objetos 3D,  etc  
+● Editores de código fuente o entornos de desarrollo: Dreamweaver, sublimetext, brackets, 
+flash builder. Diseño y producción audiovisual, Premiere, After effects, Audition, Audacity: 
+Photoshop, Indesign, Illustra tor, Animate y 3D Maya, 3D Max, Toonboom, Harmony 
+standalone y Storyboard Pro, software de transcodificación, software de creación de video 
+interactivo. vuforia, artoolkit,  wikitude, layar, kudan, librerías web para creación de 
+productos de realidad aument ada. Madmapper.  
+● Transmedia: Historia, Tendencias, consumo de contenidos, experiencia transmedia, 
+productor transmedia, proyecto transmedia, multiplataforma, Producción Transmedia, 
+Fadoms, Poscultura, Manejo, Pitchbook, Storyworld.  
+● Realidad aumentada: Plataformas tecnológicas relacionadas con realidad aumentando 
+(vuforia, artoolkit, wikitude, layar, kudan, librerías web para creación de productos de 
+realidad aumentada), Diseño de Interfaz de Usuario Intangible (TUI), Diseño Centrado en 
+el Humano (HCD), Cámara Cinética, Dispositivos, Interactivos.  
+● Mapping: Características, tipos, conceptos, principios, plataformas de desarrollo.  
+ 
+  
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.1
+7 
+Este documento impreso se considera copia no controlada  
+Probar la usabilidad de los elementos gráficos, audiovisuales e interactivos de acuerdo con las 
+especificaciones del proyecto . 
+  
+●  Usabilidad: Conceptos, características, principios, aplicaciones.  
+● Accesibilidad: Concepto, normatividad, principios y aplicación  
+● Pruebas de usabilidad y Accesibilidad: Tipos de pruebas, metodologías, instrumentos, 
+permisos, reporte  
+   
+Adaptar los elem entos gráficos, audiovisuales e interactivos del prototipo conforme con los 
+resultados de las pruebas.  
+  
+● Imagen: formatos de salida, optimización  
+● Video: formatos de salida, optimización  
+● Lenguaje de programación: Sintaxis, optimización.  
+● Lenguajes de Marcado  y Maquetación: Sintaxis, optimización.  
+● Sonido: formatos de salida, optimización criterios uso, licenciamiento.  
+● Animación: Formatos de salida.  
+● Editores de código fuente o entornos de desarrollo: Dreamweaver, sublimetext, brackets, 
+flash builder. Diseño y p roducción audiovisual, Premiere, After effects, Audition, Audacity: 
+Photoshop, Indesign, Illustrator, Animate y 3D Maya, 3D Max, Toonboom, Harmony 
+standalone y Storyboard Pro, software de transcodificación, software de creación de video 
+interactivo. vufori a, artoolkit,  wikitude, layar, kudan, librerías web para creación de 
+productos de realidad aumentada. Madmapper.  
+ 
+10. CRITERIOS DE EVALUACIÓN  
+ 
+Definir la interactividad y la estructura visual del proyecto de acuerdo con las necesidades del 
+usuario.  
+ 
+● Diseña la experiencia de usuario conforme a los estándares y tareas que se espera 
+desarrolle el usuario  
+● Emplea el sistema de navegación estableciendo los parámetros de interactividad del 
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.1
+8 
+Este documento impreso se considera copia no controlada  
+proyecto.  
+● Elabora el Guión para establecer la estructura técnica y proceso narrativo del proyecto.  
+● Compone los elementos narrativos estableciendo los parámetros de comunicación gráfica 
+y audiovisual.  
+● Diseña el storyboard para determinar los elementos narrativos, vi suales e interactivos del 
+proyecto.  
+● Diseña el wireframe del proyecto estableciendo criterios de navegabilidad, usabilidad y 
+escalabilidad.  
+● Construye el mockup estableciendo la apariencia del producto.  
+·          
+Desarrollar el prototipo que contiene los el ementos gráficos, audiovisuales e  interactivos según 
+estándares de usabilidad, accesibilidad y escalabilidad.  
+  
+● Selecciona los medios de captura y almacenamiento de los elementos gráficos según 
+requerimientos técnicos del proyecto  
+● Desarrolla elementos gráficos aplicando fundamentos del diseño y de acuerdo a las 
+características establecidas en el pitchbook  
+● Produce componentes audiovisuales aplicando el lenguaje y técnicas de composición, 
+edición y montaje siguiendo los requerimientos establecidos en los formatos técnicos.  
+● Desarrolla elementos interactivos Implementando los lenguajes de programación, de 
+marcado o maquetación según los requerimientos identificados en el pitchbook  
+● Aplica estándares de usabilidad y accesibilidad determinando la funcionalidad del 
+producto  
+● Desarrolla el prototipo del proyecto aplicando los estándares de usabilidad, accesibilidad y 
+los requerimientos del proyecto  
+  
+Probar la usabilidad de los elementos gráficos, audiovisuales e interactivos de acuerdo con las 
+especificaciones del  proyecto.  
+ 
+● Elabora los instrumentos para desarrollar las pruebas de usabilidad y accesibilidad según 
+los requerimientos del proyecto.  
+● Aplica instrumentos en pruebas de usabilidad y accesibilidad conforme al alcance del 
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.1
+9 
+Este documento impreso se considera copia no controlada  
+proyecto.  
+● Elabora el informe de prue bas de usabilidad y accesibilidad para definir ajustes del 
+proyecto  
+  
+Adaptar los elementos gráficos, audiovisuales e interactivos del prototipo conforme con los 
+resultados de las pruebas.  
+  
+● Selecciona los formatos de salida de los elementos gráficos, audi ovisuales e interactivos 
+acorde con las necesidades del proyecto.  
+● Ajusta los elementos gráficos, audiovisuales e interactivos siguiendo los resultados de las 
+pruebas de usabilidad.  
+● Optimiza los elementos gráficos, audiovisuales e interactivos conforme a las 
+especificaciones del proyecto  
+● Exporta los elementos audiovisuales siguiendo las especificación del proyecto.  
+ 
+11. PERFIL TECNICO DEL INSTRUCTOR  
+ 
+Requisitos Académicos: Profesional o tecnólogo en producción de multimedia, desarrollo 
+multimedia y web, diseño gráfico, diseño visual, comunicación visual, publicidad, artes plastìcas 
+con énfasis en medios, ingenieros multimedia, ingenieros de sistemas, animación y/o áreas afines, 
+preferiblemente con Certificación Internacional en Desarrollo de Productos de Multimedia sobre 
+Plataformas Adobe.  
+ 
+Experiencia laboral: Veinticuatro (24) meses de Experiencia: de los cuales Dieciocho (18) meses 
+estarán relacionados con el ejercicio de la profesión u oficio objeto de la formación profesional y 
+Seis (6) meses en labor es de docencia.  
+ 
+Competencias:  
+● Maquetación HTML5 y CSS3, manejo de lenguajes de cliente y servidor, preferiblemente 
+certificado por un ente internacional (w3schools, adobe, w3c).  
+● Experiencia en elaboración de sitios web con HTML5, CSS3, Javascript, PHP, y Frameworks.  
+● Experiencia en creación de aplicaciones interactivas y RIAs.  
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.2
+0 
+Este documento impreso se considera copia no controlada  
+● Gestión de proyectos con metodologías ágiles.  
+● Diseño gráfico o visual.  
+● Diseño de interfaces y elementos para multimedia y web.  
+● Animación  
+● Buen nivel de lectura y escucha del idioma inglés, y un nivel medio de habla de este 
+idioma.  
+● Formular, ejecutar y evaluar proyectos.  
+● Trabajo en equipo.  
+● Establecer procesos comunicativos asertivos.  
+● Manejar herramientas informáticas asociadas al área objeto de la formación.  
+ 
+ 
+12. AMBIENTES MÍNIMOS DE APRENDIZAJE PARA LA COMPETENCIA DE FORMACIÓN  
+ 
+Maquinaria y Equipo Especializado  
+ 
+● 30 Equipos de alto rendimiento, con las siguientes características mínimas: 
+Procesador Core i7­3820 de 3.3 Ghz, Board ASUS P8Z68­V PRO/GEN3 Disco duro de 1 
+Tera, Tarjeta de video Asus GeForce GTX 1080 Memoria Ram DDR5 de 32Gb Fuente de 
+poder de 750 Watts Reales teclado genérico, Mouse genérico, Monitor de 22" Full HD, IPS, 
+LED 
+● 15 Tablet iOS 9,5 16GB pulgadas WiFi.  
+● 15 Tablet  Android 10 pulgadas WiFi.  
+● 15 Teléfono móvil Android.  
+● 15 Teléfono Móvil iOS.  15 CardBoard  
+● 3 Oculus Rift o Gear Vr3 Cámaras 360  
+● 3 Myo ArmBand  
+● 3 Vr Joystick  
+● 1 Kinect  
+● Tabletas Digitalizadoras Wacom Intuos 5 Pro. Wireless.  
+● Proyector para mapping superior a 10.000 lúmenes  
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.2
+1 
+Este documento impreso se considera copia no controlada  
+● 30 Tabletas Digitalizadoras Intuos 5, área activa 224 x 140 mm, 2048 niveles de 
+presión, Resolución 5080 dpi  
+● 5 Cámaras fotográficas digital resol 20.2 megapíxeles con memoria SDHC 32 GB. 
+Preferiblemente Cannon EOS 6d Mark3.  
+● 3 Cámaras De Video con las siguientes características:  
+○ HD, Formato de  grabación AVCHD o HDV, 3ccd  
+○ Soporte de grabación en Tarjeta, Conexiones y salidas de video 
+para televisión y ordenador, y Modos automáticos y manuales.  
+● 3 Trípodes Fotografía -Video con Burbuja de Nivel, fabricado de Aluminio liviano, 
+con patas antideslizan tes y retráctil.  
+● 30 Diademas con micrófono.  
+● 1 Televisor Led Full HD 50 pulgadas, wifi, grabación interna de video.  
+● 5 Grabadoras profesionales de 4 pistas portátiles.  
+ 
+Mobiliario  
+ 
+● Mesas para trabajo colaborativo para 30 aprendices.  
+● 1 Mesa de trabajo para instructor  
+● 31 Sillas  
+● 1 Tablero  
+● 1 Locker  
+ 
+Software Especializado.  Licencia por máquina  
+● Licencias WINDOWS 10 DE 64 BIT. Cant.  
+● Licencias software Autodesk de 64 bits Para: Maya, 3dmax, Toon Boom animate 
+pro 2, mudbox, Dragonframe stop motion 3.0, Anime studi o pro, motion builder.  
+● Licencias Zbrush.  
+● Licencias Adobe Creative Cloud (Dreamweaver, Animate, Premiere, Audition, 
+Illustrator, Photoshop, After effect, Flash Builder, Prelude, InDesing, Lightroom, Muse).  
+● Licencias Open office 4.1.2.  
+● Licencias Unity3d Pro.  
+● Licencias Unity3d Pro para Iphone.  
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.2
+2 
+Este documento impreso se considera copia no controlada  
+● Licencias Unity3d Pro para Android.  
+● Licencias Microsoft office 2016.  
+● Licencias Vuforia, Layar. ARTToolkit, Wikitud, Kudan, librerias web.  
+ 
+13. REFERENTES BIBLIOGRÁFICOS PARA LA COMPETENCIA DE FORMACIÓN  
+● G.  Rosas, Comunícate con multimedia.  Editorial: limusa  
+● W. Wucius,  Fundamentos del diseño.  Editorial: GG Diseño  
+● G. bryony,  Guía completa del diseño gráfico.  Editorial Parramon  
+● A. Harris,  Metodología del diseño. Editorial: Parramon  
+● A. Harris,  Fundamentos del diseño gráfico. Editorial Parramon  
+● A. Harris,  Imagen bases del diseño. Editorial: Parramon  
+● A. Harris,  Tipología bases del diseño. Editorial: Parramon  
+● A. Harris,  Layout bases del diseño. Editorial: Parramon  
+● Cross,  Métodos de diseño.  Editorial: limusa  
+● J. Wiedemann,  Web design navigation.  Editorial: Taschen  
+● Maqueira / bruque,  Marketing 2.0 el nuevo marketing en la web de las redes sociales.  
+Editorial: ra -ma 
+● A. Perona, Ensayos sobre video documental y cine. Editorial: brujas  
+● A. Philip y otros,  Fotografía y video digital.  Editorial: Océano  
+● S. Bordin,  Marketing personal 100 claves para valorar su imagen.  Editorial: gaviota  
+● Adobe Press, Photoshop CC (Diseño Y Creatividad) (2013)  
+● B. Wood, Illustrator cc 2014. (2015)  
+● Adobe press, Adobe premiere pro cc classroom in a book. (2014)  
+● Adobe press, Adobe after effects cc classroom in a book (2014)  
+● Mediaactive, Aprender premiere pro cc con 100 ejercicios prácticos (2014)  
+● Mediaactive, Aprender adobe after effects cc con 100 ejercicios prácticos (2014)  
+● N. Chav es, La imagen corporativa: teoría y práctica de la identificación institucional (2006)  
+● E. Catmull, Creatividad, s.a. cómo llevar la inspiración hasta el infinito y más allá (2014)  
+● A. Wheeler, Diseño de marcas (2014)  
+● A. López, Curso diseño gráfico. Fundamen tos y técnicas (2013)  
+● E. Heller, Psicología del color: cómo actúan los colores sobre los sentimientos y la razón. 
+(2004)  
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.2
+3 
+Este documento impreso se considera copia no controlada  
+● C. Leborg, Gramática visual. (2013)  
+● G. Ambrose, P. Harris, bases del diseño reticulas (2008)  
+● W. Wong, Fundamentos del diseño. (1995)  
+● J. Muller -brockmann, Sistemas de retículas: un manual para diseñadores gráficos. (2012)  
+● D. Norman, El diseño emocional: porque nos gustan (o no) los objetos cotidianos (2005)  
+● D. Dabner, Diseño, maquetación y composición: comprensión y aplicación (2008)   
+● Tratamiento de la fotografía digital  publicaciones vértice 2012  
+● L. Koren, Recetario diseño gráfico: propuestas, combinaciones y soluciones gráficas (2012)  
+● C. Knight, Diagramas: grandes ejemplos de infografía contemporánea (2011)  
+● J. Duckett, Javascript and jquery: interactive front -end web development (2014)  
+● P. Bonilla, Diseño web adaptativo. (2013)  
+● M. Rubiales, Html5, CSS3 y Javascript. (2012)  
+● D. Gauchat, El gran libro de html5, CSS3 y Javascript (2013)  
+● A. Arias, Guía de html5, css3 y javascript. (2013)  
+● J. Html5, CSS3 y Javascript (2012)  
+● S.  Krug, Haz fácil lo imposible 2010  
+● S. Krug, No me hagas pensar: una aproximación a la usabilidad en la web 2006  
+● J.  Maeda, Las leyes de la simplicidad (libertad y cambio) (2013)  
+● J. Nielsen, Usabilidad en dispositivos móvi les (2013)  
+● S.  Fulton Html 5 canvas : interactividad y animación para la web (2012)  
+● D.  Baeza moyano,  Adobe Edge Animate (2013)  
+● C. Scolari, Narrativas transmedia: cuando todos los medios cuentan (2013)            
+● R. Williams, The animator's survival kit ( 2009)  
+● V. Woodcock, cómo crear personajes de animación 2007  
+● P.  Wells fundamentos de la animacion 2009  
+● H. Miyazaki the art of miyazaki's spirited away 2002  
+● M. Mattesi  force: dynamic life drawing for animators  2006  
+● P. Blair. Cartoon animation 1994  
+● C. Delgado, La animación en serie de Hanna Barbera (2014)  
+ 
+ 
+ 
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.2
+4 
+Este documento impreso se considera copia no controlada  
+ 
+CONTENIDOS CURRICULARES DE LA COMPETENCIA  
+ 
+NOMBRE COMPETENCIA DEL 
+PROGRAMA  CÓDIGO NCL  NOMBRE DE NCL  
+Integración de elementos multimedia  
+ 220501102  Integrar elementos multimedia de 
+acuerdo con técnicas y 
+herramientas de producción digital  
+CÓDIGO DEL 
+ELEMENTO  ELEMENTO DE COMPETENCIA  
+1   
+2 
+3                                          
+ 
+ 
+ 
+ 
+ Preparar componentes  
+Ensamblar componentes  
+Finalizar producto  
+DURACIÓN MÁXIMA ESTIMADA PARA EL LOGRO DEL 
+APRENDIZAJE  1000 HORAS  
+14. RESULTADOS DE APRENDIZAJE  
+N° DENOMINACIÓN  
+22050110201  Estructurar los elementos del proyecto utilizando herramientas de desarrollo 
+y/o lenguajes de maquetado según especificaciones técnicas.  
+22050110202  Codificar los elementos de  la estructura del proyecto a partir de los 
+requerimientos del cliente y el pitchbook  
+22050110203  Verificar el funcionamiento de la aplicación según especificaciones del 
+proyecto.  
+22050110204  Publicar la aplicación en la plataforma de distribución objetivo de acuerdo con 
+las especificaciones técnicas del proyecto.  
+15. SABERES  
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.2
+5 
+Este documento impreso se considera copia no controlada  
+3.1  SABERES DE PROCESO  
+ 
+Estructurar los elementos del proyecto utilizando herramientas de desarrollo y/o lenguajes de  
+maquetado según especificaciones técnicas.  
+ 
+● Analizar la arquitectura de la aplicación.  
+● Identificar formatos de archivo multimedia.  
+● Integrar los elementos audiovisuales dentro de la estructura del proyecto.  
+● Identificar diferentes plataformas, gestores de contenido, herramientas de realidad 
+aumentada, realidad vi rtual y transmedia.  
+● Crear la estructura de la aplicación.  
+ 
+ 
+Codificar los elementos de la estructura del proyecto utilizando lenguajes de programación, a 
+partir de los requerimientos del cliente y el Pitchbook.  
+ 
+● Crear los algoritmos.  
+● Seleccionar herramientas de codificación.  
+● Codificar la aplicación.  
+● Utilizar frameworks, kits de desarrollo (SDK) y/o servicios web.  
+● Implementar metodologías ágiles para la gestión del proyecto.  
+● Crear la  base de datos relacional.  
+● Aplicar técnicas de optimización para  motores de búsqueda SEO.  
+ 
+Verificar el funcionamiento de la aplicación según especificaciones del proyecto.  
+ 
+● Crear pruebas de accesibilidad, escalabilidad y usabilidad.  
+● Aplicar pruebas.  
+● Elaborar  informes de resultados de pruebas de usuario y rendimiento de los aplicativos 
+multimedia.  
+ 
+Publicar la aplicación en la plataforma de distribución objetivo de acuerdo con las 
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.2
+6 
+Este documento impreso se considera copia no controlada  
+especificaciones técnicas del proyecto.  
+ 
+● Implementar la aplicación.  
+● Elaborar el manual de usuario.  
+● Identificar técnicas de posicionamiento SEM.  
+● Diseñar elementos de merchandising del proyecto.  
+● Realizar auditoria SEO.  
+● Utilizar medios de difusión web.  
+ 
+15.2 SABERES CONCEPTO Y PRINCIPIOS  
+Estructurar los elementos del proyecto utilizando lenguajes de maquetado según 
+especificaciones técnicas.  
+ 
+● Fundamentos de arquitectura cliente – servidor, front -end (cliente) definición, 
+plataformas, utilidad, configuración.  
+● Arquitectura de aplicaciones AR:  proveedores, clientes, sistemas autónomos, sistemas 
+distribuidos, workflow, fundamentos tecnológicos, al goritmos marcadores,algoritmos gps, 
+librerías.  
+● Arquitectura de aplicaciones de VR: arquitectura gráfica, Arquitecturas Basadas en Work -
+Station, Arquitecturas Distribuidas de Realidad Virtual, Arquitecturas Basadas en la Web.  
+● Integración de elementos multim edia: tipos de archivos, configuraciones, características.  
+● Sitios web, portales web, CMS Joomla, Wordpress, Drupal, arquitectura modular, ventanas 
+de diálogo, pop ups, técnicas de diseño off -canvas, responsive, resoluciones, densidades 
+de pantalla.  
+● Maqueta ción: HTML5, CSS3, buenas prácticas.  
+ 
+Codificar los elementos de la estructura del proyecto utilizando lenguajes de programación, a 
+partir de los requerimientos del cliente y el Pitchbook.  
+ 
+● Fundamentos de programación: algoritmos, variables, funciones, parámetros, 
+condicionales, ciclos, arrays, programación orientada a eventos, programación orientada a 
+objetos.  
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.2
+7 
+Este documento impreso se considera copia no controlada  
+● Entornos de desarrollo: Dreamweaver, Sublime Text, Flash builder.  
+● Entorno de ejecución multiplataforma: Adobe AIR.  
+● Plataforma de desarrollo Unity  
+● SDK: Vuforia, Layar. ARTToolkit, Wikitud, Kudan, librerias web.  
+● Buenas prácticas de programación.  
+● Metodologías ágiles de desarrollo y marcos de trabajo para la gestión de proyectos 
+multimedia: Scrum, Kanban.  
+● Desarrollo en entorno cliente – servidor: Javas cript, PHP  
+● Frameworks: Jquery, Angular, Bootstrap, CreateJS,  
+● Bases de datos: gestores, diseño, implementación, lenguaje SQL, MySQL.  
+● Servicios web: consumo de servicios, xml, peticiones http, restful.  
+● Fundamentos de posicionamiento web SEO  
+ 
+Verificar el funcionamiento de la aplicación según especificaciones del proyecto.  
+ 
+•  P   b        b                 b        úb                         v            f        
+pruebas, accesibilidad, diseño, escalabilidad y usabilidad. Verificación con la W3C, 
+compatibi lidad en sistemas operativos.   
+● Metodologías de evaluación de usabilidad: Paseo cognitivo, Grupos focales, Goms, 
+Inspección de usabilidad, análisis de tareas, test con usuarios.  
+● Informes de resultados de pruebas.  
+ 
+ 
+Publicar la aplicación en la plataforma de  distribución objetivo de acuerdo con las 
+especificaciones técnicas del proyecto.  
+ 
+● Configuración y publicación de sitios: tipos y configuraciones de Hosting y Dominios.  
+● Manual de usuario: elaboración, normas y procedimientos  
+● Fundamentos de posicionamiento web SEM  
+● realizar el empaque y los elementos de merchandising con los que se distribuirá el 
+proyecto multimedia  
+● Herramientas para pruebas: Google analytics, Diagramas, Wireflow, software de análisis 
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.2
+8 
+Este documento impreso se considera copia no controlada  
+pagos y gratuitos, sistemas de feedback para usuarios (com entarios, correos, chats).  
+● Medios de difusión web: Redes sociales, compras on line, correos electrónicos, televisión 
+escritorio.  
+ 
+ 
+16. CRITERIOS DE EVALUACIÓN  
+ 
+Estructurar los elementos del proyecto utilizando lenguajes de maquetado según 
+especificaciones técnicas.  
+ 
+● Analiza la arquitectura de la aplicación para identificar componentes necesarios del 
+proyecto.  
+● Identifica formatos de archivo multimedia necesarios para incorporarlos a la aplicación.  
+● Integra los elementos audiovisuales de acuerdo con los documentos técnicos del 
+proyecto.  
+● Utiliza diferentes plataforma s y/o gestores de contenido para la construcción de la 
+aplicación.  
+● Crea la estructura de la aplicación utilizando herramientas de desarrollo y/o lenguaje de 
+maquetación.  
+ 
+ 
+Codificar los element os de la estructura del proyecto utilizando lenguajes de programación, a 
+partir de los requerimientos del cliente y el Pitchbook.  
+ 
+● Crea los algoritmos para el aplicativo y/o sitio de acuerdo con los documentos técnicos.  
+● Selecciona herramientas de codificac ión para el desarrollo del proyecto.  
+● Codifica la aplicación dependiendo de la tecnología seleccionada, aplicando buenas 
+prácticas de programación.  
+● Utiliza frameworks, kits de desarrollo y/o servicios web para agilizar procesos de 
+programación.  
+● Implementa m etodologías ágiles para la gestión del proyecto.  
+● Utiliza servicios web para intercambio de datos  
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.2
+9 
+Este documento impreso se considera copia no controlada  
+● Crea las bases de datos relacionales para gestión de la información de acuerdo con el tipo 
+de proyecto.  
+● Aplica técnicas de optimización para motores de búsqueda SEO dentro de la codificación.  
+ 
+Verificar el funcionamiento de la aplicación según especificaciones del proyecto.  
+ 
+● Diseña pruebas para evaluar la accesibilidad, escalabilidad y usabilidad de la aplicación.  
+● Aplica pruebas utilizando metodologías de  accesibilidad, escalabilidad y usabilidad según 
+estándares vigentes.  
+● Elabora  informes de resultados de pruebas de usuario, rendimiento de los aplicativos 
+multimedia y validación por la W3C, de acuerdo con las pruebas aplicadas.  
+ 
+ 
+Publicar la aplicación en la plataforma de distribución objetivo de acuerdo con las 
+especificaciones técnicas del proyecto.  
+ 
+● Implementa la aplicación en la plataforma destino seleccionada.  
+● Elabora el manual de usuario de acuerdo con la estructura definida.  
+● Identifica técnicas de  posicionamiento SEM para mejorar el marketing en la web.  
+● Diseña elementos de merchandising del proyecto para posicionamiento en el mercado.  
+● Realiza auditoria SEO para medir el grado de optimización del sitio web.  
+● Utiliza medios de difusión web para propag ar información.  
+ 
+17. PERFIL TECNICO DEL INSTRUCTOR  
+ 
+Requisitos Académicos:  Requisitos Académicos: Profesional o tecnólogo en producción de 
+multimedia, desarrollo multimedia y web, diseño gráfico, diseño visual, comunicación visual, 
+publicidad, artes plastìcas con énfasis en medios, ingenieros multimedia, ingenieros de sistemas, 
+animación y/o áreas afines, preferiblemente con Certificación Internacional en Desarrollo de 
+Productos de Multimedia sobre Plataformas Adobe.  
+ 
+Experiencia laboral: Veinticuatro (24) meses de Experiencia: de los cuales Dieciocho (18) meses 
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.3
+0 
+Este documento impreso se considera copia no controlada  
+estarán relacionados con el ejercicio de la profesión u oficio objeto de la formación profesional y 
+Seis (6) meses en labores de docencia.  
+ 
+Competencias:  
+ 
+● Maquetación HTML5 y CSS3, manejo de lenguajes de cliente y servidor, preferiblemente 
+certificado por un ente internacional (w3schools, adobe, w3c).  
+● Experiencia en elaboración de sitios web con HTML5, CSS3, Javascript, PHP, y Frameworks.  
+● Experiencia en creación de aplicaciones inter activas y RIAs.  
+● Gestión de proyectos con metodologías ágiles.  
+● Diseño gráfico o visual.  
+● Diseño de interfaces y elementos para multimedia y web.  
+● Animación  
+● Buen nivel de lectura y escucha del idioma inglés, y un nivel medio de habla de este 
+idioma.  
+● Formular,  ejecutar y evaluar proyectos.  
+● Trabajo en equipo.  
+● Establecer procesos comunicativos asertivos.  
+● Manejar herramientas informáticas asociadas al área objeto de la formación.  
+ 
+18. AMBIENTES MÍNIMOS DE APRENDIZAJE PARA LA COMPETENCIA DE FORMACIÓN  
+ 
+Maquinaria y Equipo Especializado  
+ 
+● 30 Equipos de alto rendimiento, con las siguientes características mínimas: 
+Procesador Core i7­3820 de 3.3 Ghz, Board ASUS P8Z68­V PRO/GEN3 Disco duro de 1 Tera, 
+Tarjeta de video Asus GeForce GTX 1080 Memoria Ram DDR5 de 32Gb Fuente de poder de 
+750 Watts Reales teclado genérico, Mouse genérico, Monitor de 22" Full HD, IPS, LED  
+● 15 Tablet iOS 9,5 16GB pulgadas WiFi.  
+● 15 Tablet  Android 10 pulgadas WiFi.  
+● 15 Teléfono móvil Android.  
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.3
+1 
+Este documento impreso se considera copia no controlada  
+● 15 Teléfono Móvil iOS.  15 CardBoard  
+● 3 Oculus Rift o Gear Vr 3 Cámaras 360  
+● 3 Myo ArmBand  
+● 3 Vr Joystick  
+● 1 Kinect  
+● Tabletas Digitalizadoras Wacom Intous 5 o Pro. Wireless.  
+● 1 Servidor en Torre Intel Xeon E3 -1220V2 3.10GHz, 16GB, 2TB (2x 1TB)  
+● Proyector para mapping superior a 10.000 lumenes  
+● 30 Tabletas Digitalizadoras In tuos 5, area activa 224 x 140 mm, 2048 niveles de presión, 
+Resolución 5080 dpi  
+● 5 Cámaras fotográficas digital resol 20.2 mega píxeles con memoria SDHC 32 GB. 
+Preferiblemente Cannon EOS 6d Mark3.  
+● 3 Cámaras De Video con las siguientes características:  
+○ HD, Formato de grabación AVCHD o HDV, 3ccd  
+○ Soporte de grabación en Tarjeta, Conexiones y salidas de video para televisión y 
+ordenador, y Modos automáticos y manuales.  
+● 3 Trípodes Fotografía -Video con Burbuja de Nivel, fabricado de Aluminio liviano, con patas 
+antideslizantes y retráctil.  
+● 30 Diademas con micrófono.  
+● 1 Televisor Led Full HD 50 pulgadas, wifi, grabación interna de video.  
+● 5 Grabadoras profesionales de 4 pistas portátiles.  
+ 
+Mobiliario  
+ 
+● Mesas para trabajo colaborativo para 30 aprendices.  
+● 1 Mesa de trabajo para instructor  
+● 31 Sillas  
+● 1 Tablero  
+● 1 Locker  
+ 
+Software Especializado.  Licencia por máquina  
+● Licencias WINDOWS 10 DE 64 BIT. Cant.  
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.3
+2 
+Este documento impreso se considera copia no controlada  
+● Licencias software Autodesk de 64 bits Para: Maya, 3dmax, Toon Boom animate pro 2, 
+mudbox, Dragonframe stop motion 3.0 , Anime studio pro, motion builder.  
+● Licencias Zbrush.  
+● Licencias Adobe Creative Cloud (Dreamweaver, Animate, Premier, Audition, Illustrator, 
+Photoshop, After effect, Flash Builder, Prelude, InDesign, Lightroom, Muse).  
+● Licencias Open office 4.1.2.  
+● Licencias Unity3d Pro.  
+● Licencias Unity3d Pro para Iphone.  
+● Licencias Unity3d Pro para Android.  
+● Licencias Vuforia, Layar. ARTToolkit, Wikitud, Kudan, librerias web.  
+● Licencias Microsoft office 2016.  
+ 
+19. REFERENTES BIBLIOGRÁFICOS PARA LA COMPETENCIA DE FORMACIÓN  
+● Stephen Anderson. Diseño que seduce: Cómo desarrollar webs y aplicaciones atractivas al 
+usuario. Editorial: Anaya Multimedia.  
+● Steve Krug. No me hagas pensar, "actualización". Editorial: Anaya Multimedia.  
+● Donald Norman. The Design of Everyday Things / Revised and e xpanded edition. Editorial: 
+Basic Books.  
+● Jeff Gothelf, Josh Seiden y Eric Ries. Lean UX: Cómo aplicar los principios de Lean a la 
+mejora de la experiencia de usuario. Editorial: Universidad Internacional de la Rioja.  
+● Laura Klein. Experiencia de Usuario par a Lean Startups. Cómo investigar y diseñar con 
+mayor inteligencia y rapidez. Editorial: UNIR Editorial.  
+● Jon Duckett. JavaScript and JQuery: Interactive Front -End Web Development. Editorial: 
+Wiley.  
+● Wilson L. Pantoja, Julio A. Hurtado. Patrones de diseño: construyendo aplicaciones 
+flexibles y reutilizables. Editorial: Universidad del Cauca.  
+● Martin Alaimo. Equipos Más Productivos: Personas e interacciones por sobre procesos y 
+herramientas. Editorial: Kleer.  
+● Martin Alaimo. Proyectos Ágiles con Scrum: Flexibilidad, aprendizaje, innovación y 
+colaboración en contextos complejos. Editorial: Kleer.  
+● Martin Alaimo. Facilitador de Equipos Ágiles: El camino de un coach hacia la agilidad 
+empresarial. Editorial: Kleer.  
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.3
+3 
+Este documento impreso se considera copia no controlada  
+● Martin Alaimo. Proyectos Ágiles con Scrum. 2 Edición. Editorial: Kleer.  
+● Luján castillo, José dimas. html5, css y javascript - crea tu web y apps con el estándar de 
+desarrollo. Editorial: alfaomega.  
+● Kashi, Ezequiel. html5 - migrar desde flash. Editorial: alfaomega.  
+● Mediaactive. Aprender a programar apps con html5, css y javascript - con 100 ejercicios 
+prácticos. Editorial: alfaomega.  
+● Mediaact ive. Aprender javascript avanzado - con 100 ejercicios prácticos. Editorial: 
+alfaomega.  
+● Mediaactive. Aprende javascript - con 100 ejercicios prácticos. Editorial: alfaomega.  
+● De luca, Damián. Apps html5 para móviles - desarrollo de aplicaciones para smartph ones y 
+tablets basado en tecnologías web. Editorial: alfaomega.  
+● Muñiz troyano,javier; polo, juan diego. Community manager - estrategias de gestión de 
+redes sociales. Editorial: alfaomega, altaria editorial.  
+● Arce, francisco Javier. Programe juegos con html5 . Editorial: alfaomega.  
+ 
+ 
+ 
+ 
+ 
+ 
+CONTROL DEL DOCUMENTO  
+ Nombre  Cargo  Dependencia / Red  Fecha  
+Autores  Dorian Sully 
+Múnera R.  Instructora  Regional Antioquia / 
+Centro de Servicios y 
+Gestión empresarial.   
+ 
+Julio Andres 
+Ramirez Coll  Instructor  Regional Atlantico / 
+Centro Nacional Colombo 
+Aleman   
+Ariadna Rosero 
+Torres  Instructora  Regional Cauca / Centro 
+Industrial   
+Ekatherine Instructora  Regional Distrito Capital /  
+
+ 
+ SISTEMA INTEGRADO DE GESTIÓN  
+Código: F011 -P001 -GFPI versión 01  
+Proceso Gestión de la Formación Profesional Integral  
+Procedimiento Diseño Curricular  
+ 
+ 
+Versión 1  F011 -P001 -GFPI  Pág.3
+4 
+Este documento impreso se considera copia no controlada  
+Cardona Díaz  Centro de Gestión de 
+Mercados Lógistica y 
+Tecnológias de la 
+Información  
+Oscar Albeiro 
+Guerrero Cortez  Instructor  Regional Quindío / Centro 
+de Comercio y Turismo   
+Alberto Enrique 
+Oviedo Buelvas  Instructor  Regional Huila / Centro de 
+la Industria, la Empresa y 
+los Servicios   
+Revisión  Claudia Marcela 
+Porras  Gestora de Red  
+Asesora 
+metodológica  Regional Antioquia / 
+Centro de Servicios y 
+Gestión empresarial.   
+ 
+Aprobación      
+ 
+CONTROL DE CAMBIOS  
+Descripción del 
+cambio  Razón del cambio   Fecha  Responsable (cargo)  
+    
+ Nombre  Cargo  Dependencia /Red  
+    
+    
+ 
+
