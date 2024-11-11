@@ -1,3 +1,4 @@
 {
-  "folder": "01-diario/journals"
+  "folder": "01-diario/journals",
+  "format": "YYYY_MM_DD"
 }
