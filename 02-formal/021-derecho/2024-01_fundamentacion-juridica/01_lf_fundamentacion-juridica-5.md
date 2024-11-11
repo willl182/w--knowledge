@@ -99,19 +99,18 @@ Cómo mejorar... A pesar de que ni el derecho, ni la filosofía del derecho, son
 
 # Notas
 
-^1 Se recordará que al revisar la Corpus Iuris Civilis  de Justiniano, en el Escenario 1, se señaló que su intención principal era compendiar el derecho existente en el Digesto, el Codex  (el viejo y el nuevo) y las Institutas. Los glosadores interpretaron exegéticamente el Digesto, los post-glosadores introdujeron un método sistemático de interpretación de esa obra. Posteriormente los juristas franceses, según se vio en el Escenario 2, utilizaron esas fuentes y las reorganizaron de manera normativamente más coherente, en un afán por codificar la ley existente en un único cuerpo normativo. Estos serían ejercicios propios de lo que se ha denominado como la construcción de una teoría general del derecho.
-^2 En esta Lectura fundamental no se analizará esa macroestructura planteada por Hegel en la Fenomenología del espíritu,  para no abandonar el eje central de la filosofía del derecho. La filosofía de Hegel es compleja y no puede abordarse en este espacio.
+^1 Se recordará que al revisar la Corpus Iuris Civilis  de Justiniano, en el Escenario 1, se señaló que su intención principal era compendiar el derecho existente en el Digesto, el Codex  (el viejo y el nuevo) y las Institutas. Los glosadores interpretaron exegéticamente el Digesto, los post-glosadores introdujeron un método sistemático de interpretación de esa obra. Posteriormente los juristas franceses, según se vio en el Escenario 2, utilizaron esas fuentes y las reorganizaron de manera normativamente más coherente, en un afán por codificar la ley existente en un único cuerpo normativo. Estos serían ejercicios propios de lo que se ha denominado como la construcción de una teoría general del derecho. 
+^2 En esta Lectura fundamental no se analizará esa macroestructura planteada por Hegel en la Fenomenología del espíritu,  para no abandonar el eje central de la filosofía del derecho. La filosofía de Hegel es compleja y no puede abordarse en este espacio. 
 ^3 Simónides fue un poeta griego que vivió del 556 a. C. al 468 a. C.
 ^4 Domicio Ulpiano vivió desde 170 d. C. (aproximadamente) hasta el 228 d. C.
-^5 Para una revisión de cómo la Iglesia católica se consolidó como un poder político determinante en la Edad Media, ver Sabine (1998, pp. 153-168).
+^5 Para una revisión de cómo la Iglesia católica se consolidó como un poder político determinante en la Edad Media, ver Sabine (1998, pp. 153-168). 
 ^6 La expresión que aquí se acuña tiene como objetivo mostrar que estos pensadores se dedicaban a la labor de filosofar y no eran profesionales en otros campos que de manera incidental llegaron a filosofar. Las obras de estos filósofos son amplias y abarcan distintas temáticas aparte de la filosofía política, que es la que aquí se aborda.
-
 
 # Referencias
 
 Aristóteles. (1990). Retórica . Gredos.
 Cicerón. (1997).  La invención retórica . Gredos.
-Demandt, A. (2000).  Sócrates ante el tribunal popular de Atenas. En Alexander Demandt (ed.), Los grandes procesos de la historia , 9-26. Editorial Crítica.
+Demandt, A. (2000).  Sócrates ante el tribunal popular de Atenas. En Alexander Demandt (ed.), Los grandes procesos de la historia , 9-26. Editorial Crítica. 
 García  Máynez , E. (2007). Filosofía del derecho.  Editorial Porr úa.
 Hegel, G. W. F. (1975).  Filosofía del derecho . Universidad Nacional Autónoma de México.
 Petit, E. (1892). Tratado elemental de derecho romano. Editorial Porrúa.
