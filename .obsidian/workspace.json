@@ -13,11 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "01-diario/pages/derecho-romano-justinianeo.md",
+=======
+                "file": "01-diario/pages/contents.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "derecho-romano-justinianeo"
             }
           }
@@ -39,6 +44,9 @@
               },
               "icon": "lucide-file",
               "title": "01_lf_fundamentacion-juridica-1"
+=======
+              "title": "contents"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -182,6 +190,7 @@
   },
   "active": "7e2586c8a1e975a2",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "01-diario/pages/01_antiguedad_derecho_romano.md",
     "01-diario/pages/derecho-romano-justinianeo.md",
     "01-diario/pages/derecho-romano-posclasico.md",
@@ -229,5 +238,43 @@
     "04-recursos/Bonny P. McClain - Python for Geospatial Data Analysis (2022, O'Reilly Media, Inc.) - libgen.li.pdf.crdownload",
     "04-recursos/Unconfirmed 215028.crdownload",
     "04-recursos/Joel Lawhead - Learning Geospatial Analysis with Python_ Unleash the power of Python 3 with practical techniques for learning GIS and remote se (2023, Packt) - libgen.li.pdf.crdownload"
+=======
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-5.md",
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-4.md",
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-3.md",
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-2.md",
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-1.md",
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-1.sync-conflict-20241107-173442-7GCOU4Q.md",
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/~syncthing~01_lf_fundamentacion-juridica-1.sync-conflict-20241107-173442-7GCOU4Q.md.tmp",
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-1.sync-conflict-20241107-173335-7GCOU4Q.md",
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-5.sync-conflict-20241107-173335-7GCOU4Q.md",
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/~syncthing~01_lf_fundamentacion-juridica-1.sync-conflict-20241107-173335-7GCOU4Q.md.tmp",
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/~syncthing~01_lf_fundamentacion-juridica-5.sync-conflict-20241107-173335-7GCOU4Q.md.tmp",
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-1.pdf",
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-1.sync-conflict-20241107-173312-7GCOU4Q.md",
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/~syncthing~01_lf_fundamentacion-juridica-1.sync-conflict-20241107-173312-7GCOU4Q.md.tmp",
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-5.sync-conflict-20241107-170204-7GCOU4Q.md",
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/~syncthing~01_lf_fundamentacion-juridica-5.sync-conflict-20241107-170204-7GCOU4Q.md.tmp",
+    "02-formal/021-derecho/2024-04_derecho-civil-personas/extracted_text/Lectura fundamental 6.md",
+    "02-formal/021-derecho/2024-04_derecho-civil-personas/extracted_text/Lectura fundamental 3.md",
+    "02-formal/021-derecho/2024-01_fundamentaion-juridica/pdf-text-extractor.py",
+    "02-formal/021-derecho/2024-01_fundamentaion-juridica/01_lf_fundamentacion-juridica-6.pdf",
+    "02-formal/021-derecho/2024-01_fundamentaion-juridica/01_lf_fundamentacion-juridica-3.pdf",
+    "02-formal/021-derecho/2024-01_fundamentaion-juridica/01_lf_fundamentacion-juridica-5.pdf",
+    "02-formal/021-derecho/2024-01_fundamentaion-juridica/01_lf_fundamentacion-juridica-6.md",
+    "02-formal/021-derecho/2024-01_fundamentaion-juridica/01_lf_fundamentacion-juridica-7.md",
+    "02-formal/021-derecho/2024-01_fundamentaion-juridica/01_lf_fundamentacion-juridica-5.md",
+    "02-formal/021-derecho/2024-01_fundamentaion-juridica/01_lf_fundamentacion-juridica-3.md",
+    "02-formal/021-derecho/2024-01_fundamentaion-juridica/01_lf_fundamentacion-juridica-8.md",
+    "02-formal/021-derecho/2024-01_fundamentaion-juridica/01_lf_fundamentacion-juridica-4.md",
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/extracted_text/Lectura fundamental 8.md",
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/extracted_text/Lectura fundamental 7.md",
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/extracted_text/Lectura fundamental 6.md",
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/extracted_text/Lectura fundamental 5.md",
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/extracted_text/Lectura fundamental 3.md",
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/extracted_text/Lectura fundamental 1.md",
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/extracted_text/Lectura fundamental 2.md",
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/Lectura fundamental 8.md"
+>>>>>>> Stashed changes
   ]
 }
