@@ -1,4 +1,6 @@
 {
-  "newFileLocation": "root",
-  "promptDelete": false
+  "newFileLocation": "folder",
+  "promptDelete": false,
+  "newLinkFormat": "shortest",
+  "newFileFolderPath": "01-diario/pages"
 }
