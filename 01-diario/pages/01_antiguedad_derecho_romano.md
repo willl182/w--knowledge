@@ -134,6 +134,7 @@ Analizar las semejanzas y conexiones entre las instituciones jurídicas antiguas
   Instituciones que trascendieron fueron las del emperador Justiniano.
 - #### Derecho romano primitivo arcaico
   [[derecho-romano-primitivo-arcaico]]
+[[doce-tablas]]
 - #### Derecho romano clasico
   [[derecho-romano-clasico]]
 - #### Derecho romano posclasico
