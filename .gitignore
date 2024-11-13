@@ -237,3 +237,4 @@ Thumbs.db
 /01-diario/logseq/.recycle
 .obsidian/workspace.json
 /logseq/bak/
+*.edn
