@@ -4,52 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "3feb2f3dce7edc27",
+        "id": "500ee7af88fec196",
         "type": "tabs",
         "children": [
           {
-            "id": "7e2586c8a1e975a2",
+            "id": "0c8c6f1acb5c8553",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "01-diario/pages/derecho-romano-justinianeo.md",
-=======
-                "file": "01-diario/pages/contents.md",
->>>>>>> Stashed changes
+                "file": "01-diario/pages/01_antiguedad_derecho_romano.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< Updated upstream
-              "title": "derecho-romano-justinianeo"
+              "title": "01_antiguedad_derecho_romano"
             }
-          }
-        ]
-      },
-      {
-        "id": "cc7300cd3797ad84",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "22826376532f386b",
+            "id": "b60b12860c325b67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-1.md",
+                "file": "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T22_28_50.054Z.Desktop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_lf_fundamentacion-juridica-1"
-=======
-              "title": "contents"
->>>>>>> Stashed changes
+              "title": "2024-11-11T22_28_50.054Z.Desktop"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 418.5110321044922
   },
   "right": {
     "id": "5dcc15dd4e87873e",
@@ -121,17 +108,16 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-recursos/ChatGPT-Google_IT_Automation_Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ChatGPT-Google_IT_Automation_Summary"
+              "title": "Backlinks"
             }
           },
           {
@@ -188,41 +174,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7e2586c8a1e975a2",
+  "active": "b60b12860c325b67",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "01-diario/pages/01_antiguedad_derecho_romano.md",
-    "01-diario/pages/derecho-romano-justinianeo.md",
-    "01-diario/pages/derecho-romano-posclasico.md",
-    "01-diario/pages/derecho-romano-clasico.md",
-    "01-diario/pages/derecho-romano-primitivo-arcaico.md",
-    "01-diario/pages/derecho-romano.md",
-    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T22_29_21.789Z.Desktop.md",
-    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T22_28_58.533Z.Desktop.md",
-    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T22_28_50.054Z.Desktop.md",
-    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T21_09_07.696Z.Desktop.md",
-    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T21_08_59.178Z.Desktop.md",
-    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T21_08_50.588Z.Desktop.md",
-    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T21_08_40.561Z.Desktop.md",
-    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T21_08_35.683Z.Desktop.md",
-    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T21_08_30.429Z.Desktop.md",
-    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T21_07_42.377Z.Desktop.md",
-    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T21_07_25.345Z.Desktop.md",
-    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T21_06_51.440Z.Desktop.md",
-    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T21_06_40.855Z.Desktop.md",
-    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T21_06_35.638Z.Desktop.md",
-    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T21_06_33.189Z.Desktop.md",
-    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T21_06_29.601Z.Desktop.md",
-    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T21_06_24.002Z.Desktop.md",
-    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T21_06_19.397Z.Desktop.md",
-    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T21_06_14.080Z.Desktop.md",
-    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T21_06_09.039Z.Desktop.md",
+    "01-diario/pages/contents.md",
     "Pasted image 20241111152152.png",
     "Pasted image 20241111152041.png",
     "Pasted image 20241111152014.png",
-    "Untitled.canvas",
-    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano",
-    "01-diario/logseq/bak/pages",
     "Pasted image 20241111144559.png",
     "Pasted image 20241111144433.png",
     "Pasted image 20241111144305.png",
@@ -230,51 +187,40 @@
     "Pasted image 20241111143526.png",
     "Pasted image 20241111143358.png",
     "Pasted image 20241111143304.png",
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/Unconfirmed 238317.crdownload",
-    "04-recursos/Joel Lawhead - Learning Geospatial Analysis with Python_ Unleash the power of Python 3 with practical techniques for learning GIS and remote se (2023, Packt) - libgen.li.pdf",
-    "04-recursos/William Parker, Silas Toms - Python for ArcGIS Pro_ Automate cartography and data analysis using ArcGIS Python modules, Jupyter Notebooks, and pandas-Packt Publishing - ebooks Account (2022).epub",
-    "04-recursos/David S. Jordan - Applied Geospatial Data Science with Python_ Leverage geospatial data analysis and modeling to find unique solutions to environm (Packt Publishing) - libgen.li.epub",
-    "04-recursos/Bonny P. McClain - Python for Geospatial Data Analysis (2022, O'Reilly Media, Inc.) - libgen.li.pdf",
-    "04-recursos/Bonny P. McClain - Python for Geospatial Data Analysis (2022, O'Reilly Media, Inc.) - libgen.li.pdf.crdownload",
-    "04-recursos/Unconfirmed 215028.crdownload",
-    "04-recursos/Joel Lawhead - Learning Geospatial Analysis with Python_ Unleash the power of Python 3 with practical techniques for learning GIS and remote se (2023, Packt) - libgen.li.pdf.crdownload"
-=======
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-5.md",
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-4.md",
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-3.md",
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-2.md",
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-1.md",
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-1.sync-conflict-20241107-173442-7GCOU4Q.md",
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/~syncthing~01_lf_fundamentacion-juridica-1.sync-conflict-20241107-173442-7GCOU4Q.md.tmp",
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-1.sync-conflict-20241107-173335-7GCOU4Q.md",
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-5.sync-conflict-20241107-173335-7GCOU4Q.md",
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/~syncthing~01_lf_fundamentacion-juridica-1.sync-conflict-20241107-173335-7GCOU4Q.md.tmp",
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/~syncthing~01_lf_fundamentacion-juridica-5.sync-conflict-20241107-173335-7GCOU4Q.md.tmp",
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-1.pdf",
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-1.sync-conflict-20241107-173312-7GCOU4Q.md",
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/~syncthing~01_lf_fundamentacion-juridica-1.sync-conflict-20241107-173312-7GCOU4Q.md.tmp",
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-5.sync-conflict-20241107-170204-7GCOU4Q.md",
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/~syncthing~01_lf_fundamentacion-juridica-5.sync-conflict-20241107-170204-7GCOU4Q.md.tmp",
-    "02-formal/021-derecho/2024-04_derecho-civil-personas/extracted_text/Lectura fundamental 6.md",
-    "02-formal/021-derecho/2024-04_derecho-civil-personas/extracted_text/Lectura fundamental 3.md",
-    "02-formal/021-derecho/2024-01_fundamentaion-juridica/pdf-text-extractor.py",
-    "02-formal/021-derecho/2024-01_fundamentaion-juridica/01_lf_fundamentacion-juridica-6.pdf",
-    "02-formal/021-derecho/2024-01_fundamentaion-juridica/01_lf_fundamentacion-juridica-3.pdf",
-    "02-formal/021-derecho/2024-01_fundamentaion-juridica/01_lf_fundamentacion-juridica-5.pdf",
-    "02-formal/021-derecho/2024-01_fundamentaion-juridica/01_lf_fundamentacion-juridica-6.md",
-    "02-formal/021-derecho/2024-01_fundamentaion-juridica/01_lf_fundamentacion-juridica-7.md",
-    "02-formal/021-derecho/2024-01_fundamentaion-juridica/01_lf_fundamentacion-juridica-5.md",
-    "02-formal/021-derecho/2024-01_fundamentaion-juridica/01_lf_fundamentacion-juridica-3.md",
-    "02-formal/021-derecho/2024-01_fundamentaion-juridica/01_lf_fundamentacion-juridica-8.md",
-    "02-formal/021-derecho/2024-01_fundamentaion-juridica/01_lf_fundamentacion-juridica-4.md",
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/extracted_text/Lectura fundamental 8.md",
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/extracted_text/Lectura fundamental 7.md",
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/extracted_text/Lectura fundamental 6.md",
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/extracted_text/Lectura fundamental 5.md",
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/extracted_text/Lectura fundamental 3.md",
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/extracted_text/Lectura fundamental 1.md",
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/extracted_text/Lectura fundamental 2.md",
-    "02-formal/021-derecho/2024-01_fundamentacion-juridica/Lectura fundamental 8.md"
->>>>>>> Stashed changes
+    "03-cursos/301_linux-bash-dataeng/01_using-linux/Untitled.md",
+    "03-cursos/301_linux-bash-dataeng/01_using-linux/301.01_mod1.md",
+    "02-formal/022-diseno-web/pdf-text-extractor.py",
+    "02-formal/022-diseno-web/moc3.txt",
+    "02-formal/022-diseno-web/moc2.txt",
+    "02-formal/022-diseno-web/moc1.txt",
+    "02-formal/022-diseno-web/extracted_text/648316927-DISENO-CURRICULAR-DESARROLLO-MULTIMEDIA-Y-WEB.txt",
+    "02-formal/022-diseno-web/extracted_text",
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/README.md",
+    "01-diario/pages/template_dn.md",
+    "01-diario/pages/shell.md",
+    "01-diario/pages/la_republica_platon.md",
+    "01-diario/pages/excalidraw-library-items-storage.md",
+    "01-diario/pages/derecho.md",
+    "01-diario/pages/derecho-romano.md",
+    "01-diario/pages/derecho-romano-primitivo-arcaico.md",
+    "01-diario/pages/derecho-romano-posclasico.md",
+    "01-diario/pages/derecho-romano-justinianeo.md",
+    "01-diario/pages/derecho-romano-clasico.md",
+    "01-diario/pages/derecho-propiedad.md",
+    "01-diario/pages/derecho-penal.md",
+    "01-diario/pages/derecho-laboral.md",
+    "01-diario/pages/derecho-familiar.md",
+    "01-diario/pages/derecho-comercial.md",
+    "01-diario/pages/codigo_ur-nammu.md",
+    "01-diario/pages/codigo_lipit-ishtar.md",
+    "01-diario/pages/codigo_hammurabi.md",
+    "01-diario/pages/01_antiguedad_derecho_romano.md",
+    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T22_29_21.789Z.Desktop.md",
+    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T22_28_58.533Z.Desktop.md",
+    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T22_28_50.054Z.Desktop.md",
+    "01-diario/logseq/bak/logseq/config/2024-11-08T04_31_09.829Z.Desktop.edn",
+    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano",
+    "01-diario/logseq/bak/logseq/config",
+    "01-diario/logseq/bak/pages"
   ]
 }
