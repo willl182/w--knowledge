@@ -1,7 +1,21 @@
 El derecho en la antigüedad
 El derecho romano
 Edad Media: glosadores, derecho comercial e influencia de las doctrinas cristianas en el derecho
-El derecho en la modernidad: conquista de América, época colonial y origen del constitucionalismo 
+El derecho en la modernidad: conquista de América, época colonial y origen del constitucionalismo
+
+# TAGS
+
+[[derecho-romano]]
+[[derecho]]
+[[codigo_ur-nammu]]
+[[codigo_hammurabi]]
+[[codigo_lipit-ishtar]]
+[[justicia]]
+[[socrates]]
+[[platon]]
+[[aristoteles]]
+[[filosofia-derecho]]
+[[doce-tablas]]
 # 1. Introducción 
 
 Uno de los errores más comunes que se presentan en cualquier campo del saber, es asumir que el estado actual de cosas siempre ha sido así, y que, por tanto, las nociones que se encuentran vigentes son inmutables, o que siempre se han entendido de esa manera a lo largo de la historia. Por ello, un adecuado entendimiento del derecho parte de comprender la manera en la que los conceptos jurídicos actuales han llegado hasta nosotros. Por ello, repasar la construcción de estas nociones del derecho a partir de un repaso de los hechos históricos más determinantes, es indispensable para poder cimentar las bases del conocimiento jurídico.

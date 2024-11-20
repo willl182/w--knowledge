@@ -9,7 +9,7 @@ Conocer y asimilar los conceptos jurídicos desarrollados en la antigüedad medi
 
 Reconocer las instituciones jurídicas de la antigüedad que han trascendido su época y continúan influyendo en el derecho actual.
 
-Analizar las semejanzas y conexiones entre las instituciones jurídicas antiguas y las del derecho moderno, identificando su evolución y persistencia.
+Analizar las semejanzas y conexiones entre las instituciones jurídicas antiguas y las del [[derecho]] moderno, identificando su evolución y persistencia.
 
 [[01_lf_fundamentacion-juridica-1]]
 - ## Derecho en la antigüedad
@@ -82,71 +82,62 @@ Analizar las semejanzas y conexiones entre las instituciones jurídicas antiguas
 - #### Principales pensadores y sus aportes:
   
   Sócrates [[socrates]] (470-399 a.C.)
-- Introdujo el método dialéctico para buscar la verdad y la justicia
-- Defendió la obediencia a las leyes justas
-- Estableció la relación entre [[etica]] y [[derecho]] 
-  
-  Platón [[platon]] (427-347 a.C.)
-- En "La República" [[la-republica]] desarrolló la idea de [[justicia]] como virtud suprema
-- Propuso que los gobernantes debían ser filósofos para crear leyes justas
-- Estableció la importancia de la educación para formar ciudadanos virtuosos
-  
-  Aristóteles [[aristoteles]] (384-322 a.C.)
-- Distinguió entre [[justicia-distributiva]] y [[justicia-correctiva]]
-- Desarrolló el concepto de equidad como corrección de la ley cuando esta es demasiado general
-- Estableció la diferencia entre [[derecho-natural]] y  [[derecho-positivo]]
-- Analizó las diferentes formas de gobierno y su relación con las leyes
+	- Introdujo el método dialéctico para buscar la verdad y la justicia
+	- Defendió la obediencia a las leyes justas
+	- Estableció la relación entre [[etica]] y [[derecho]] 
+	  
+	  Platón [[platon]] (427-347 a.C.)
+	- En "La República" [[la-republica]] desarrolló la idea de [[justicia]] como virtud suprema
+	- Propuso que los gobernantes debían ser filósofos para crear leyes justas
+	- Estableció la importancia de la educación para formar ciudadanos virtuosos
+	  
+	  Aristóteles [[aristoteles]] (384-322 a.C.)
+	- Distinguió entre [[justicia-distributiva]] y [[justicia-correctiva]]
+	- Desarrolló el concepto de equidad como corrección de la ley cuando esta es demasiado general
+	- Estableció la diferencia entre [[derecho-natural]] y  [[derecho-positivo]]
+	- Analizó las diferentes formas de gobierno y su relación con las leyes
 - #### Instituciones y prácticas jurídicas:
   
   La democracia ateniense y sus instituciones:
-  * Ecclesia (asamblea popular)
-  * Bulé (consejo de los 500)
-  * Tribunales populares (Heliea)
+   * Ecclesia (asamblea popular)
+   * Bulé (consejo de los 500)
+   * Tribunales populares (Heliea)
   
   Procedimientos jurídicos:
-  * Juicios públicos
-  * Sistema de jurados
-  * Derecho de defensa
-  * Oratoria jurídica
+   * Juicios públicos
+   * Sistema de jurados
+   * Derecho de defensa
+   * Oratoria jurídica
 - #### Conceptos fundamentales que perduran:
-- Isonomía [[isonomia]] (igualdad ante la ley)
-- Democracia [[democracia]]
-- Estado de derecho [[estado-derecho]]
-- Ciudadanía [[ciudadania]]
-- Derecho público vs. derecho privado [[derecho-publico]] [[derecho-privado]]
-- #### Legado en la filosofía del derecho:
-- La búsqueda de principios universales de justicia
-- La importancia de la razón en la creación y aplicación del derecho
-- La relación entre moral y derecho
-- El debate sobre la legitimidad de las leyes
-- La función educativa del derecho
+	- Isonomía [[isonomia]] (igualdad ante la ley)
+	- Democracia [[democracia]]
+	- Estado de derecho [[estado-derecho]]
+	- Ciudadanía [[ciudadania]]
+	- Derecho público vs. derecho privado [[derecho-publico]] [[derecho-privado]]
+- #### Legado en la filosofía del derecho [[filosofia-derecho]]:
+	- La búsqueda de principios universales de justicia
+	- La importancia de la razón en la creación y aplicación del derecho
+	- La relación entre moral y derecho
+	- El debate sobre la legitimidad de las leyes
+	- La función educativa del derecho
+	  
+	  Los griegos establecieron las bases del pensamiento jurídico occidental al:
+	  
+	  1. Separar el derecho de la religión
+	  2. Establecer principios racionales para la creación de leyes
+	  3. Desarrollar conceptos fundamentales que siguen vigentes
+	  4. Crear instituciones democráticas
+	  5. Vincular el derecho con la ética y la justicia
+- ### Derecho romano
   
-  Los griegos establecieron las bases del pensamiento jurídico occidental al:
-  
-  1. Separar el derecho de la religión
-  2. Establecer principios racionales para la creación de leyes
-  3. Desarrollar conceptos fundamentales que siguen vigentes
-  4. Crear instituciones democráticas
-  5. Vincular el derecho con la ética y la justicia
-
-### Derecho romano
-
-El [[derecho-romano]] es precursos de muchas instituciones modernas
-Instituciones que trascendieron fueron las del emperador Justiniano.
-
-#### Derecho romano primitivo arcaico
-[[derecho-romano-primitivo-arcaico]]
-
-#### Derecho romano clasico
-[[derecho-romano-clasico]]
-
-#### Derecho romano posclasico
-[[derecho-romano-posclasico]]
-
-#### Derecho romano justinianeo
-[[derecho-romano-justinianeo]]
-
-
-
-
- 
+  El [[derecho-romano]] es precursos de muchas instituciones modernas
+  Instituciones que trascendieron fueron las del emperador Justiniano.
+- #### Derecho romano primitivo arcaico
+  [[derecho-romano-primitivo-arcaico]]
+[[doce-tablas]]
+- #### Derecho romano clasico
+  [[derecho-romano-clasico]]
+- #### Derecho romano posclasico
+  [[derecho-romano-posclasico]]
+- #### Derecho romano justinianeo
+  [[derecho-romano-justinianeo]]

@@ -2,5 +2,9 @@
   "newFileLocation": "folder",
   "promptDelete": false,
   "newLinkFormat": "shortest",
-  "newFileFolderPath": "01-diario/pages"
+  "newFileFolderPath": "01-diario/pages",
+  "trashOption": "local",
+  "userIgnoreFilters": [
+    "01-diario/logseq/bak/"
+  ]
 }

@@ -235,4 +235,7 @@ Thumbs.db
 # carpeta recursos
 04-recursos/
 /01-diario/logseq/.recycle
+.obsidian/workspace.json
+/logseq/bak/
+*.edn
 /01-diario/logseq/bak
