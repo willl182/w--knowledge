@@ -67,10 +67,10 @@ This approach encourages practical coding experience, understanding key concepts
 
 - **Python**: The course focuses on Python, a scripting language, to teach programming fundamentals, including syntax and semantics. Python's simplicity and versatility make it ideal for beginners.
 
-> Question
-> Why do we need to learn the syntax and semantics of a programming language?
-> To allow us to clearly express what we want the computer to do.
-> Learning the syntax (rules for constructing instructions) and semantics (the meaning behind the instructions) of a programming language is essential to communicate with the computer effectively and ensure it performs the tasks correctly.
+>**Question: Why do we need to learn the syntax and semantics of a programming language?**
+
+To allow us to clearly express what we want the computer to do.
+Learning the syntax (rules for constructing instructions) and semantics (the meaning behind the instructions) of a programming language is essential to communicate with the computer effectively and ensure it performs the tasks correctly.
 
 ### What is automation
 
@@ -88,9 +88,9 @@ However, **automation is not suitable for every task**. Some tasks require creat
 
 In summary, **automation** is a valuable tool when applied to repetitive, rule-based tasks that benefit from consistency and reliability. It is essential to know when and where automation can be effectively used.
 
-> Question
-> What’s automation?
-> The process of replacing a manual step with one that happens automatically.
+>**Question What’s automation?**
+
+The process of replacing a manual step with one that happens automatically.
 
 ### Uses for automation
 
@@ -122,19 +122,22 @@ In summary, **automation** is a valuable tool when applied to repetitive, rule-b
 
 Learning how to program is the first step in enabling automation, allowing you to delegate repetitive tasks to computers and increase productivity.
 
-> Question
-> Which of the following tasks do you think are good candidates for automation? Check all that apply.
-> The tasks that are good candidates for automation are:
-> 
-> - **Periodically scanning the disk usage of a group of fileservers**
-> - **Installing software on laptops given to new employees when they are hired**
-> 
-> These tasks are repetitive, do not require human creativity or judgment, and can be automated to save time and reduce errors.
-> 
-> The tasks that are not ideal for full automation are:
-> 
-> - **Designing a configuration management system for deploying software patches** (requires human creativity and complex problem-solving)
-> - **Investigating reports that customers are having difficulty accessing your company's external website** (requires human analysis, troubleshooting, and problem-solving skills)
+---
+> Question: Which of the following tasks do you think are good candidates for automation? Check all that apply.
+
+The tasks that are good candidates for automation are:
+ 
+ - **Periodically scanning the disk usage of a group of fileservers**
+ - **Installing software on laptops given to new employees when they are hired**
+ 
+ These tasks are repetitive, do not require human creativity or judgment, and can be automated to save time and reduce errors.
+ 
+ The tasks that are not ideal for full automation are:
+ 
+ - **Designing a configuration management system for deploying software patches** (requires human creativity and complex problem-solving)
+ - **Investigating reports that customers are having difficulty accessing your company's external website** (requires human analysis, troubleshooting, and problem-solving skills)
+
+---
 
 ### Study Guide
 - **Programming Code**: A set of written instructions using a programming language, guiding a computer to perform tasks. It can also be called source code or scripts.
@@ -325,9 +328,10 @@ for i in range(10):
 - **Functions**: **`print()`** is a built-in function in Python used to output text or values to the console. The function call is followed by parentheses containing the argument (the value you want to print).
 
 - **Comments**: If you wanted to add comments to explain parts of the code, you would use the `#` symbol:
-   ```python
-   # This is a comment, it won't affect the code
-   ```
+
+```python
+# This is a comment, it won't affect the code
+```
 
 In Python, you use a **for loop** to repeat a task a specified number of times, often using **`range()`** to define how many iterations to make. Indentation is important in Python, as it determines which code belongs to the loop or condition. Functions like `print()` help display output to the user.
 
@@ -396,10 +400,10 @@ Here are the correct answers for the practice quiz:
 
 4. **Question 4**:  
    The Python command to display "This is fun!" 5 times is:  
-   ```python
-   for i in range(5):
-     print ("This is fun!")
-   ```  
+```python
+for i in range(5):
+print ("This is fun!")
+```  
    **Answer**: The code provided already contains the correct Python syntax.
 
 5. **Question 5**:  
@@ -640,10 +644,7 @@ In summary, Colab is a free, web-based platform for writing and running Python c
 
 In summary, VS Code is a powerful and customizable code editor that supports Python programming with features like IntelliSense, debugging, and extension integration.
 
-
-
 ## Module Review
-
 
 - **Key Concepts**: 
   - **Scripting**: Writing code to automate tasks.
@@ -669,7 +670,6 @@ This module introduced key Python concepts, provided an understanding of the too
 
 
 ## Study Guide
-
 
 **Conceptual Summary: Module 1 Graded Quiz**
 
@@ -738,7 +738,6 @@ weeks_in_a_decade = years * weeks_in_a_year
 # Prints the calculation stored in the "weeks_in_a_decade" variable:
 print(weeks_in_a_decade)
 ```
-
 
 
 - **Common Syntax Errors**:

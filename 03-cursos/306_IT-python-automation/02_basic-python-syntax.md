@@ -6,15 +6,15 @@
 
 This module covers essential Python programming concepts related to data handling, functions, and decision-making structures. Below are the main ideas and relevant definitions:
 
-*1. Key Concepts on Data Handling*:
+*1. Key Concepts*:
 - **Data Types**: Different kinds of data that Python can manipulate, such as integers, floats, strings, and booleans.
-  - **Type Conversion**: The process of converting one data type to another, like changing a string to an integer.
+- **Type Conversion**: The process of converting one data type to another, like changing a string to an integer.
 - **Variables**: Named references that store data values, allowing for easy access and manipulation.
 
 *2. Functions*:
 - **Defining Functions**: Creating reusable blocks of code that can be executed whenever needed.
-  - **Parameters**: Inputs that a function can take to perform its operations.
-  - **Return**: A statement used to send back a result from a function to the calling code.
+- **Parameters**: Inputs that a function can take to perform its operations.
+- **Return**: A statement used to send back a result from a function to the calling code.
 - **Code Reuse**: The practice of writing functions to avoid repeating code and enhance efficiency.
 
 *3. Code Style and Refactoring*:
@@ -78,25 +78,20 @@ This reading introduces the basics of Python syntax, semantics, and best practic
 def to_celsius(x):
    '''Convert Fahrenheit to Celsius'''
    return (x-32) * 5/9
-
 to_celsius(75)
 ```
-
 
 - **Conditional Statements**: Code that guides the program's flow based on conditions, using structures like `if`, `elif`, and `else`.
 
 
 ```python
 number = -4
-
-
 if number > 0:
-   print('Number is positive.')
-elif number == 0:
-   print('Number is zero.')
-else:
-   print('Number is negative.')
-
+    print('Number is positive.')
+    elif number == 0:
+    print('Number is zero.')
+    else:
+print('Number is negative.')
 ```
 
 *3. Common Errors and Conventions*:
@@ -108,7 +103,6 @@ else:
 
 ```python
 print(This will throw an error because I didn’t make it a string.)
-
 ```
 
 *4. Best Practices in Python*:
@@ -225,10 +219,10 @@ Key Concepts
 3. **Dynamic Typing**:
    - Python does not require fixed variable types, allowing flexibility. 
    - Example:
-     ```python
-     a = 3           # 'a' is an integer
-     a = "Hello"     # 'a' changes to a string
-     ```
+```python
+a = 3           # 'a' is an integer
+a = "Hello"     # 'a' changes to a string
+```
    - This flexibility enables faster coding but requires caution.
 
 4. **Duck Typing**:
@@ -237,13 +231,13 @@ Key Concepts
 
 5. **Ways to Annotate Variables**:
    - **Type Comments**: Annotations can be added as comments without affecting code execution.
-     ```python
-     captain = "Picard"  # type: str
-     ```
+```python
+captain = "Picard"  # type: str
+```
    - **Direct Annotation**: Adding the annotation directly to the variable.
-     ```python
-     captain: str = "Picard"
-     ```
+```python
+captain: str = "Picard"
+```
    - Direct annotation is more modern and allows for better integration with tools that check for type consistency.
 
 6. **Type Annotations in Practice**:
@@ -254,7 +248,7 @@ Key Concepts
    - Annotations do not enforce type restrictions at runtime but increase **computational overhead** when integrated with tools that analyze code.
    - Use annotations strategically to avoid performance issues.
 
-### Key Takeaways
+*Key Takeaways*
 
 - Type annotations improve code **clarity**, making it easier to read and maintain.
 - Python offers multiple ways to annotate variables: choose the one that fits your context, whether it's direct annotation or type comments.
@@ -264,11 +258,11 @@ In conclusion, type annotations are a helpful tool in Python, particularly when 
 
 
 
-### Summary: Data Type Operations and Conversions in Python
+### Data Type Operations and Conversions in Python
 
 Python handles operations between data types with **implicit and explicit conversions**, allowing some types to interact seamlessly while others require a specific transformation. Here’s a breakdown of the core concepts and definitions:
 
-### Key Concepts
+*Key Concepts*
 
 1. **Data Type Compatibility**:
    - You **cannot** use the `+` operator directly between different types, such as an integer and a string, as this will raise an error.
@@ -278,40 +272,38 @@ Python handles operations between data types with **implicit and explicit conver
    - When an operation involves a **float** and an **integer**, Python will automatically convert the integer into a float. 
    - This conversion is called **implicit conversion**, where Python adjusts the data type behind the scenes to make the operation compatible.
    - Example:
-     ```python
-     result = 7 + 3.5  # The integer 7 is implicitly converted to 7.0 (a float)
-     ```
+```python
+result = 7 + 3.5  # The integer 7 is implicitly converted to 7.0 (a float)
+```
    - The result in such operations is a float.
 
 3. **String Concatenation**:
    - The `+` operator can also concatenate (join) strings together.
    - When combining strings, make sure to add spaces manually, as Python will not do this by default.
    - Example:
-     ```python
-     greeting = "Hello" + " " + "world!"  # Output: "Hello world!"
-     ```
+```python
+greeting = "Hello" + " " + "world!"  # Output: "Hello world!"
+```
 
 4. **Explicit Conversion**:
    - If you need to combine a **string** with a number (like an integer or float), you must perform an **explicit conversion**.
    - This involves using a type conversion function, such as `str()`, `int()`, or `float()`.
    - Example:
-     ```python
-     number = 42
-     message = "The answer is " + str(number)  # Converts 42 to "42" for concatenation
-     ```
+```python
+number = 42
+message = "The answer is " + str(number)  # Converts 42 to "42" for concatenation
+```
    - Without explicit conversion, an error would occur when trying to concatenate a string with a number.
 
-### Definitions
+*Definitions*
 
 - **Implicit Conversion**: Automatic conversion of one data type to another by Python during operations, such as converting an integer to a float when performing mixed arithmetic.
 - **Explicit Conversion**: Manual conversion of one data type to another using a function like `str()`, `int()`, or `float()`.
 
-### Key Takeaway
+*Key Takeaway*
 
 Python allows operations between compatible types using implicit conversion and requires explicit conversion when combining incompatible types (like strings and numbers). Understanding these conversion rules is crucial for avoiding errors and ensuring correct data manipulation in Python programming.
 
-
-### Reflection: Practice on Python Expressions and Conversions
 
 In this example, you calculated the **average size of files** using basic arithmetic operations and demonstrated how to handle **data type conversions** in Python to produce a user-friendly output.
 
@@ -320,38 +312,38 @@ Here's a breakdown of the key steps involved:
 1. **Summing Values**:
    - You began by adding up the sizes of each file using the `+` operator. This step illustrated how Python handles summing a series of integers.
    - Calculation:
-     ```python
-     total = 2048 + 4357 + 97658 + 125 + 8
-     # Result: total = 104196
-     ```
+```python
+total = 2048 + 4357 + 97658 + 125 + 8
+# Result: total = 104196
+```
 
 2. **Calculating the Average**:
    - The `average` was calculated by dividing the total file size by the number of files. Since division in Python with the `/` operator returns a float, the result retains any decimal part.
    - Calculation:
-     ```python
-     files = 5
-     average = total / files  # 104196 / 5 = 20839.2
-     ```
+```python
+files = 5
+average = total / files  # 104196 / 5 = 20839.2
+```
 
 3. **String Conversion for Output**:
    - To concatenate a number with a string (for user-friendly output), you used the `str()` function to **explicitly convert** the numerical average into a string. Without this conversion, Python would raise a `TypeError`.
    - Output statement:
-     ```python
-     print("The average size is:" + str(average))
-     # Output: "The average size is:20839.2"
-     ```
+```python
+print("The average size is:" + str(average))
+# Output: "The average size is:20839.2"
+```
 
-### Concepts Illustrated
+*Concepts Illustrated*
 
 - **Basic Arithmetic**: Summing numbers and calculating an average using simple arithmetic operations (`+`, `/`).
 - **Data Type Conversion**: Converting a number (float) to a string using `str()` to enable concatenation with other strings.
   
-### Key Takeaway
+*Key Takeaway*
 
 By converting the numerical result to a string using `str()`, you created a smooth user-friendly message output, illustrating how important **explicit data type conversion** is when handling mixed types in Python. Keep practicing these concepts to become more familiar with Python's data handling!
 
 
-### Summary: Implicit vs Explicit Conversion
+### Implicit vs Explicit Conversion
 
 In Python, data types can be converted from one form to another, either **implicitly** or **explicitly**. Here are the main concepts:
 
@@ -363,15 +355,183 @@ In Python, data types can be converted from one form to another, either **implic
    - This is when the programmer **manually** converts a data type using a specific function.
    - Example: To combine a number with a string, you must use functions like `str()` to convert the number to a string before concatenation.
 
-### Key Takeaway
+*Key Takeaway*
 
 Implicit conversion simplifies operations but can sometimes lead to unexpected results. Explicit conversion gives the programmer control, ensuring data types are handled correctly for specific operations.
 
 
+### Studi Guide Expressions and Variables
+
+This guide provides a summary of key concepts from the lesson on **expressions**, **variables**, and **data types**.
+
+*Key Concepts*
+
+1. **Expression**: 
+   - A combination of numbers, symbols, or values that, when evaluated, produce a result.
+
+2. **Data Types**: 
+   - Classes of data, such as **string**, **integer**, **float**, and **Boolean**, each with specific properties and behaviors.
+
+3. **Variable**:
+   - An instance of a data type that stores changeable values, represented by a unique name.
+
+4. **Implicit Conversion**:
+   - Automatic conversion between data types by the Python interpreter (e.g., adding an integer to a float results in a float).
+
+5. **Explicit Conversion**:
+   - Manually converting one data type to another using conversion functions:
+     - `str()` - Converts a value to a string.
+     - `int()` - Converts a value (usually float) to an integer.
+     - `float()` - Converts a value (usually integer) to a float.
+
+6. **Type Annotations**:
+   - Optional in Python, but they clarify variable types, making code easier to read and reducing errors. They use the `typing` module and can be used for more complex types like lists or tuples.
+
+*Skills Learned*
+
+1. **Using Variables**:
+   - Store values and perform arithmetic operations.
+
+```python
+# The following lines assign the variable to the left of the = 
+# assignment operator with the values and arithmetic expressions 
+# on the right side of the = assignment operator.
+hotel_room = 100
+tax = hotel_room * 0.08
+total = hotel_room + tax
+room_guests = 4
+share_per_person = total/room_guests
+
+# This line outputs the result of the final calculation stored
+# in the variable "share_per_person"
+print("Each person needs to pay: " + str(share_per_person)) # change a data type
+```
+
+2. **Explicit Conversion**:
+   - Convert values between types (e.g., from float to string).
+
+```
+# The following 5 lines assign strings to a list of variables.
+salutation = "Dr."
+first_name = "Prisha"
+middle_name = "Jai"
+last_name = "Agarwal"
+suffix = "Ph.D."
+ 
+print(salutation + " " + first_name + " " + middle_name + " " + last_name + ", " + suffix) 
+# The comma as a string ", " adds the conventional use of a comma plus a 
+# space to separate the last name from the suffix.
+ 
+# Alternatively, you could use commas in place of the + connector:
+print(salutation, first_name, middle_name, last_name,",", suffix)
+# However, you will find that this produces a space before a comma within a string.
+```
+
+3. **Handling Errors**:
+   - **TypeError**: Caused by type mismatches (e.g., trying to add a string and integer).
+   - **ZeroDivisionError**: Caused by division by zero, which should be handled appropriately.
+
+```
+# The following code causes a type error between a string 
+# and an integer:
+
+print("5 * 3 = " + (5*3)) 
 
 
+# Resolution: 
+# print("5 * 3 = " + str(5*3))
+#
+# To avoid a type error between the string and the integer within the
+# print() function, you can make an explicit data type conversion by
+# using the str() function to convert the integer to a string. 
+```
+
+```
+numerator = 7
+denominator = 0   # Possible resolution: Change the denominator value 
+result = numerator / denominator
+print(result)
 
 
+# One possible assumption for a number divided by zero error might
+# include the issue of a null value as a denominator (could happen when
+# using a loop to iterate over values in a database). In such cases, the
+# desired outcome may be to leave the numerator value intact. The
+# numerator value can be preserved by reassigning the denominator with 
+# the integer value of 1. The result would then equal the numerator.
+```
 
+
+*Example of Type Annotations:*
+```python
+import typing
+z: str = "Hello, world!"
+x: int = 10
+y: float = 1.23
+list_of_numbers: typing.List[int] = [1, 2, 3]
+```
+
+*Key Takeaway:*
+Understanding data types and conversions is crucial in programming. Using **explicit conversion** functions and handling **common errors** (like type mismatches and division by zero) ensures code runs smoothly. Type annotations help clarify the code for both developers and tools.
+
+
+### Quiz
+
+Here are the answers for each question:
+
+### Question 1:
+**Problem**: This code should display `2 + 2 = 4`, but there is an error in the code due to an incorrect string concatenation.
+- **Fix**: The correct code is:
+```python
+print("2 + 2 = " + str(2 + 2))
+```
+  **Explanation**: The expression `2 + 2` is evaluated first, and then the result is converted to a string using `str()` and concatenated with the rest of the message.
+
+### Question 2:
+**Problem**: You need to calculate the tip, total amount, and each friend's share correctly and ensure proper data type conversion for the final output.
+- **Fix**: The correct code is:
+```python
+bill = 47.28  # Bill amount
+tip = bill * 0.15  # 15% tip
+total = bill + tip  # Total bill with tip
+share = total / 2  # Split the total between two friends
+print("Each person needs to pay: " + str(round(share, 2)))  # Corrected to round the result to 2 decimal places
+```
+  **Explanation**: The `round(share, 2)` function is used to ensure that the share is displayed with two decimal places.
+
+### Question 3:
+**Problem**: The code is designed to divide two equal numbers, and the result is expected to be `1`, but the logic is correct, and there is no actual error in the code. The output is correctly `1.0`.
+- **Fix**: No fix is needed, as the original code works correctly:
+```python
+numerator = 10
+denominator = 10
+result = numerator / denominator
+print(result)
+  ```
+  **Explanation**: `10 / 10` evaluates to `1.0` (float).
+
+### Question 4:
+**Problem**: The goal is to display the sentence `How do you like Python so far?` by combining the variables correctly.
+- **Fix**: The correct code is:
+```python
+word1 = "How"
+word2 = "do"
+word3 = "you"
+word4 = "like"
+word5 = "Python"
+word6 = "so"
+word7 = "far?"
+
+print(word1 + " " + word2 + " " + word3 + " " + word4 + " " + word5 + " " + word6 + " " + word7)
+```
+  **Explanation**: Each word is concatenated with spaces in between to form the complete sentence.
+
+### Question 5:
+**Question**: What do you call a combination of numbers, symbols, or other values that produce a result when evaluated?
+- **Answer**: **An expression**
+  **Explanation**: An **expression** is a combination of numbers, variables, or operators that Python can evaluate to produce a result.
+
+
+### Functions
 
 
