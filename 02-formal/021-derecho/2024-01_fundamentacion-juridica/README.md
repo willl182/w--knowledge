@@ -4,9 +4,6 @@
 
 Comprender la fundamentación del estado actual de la doctrina jurídica a partir de la historia del derecho, las corrientes filosóficas y los fenómenos sociológicos que la condicionan, para aplicar conceptos jurídicos.
 
-**Estructura del Módulo**
-Este módulo incluye cuatro unidades principales:
-
 **Historia del Derecho (Unidades 1 y 2):**
 Exploración de los fundamentos históricos del derecho, desde la antigüedad hasta el contexto colombiano actual.
 
