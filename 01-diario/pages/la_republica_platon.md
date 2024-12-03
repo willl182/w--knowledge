@@ -291,7 +291,7 @@ Los futuros guardianes son observados durante su formación para verificar su **
 
 ### **4. La "noble mentira"**
 
-Sócrates introduce la **"noble mentira" (γενναῖον ψεῦδος)** como un **mito político** diseñado para asegurar la cohesión social. La mentira consiste en convencer a los ciudadanos de que han sido **creados con diferentes naturalezas**:
+Sócrates introduce la **"noble mentira" ** como un **mito político** diseñado para asegurar la cohesión social. La mentira consiste en convencer a los ciudadanos de que han sido **creados con diferentes naturalezas**:
 
 - **Oro**: Para los gobernantes.
 - **Plata**: Para los auxiliares o guardianes.

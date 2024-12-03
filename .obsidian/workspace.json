@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "derecho"
             }
-          },
-          {
-            "id": "7394e84554a53766",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-diario/pages/categoria-juridica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "categoria-juridica"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc7300cd3797ad84",
@@ -48,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-1.md",
+                "file": "01-diario/pages/01_antiguedad_derecho_romano.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_lf_fundamentacion-juridica-1"
+              "title": "01_antiguedad_derecho_romano"
             }
           }
         ]
@@ -195,8 +180,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7394e84554a53766",
+  "active": "22826376532f386b",
   "lastOpenFiles": [
+    "02-formal/021-derecho/2024-04_derecho-civil-personas/SP3006-2022(55593) 1.pdf",
+    "02-formal/021-derecho/2024-04_derecho-civil-personas/SP3006-2022(55593) 1.pdf.crdownload",
+    "02-formal/021-derecho/2024-01_fundamentacion-juridica/01_lf_fundamentacion-juridica-1.md",
+    "01-diario/pages/doce-tablas.md",
+    "01-diario/pages/derecho.md",
+    "01-diario/pages/categoria-juridica.md",
     "01-diario/pages/derecho-romano-justinianeo.md",
     "01-diario/pages/01_antiguedad_derecho_romano.md",
     "01-diario/pages/derecho-romano-posclasico.md",
@@ -218,11 +209,6 @@
     "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T21_06_40.855Z.Desktop.md",
     "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T21_06_35.638Z.Desktop.md",
     "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T21_06_33.189Z.Desktop.md",
-    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T21_06_29.601Z.Desktop.md",
-    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T21_06_24.002Z.Desktop.md",
-    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T21_06_19.397Z.Desktop.md",
-    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T21_06_14.080Z.Desktop.md",
-    "01-diario/logseq/bak/pages/01_antiguedad_derecho_romano/2024-11-11T21_06_09.039Z.Desktop.md",
     "Pasted image 20241111152152.png",
     "Pasted image 20241111152041.png",
     "Pasted image 20241111152014.png",
@@ -242,7 +228,6 @@
     "04-recursos/David S. Jordan - Applied Geospatial Data Science with Python_ Leverage geospatial data analysis and modeling to find unique solutions to environm (Packt Publishing) - libgen.li.epub",
     "04-recursos/Bonny P. McClain - Python for Geospatial Data Analysis (2022, O'Reilly Media, Inc.) - libgen.li.pdf",
     "04-recursos/Bonny P. McClain - Python for Geospatial Data Analysis (2022, O'Reilly Media, Inc.) - libgen.li.pdf.crdownload",
-    "04-recursos/Unconfirmed 215028.crdownload",
-    "04-recursos/Joel Lawhead - Learning Geospatial Analysis with Python_ Unleash the power of Python 3 with practical techniques for learning GIS and remote se (2023, Packt) - libgen.li.pdf.crdownload"
+    "04-recursos/Unconfirmed 215028.crdownload"
   ]
 }

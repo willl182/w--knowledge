@@ -43,4 +43,4 @@ Para hacer la calificacion definitiva de la falta en uno de los tres grados señ
 7. haber devuelto, restituido o reparado el bien afectado con la conducta
 8. los parametros de calificacion señalados en este reglamento.
 
-**parágrafo**. Aquelas conductas que constituyan delito tipificado en el codigo penal colombiano, deben ser ademas denunciadas por el servidorpublico que tenga conocimiento de ellas, ante las
+**parágrafo**. Aquelas conductas que constituyan delito tipificado en el codigo penal colombiano, deben ser ademas denunciadas por el servidor publico que tenga conocimiento de ellas, ante las autoridades competentes, de conformidad con lo establecido en el artículo 67 y 69 del Código de Procedimiento Penal y el numeral 24 del artículo 34 de la Ley 734 de 2002 - Código Disciplinario Único.
