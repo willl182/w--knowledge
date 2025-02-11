@@ -40,8 +40,21 @@
               "icon": "lucide-file",
               "title": "01_antiguedad_derecho_romano"
             }
+          },
+          {
+            "id": "984917bf96385249",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +193,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "22826376532f386b",
+  "active": "984917bf96385249",
   "lastOpenFiles": [
     "02-formal/021-derecho/2024-04_derecho-civil-personas/SP3006-2022(55593) 1.pdf",
     "02-formal/021-derecho/2024-04_derecho-civil-personas/SP3006-2022(55593) 1.pdf.crdownload",

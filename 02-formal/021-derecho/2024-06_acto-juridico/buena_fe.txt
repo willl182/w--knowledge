@@ -1,0 +1,109 @@
+El principio de la buena fe en el derecho comercial ha evolucionado de un concepto ético a una obligación legal, exigiendo respeto por los demás y colaboración (Espinoza, 2011). En el comercio digital, este principio se extiende a la protección de datos personales, siendo las empresas responsables de salvaguardar la información de los usuarios para prevenir daños económicos, sociales y reputacionales (Niño García, 2022). La buena fe desempeña un papel crucial en las relaciones contractuales, integrando derechos y deberes en los acuerdos, incluso cuando no están explícitamente establecidos por las partes (Solarte Rodríguez, 2004). Al evaluar la abusividad de las cláusulas contractuales, la buena fe actúa como criterio, requiriendo una evaluación global de intereses y considerando los desequilibrios de poder de negociación entre las partes. La parte predisponente debe actuar de manera imparcial y equitativa, teniendo en cuenta los intereses legítimos de la parte adherente y evitando daños desproporcionados o injustos en las negociaciones precontractuales y a lo largo de la ejecución del contrato (Gómez-Hidalgo Terán, 2006).
+
+Terán, F.G. (2006). La buena fe como criterio de abusividad. CEFLegal. Revista práctica de derecho.
+
+Rodríguez, A.S. (2004). La buena fe contractual y los deberes secundarios de conducta.
+
+Niño Garcia, D.Y. (2022). Los datos personales y sus riesgos jurídicos a partir de la transformación digital en el comercio electrónico. CES Derecho.
+
+Espinoza, J.E. (2011). El principio de la buena fe.
+
+La transformación digital del comercio ha generado preocupaciones sobre la protección de datos personales y los riesgos legales asociados al intercambio de información sensible en línea (Niño García, 2022). Aunque los individuos autorizan el uso de sus datos, las empresas tienen la responsabilidad de protegerlos para prevenir daños económicos, sociales y reputacionales. El principio de buena fe desempeña un papel crucial en las relaciones contractuales, integrando derechos y deberes en los acuerdos, incluso cuando no están explícitamente establecidos por las partes (Solarte Rodríguez, 2004). Este requisito ético ha evolucionado de una obligación moral a una legal, enfatizando el respeto por los demás y la colaboración (Espinoza, 2011). En el contexto del comercio digital, la aparición de la e-lex mercatoria representa mecanismos desarrollados por el mercado para atender las necesidades de los usuarios casi de manera inmediata (Cedillo Lazcano, 2024). Estos esfuerzos autorreguladores complementan los marcos legales existentes, resaltando la naturaleza dinámica de las sociedades comerciales y su capacidad de adaptación a los requisitos del mercado en evolución.
+
+Cedillo Lazcano, I. (2024). La Sociedad Comercial Digital y la e-Lex Mercatoria. Revista Especializada en Investigación Jurídica.
+
+El concepto de buena fe desempeña un papel crucial en las relaciones contractuales y la protección de datos. La buena fe se define como un requisito ético-social que implica respeto por los demás y colaboración (Espinoza, 2011). En contextos contractuales, sirve para integrar el contenido contractual y establecer deberes secundarios de conducta (Solarte Rodríguez, 2004). Como criterio de abusividad, la buena fe requiere una evaluación global de intereses, considerando las posiciones de negociación y la inducción al consumidor (Gómez-Hidalgo Terán, 2006). En la era digital, la protección de datos personales ha cobrado una importancia creciente. Las empresas tienen la responsabilidad de proteger los datos personales proporcionados por los individuos durante las transacciones de comercio electrónico e interacciones en redes sociales, ya que un manejo inadecuado puede derivar en daños económicos, sociales y reputacionales (Niño García, 2022). El principio de buena fe se extiende a este ámbito, exigiendo que las empresas actúen ética y responsablemente al gestionar la información personal, equilibrando sus intereses con los de los consumidores en el mercado digital.
+
+
+## 
+
+El principio de buena fe (buena fe) es un concepto fundamental en los sistemas legales, con origen en el derecho romano y extensión a diversas áreas de la jurisprudencia (Luelmo Millán, 2022). Está estrechamente vinculado a la confianza y exige respeto mutuo en el ejercicio de derechos y el cumplimiento de obligaciones (Gil y Gil, 1996). En el derecho laboral, la buena fe se aplica tanto a empleadores como a empleados a lo largo de la relación laboral (Irureta Uriarte, 2011). El concepto es dinámico y exigible en casos específicos, con consecuencias por violaciones (Luelmo Millán, 2022). Aunque su aplicación se está ampliando, como se observa en el Proyecto de Principios Latinoamericanos de Derecho de los Contratos, se requiere precaución debido a sus límites difusos (Baeza & Rodríguez Díez, 2013).
+
+
+Baeza, C., & Díez, J.R. (2013). EXPANSIÓN Y LÍMITES DE LA BUENA FE OBJETIVA - A PROPÓSITO DEL "PROYECTO DE PRINCIPIOS LATINOAMERICANOS DE DERECHO DE LOS CONTRATOS". Revista Chilena De Derecho Privado, 137-216.
+
+Uriarte, P.P. (2011). Vigencia del principio de la buena fe en el derecho del trabajo chileno. Ius Et Praxis, 17, 133-188.
+
+Luelmo Millán, M.Á. (2022). La buena fe en el orden jurisdiccional social. Exégesis normativa de un concepto infrapercibido. Revista de Derecho de la UNED (RDUNED).
+
+El panorama del comercio digital en Colombia está experimentando un crecimiento y transformación significativos. Los esfuerzos del gobierno para promover tecnologías digitales y ampliar el acceso a Internet han creado oportunidades para el desarrollo del comercio electrónico (Andrés Soler Paiño, 2016). La implementación de estrategias de marketing digital se está convirtiendo en algo crucial para que las PYMES colombianas compitan a nivel global, especialmente a la luz de los tratados de libre comercio (Gladys Sarmina Peña et al., 2017). El comercio electrónico en Colombia está progresando debido a las ventajas de las plataformas virtuales para conectar consumidores y proveedores, superando barreras de distancia y tiempo (Marelys Mulford Hoyos et al., 2014). El internet y los flujos de datos están contribuyendo significativamente al crecimiento económico, representando los servicios digitales más del 12% de las exportaciones totales de Colombia (Joshua P. Meltzer & C. Pérez, 2016). A medida que Colombia continúa adoptando tecnologías digitales, se espera que el comercio electrónico desempeñe un papel cada vez más importante en el desarrollo económico del país y su participación en el comercio internacional.
+
+
+Meltzer, J.P., & Pérez, C.G. (2016). Digital Colombia: Maximizing the global internet and data for sustainable and inclusive growth.
+
+Hoyos, M.M., Castro, L.V., & Plata, D.P. (2014). Tienda virtual: social market Colombia.	
+
+Peña, G.S., Caicedo, Y., & Delgado, S.A. (2017). Importancia de implementar el marketing digital en las pymes Colombianas frente al tratado de libre comercio con Estados Unidos.
+
+Paiño, Andrés Soler. “Hacia dónde va el comercio electrónico en Colombia.” (2016).
+
+El concepto de buena fe (buena fe) desempeña un papel crucial en la protección del consumidor y las transacciones digitales. Sirve como criterio para evaluar prácticas abusivas en contratos, requiriendo una evaluación global de intereses y la consideración de las posiciones de negociación (Félix Gómez-Hidalgo Terán, 2006). En el contexto del comercio electrónico, la confianza del consumidor está influenciada por factores como la reputación del vendedor, el riesgo percibido, la privacidad de los datos y la seguridad de las transacciones (Alzate & Restrepo, 2016). La distinción entre buena fe subjetiva y objetiva es importante, siendo la buena fe objetiva la que enfatiza el comportamiento correcto y leal hacia la otra parte en un contrato (Villarreal, 2009). Durante la pandemia de COVID-19, los principios de buena fe y solidaridad se aplicaron para abordar comportamientos abusivos, como aumentos irracionales de precios en equipos de protección (Benatti & Burbano, 2021). Estos principios son esenciales para mantener la equidad y la confianza en las relaciones comerciales tradicionales y digitales.
+
+Alzate, J.A., & Restrepo, L.A. (2016). Factores que afectan la confianza de los consumidores por las compras a través de medios electrónicos.
+
+Villarreal, M.L. (2009). Buena fe subjetiva y buena fe objetiva. Equívocos a los que conduce la falta de claridad en la distinción de tales conceptos. Revista Chilena De Derecho Privado, 45-76.
+
+Benatti, F., & Burbano, F. (2021). Aplicación de la buena fe y la solidaridad en la emergencia de la covid-19: una comparación entre Ecuador e Italia. Con-texto.
+
+
+Los estudios recientes destacan el panorama cambiante del comportamiento del consumidor digital en América Latina. La pandemia de COVID-19 aceleró la adopción del comercio electrónico, subrayando la importancia de la confianza, la innovación tecnológica y la comunicación efectiva en la satisfacción del consumidor (Salcedo Farro et al., 2024). Aunque la protección del consumidor es crucial, los tribunales ahora están adoptando un enfoque equilibrado, evitando que los consumidores exploten errores de precios para obtener beneficios injustificados (Calderón, 2022). Los factores que influyen en la confianza de los consumidores en línea incluyen la reputación del vendedor, el riesgo percibido, la privacidad de los datos, la seguridad de las transacciones, la asociación y el género del comprador (Alzate & Restrepo, 2016). El principio de buena fe, antes considerado únicamente una consideración ética, se ha convertido en una obligación legal en las relaciones entre consumidores y proveedores (Espinoza, 2011). Estos hallazgos destacan la necesidad de estrategias de comercio electrónico enfocadas en la seguridad y la confianza del consumidor para adaptarse al mercado digital en evolución, manteniendo al mismo tiempo un equilibrio entre la protección del consumidor y las prácticas comerciales justas.
+
+Salcedo Farro, D.L., Salcedo Guerrero, M.D., Calero Espinoza, N.S., Núñez Chuez, M.F., & Gonzales Riquelme, C. (2024). Comportamiento de compra del consumidor digital en Latinoamérica 2020 - 2023. Una revisión sistemática. IROCAMM-International Review Of Communication And Marketing Mix.
+
+Calderón, F. (2022). La responsabilidad del proveedor electrónico en relación con la buena fe del consumidor [1.2828]. En las Fronteras del Derecho.
+
+El principio de buena fe está explícitamente consagrado en la legislación colombiana y se aplica a los asuntos contractuales, con características y normas que emanan de él (Villarreal, 2006). En la era digital, el acceso a internet es cada vez más considerado un derecho social fundamental en Colombia, al mediar otros derechos como la educación, el trabajo y la salud (Roncancio Bedoya et al., 2022). La Corte Constitucional colombiana ha analizado el impacto de internet y las redes sociales en derechos fundamentales como la reputación, el honor y la privacidad (Flantrmsky Cárdenas et al., 2022). Existe un debate en curso sobre el reconocimiento del acceso a internet como un derecho fundamental en Colombia, tomando como referencia la jurisprudencia de Costa Rica. Esta discusión se enmarca dentro del contexto de la libertad de expresión y las ideas liberales clásicas, como lo demuestra el Acto Legislativo No. 08 de 2014, que representa la primera iniciativa legislativa sobre este tema en el país (Valderrama Castellanos, 2018).
+
+Villarreal, M.L. (2006). El principio de buena fe en materia contractual en el sistema jurídico colombiano. Revista Chilena De Derecho Privado, 79-126.
+
+Roncancio Bedoya, A.F., Vélez Jaramillo, E.A., & Agudelo taborda, S. (2022). Dinámicas sobre el Buen Gobierno alrededor de la Regulación del Acceso a las TICS en Colombia: El Internet como Mediador de Derechos Sociales. Verba luris.
+
+
+Flantrmsky Cárdenas, Ó., Silva Rojas, A., & Angarita, L. (2022). Protección constitucional al derecho al buen nombre, la honra y la intimidad, en el ámbito de Internet: Análisis de las consideraciones de la Corte Constitucional de Colombia. Revista Jurídica Mario Alario D´Filippo.
+
+Castellanos, D.E. (2018). EL ACCESO A INTERNET COMO DERECHO FUNDAMENTAL: CASO COSTARRICENSE Y SU VIABILIDAD EN COLOMBIA.
+
+Los documentos de investigación abordan diversos aspectos de los derechos legales y del consumidor en Colombia, especialmente en relación con el ámbito digital. El principio de buena fe es fundamental en el derecho contractual colombiano, con reglas y remedios específicos que se derivan de él (Villarreal, 2006). La protección constitucional de los derechos a la reputación, el honor y la privacidad ha sido examinada en el contexto de internet y las redes sociales, con la Corte Constitucional adaptando sus interpretaciones para enfrentar nuevos desafíos (Flantrmsky Cárdenas et al., 2022). La colisión entre la libertad de expresión y los derechos de privacidad en las comunicaciones en línea ha llevado al desarrollo de reglas judiciales y a la aplicación de una prueba de equilibrio tripartita (Jiménez, 2020). En el comercio electrónico, la confianza del consumidor juega un papel crucial en las tasas de conversión, con factores como la reputación del vendedor, el riesgo percibido, la privacidad de los datos, la seguridad de las transacciones y las asociaciones influyendo significativamente en la confianza de los consumidores en Antioquia, Colombia (Sánchez-Alzate & Restrepo, 2017).
+
+Jiménez, W.G. (2020). Internet, redes sociales y protección de derechos.
+
+Sánchez-Alzate, J., & Restrepo, L.A. (2017). La confianza como elemento fundamental en las compras a través de canales de comercio electrónico: caso de los consumidores en Antioquia (Colombia). Innovar-revista De Ciencias Administrativas Y Sociales, 27, 11-22.
+
+Los estudios analizan diversos aspectos de la protección al consumidor y el comercio electrónico en Colombia y la Unión Europea. Arenas Correa (2021) explora la necesidad de una protección diferenciada al consumidor en el comercio electrónico desde una perspectiva de economía del comportamiento. Calderón (2022) examina una decisión judicial que modifica los criterios interpretativos sobre la responsabilidad del proveedor en casos de errores de precios, enfatizando la buena fe del consumidor. Peña Orozco y Chamorro Buelvas (2021) analizan la resolución de conflictos en contratos electrónicos, comparando las regulaciones colombianas y europeas, e introducen el concepto de contratos inteligentes. Londoño y Guillermo (2020) discuten la venta de bienes ajenos en el derecho colombiano, destacando la prevalencia de prácticas comerciales orientadas a obtener ganancias excesivas a costa de la otra parte contratante. Estos estudios enfatizan colectivamente la importancia de equilibrar la protección al consumidor con prácticas comerciales justas en el panorama evolutivo del comercio electrónico y los contratos digitales.
+
+Arenas Correa, J. (2021). Economía conductual de la protección al consumidor en el e-commerce colombiano. Cuadernos de Economía.
+
+Peña Orozco, C., & Chamorro Buelvas, A. (2021). Principios tradicionales del derecho internacional privado con relación a contratos y/o comercio electrónico: caso Unión Europea - Colombia.
+
+Betancur Londoño, J.G. (2020). Capítulo 3: La venta de cosa ajena en el derecho colombiano y la incidencia de la buena fe.
+
+
+El principio de buena fe, con raíces en el derecho romano, se ha expandido significativamente en los sistemas jurídicos modernos (Cristóbal Baeza & Javier Rodríguez Díez, 2013). Este principio actúa como una base ética fundamental en diversos ámbitos jurídicos, incluyendo la jurisdicción social (Luelmo Millán, 2022). Su desarrollo histórico en los sistemas legales de América Latina resalta su importancia estructural en el derecho contractual (Facco, 2011). El Código Civil chileno introdujo notablemente la función integradora de la buena fe, influyendo en proyectos posteriores de armonización jurídica (Facco, 2011). En Argentina, el Código Civil y Comercial de la Nación sistematiza este principio, subrayando su relevancia en las relaciones contractuales (Assaad & Feliciotti, 2020). Aunque la expansión del principio es evidente, se recomienda precaución en su aplicación debido a sus posibles límites difusos (Cristóbal Baeza & Javier Rodríguez Díez, 2013). La naturaleza dinámica de la buena fe permite su aplicación en casos específicos, especialmente cuando se evidencian violaciones al espíritu de la ley (Luelmo Millán, 2022).
+
+
+
+Baeza, C., & Díez, J.R. (2013). EXPANSIÓN Y LÍMITES DE LA BUENA FE OBJETIVA - A PROPÓSITO DEL "PROYECTO DE PRINCIPIOS LATINOAMERICANOS DE DERECHO DE LOS CONTRATOS". Revista Chilena De Derecho Privado, 137-216.
+
+Luelmo Millán, M.Á. (2022). La buena fe en el orden jurisdiccional social. Exégesis normativa de un concepto infrapercibido. Revista de Derecho de la UNED (RDUNED).
+
+Facco, J.H. (2011). Reseña histórico comparativa del principio general de buena fe en el subsistema jurídico latinoamericano. Revista Mexicana de Historia del Derecho.
+
+Assaad, M.A., & Feliciotti, E.M. (2020). Principio de buena fe.
+
+Mayorga, M. (2023). Clausula Rebus Sic Stantibus en el contrato de compraventa de cosa futura esperada. Derecho Crítico: Revista Jurídica, Ciencias Sociales y Políticas.
+
+
+El principio de buena fe desempeña un papel crucial en las relaciones contractuales en diversos sistemas jurídicos. Impone deberes precontractuales de información, tanto explícitos como implícitos, que derivan del principio general de buena fe (De la Maza Gazmuri, 2011). En el derecho colombiano, la buena fe está expresamente consagrada y tiene un amplio ámbito de aplicación en materia contractual, caracterizándose por su flexibilidad y naturaleza imperativa (Villarreal, 2006). Este principio transforma las exigencias éticas en obligaciones jurídicas, requiriendo respeto por los demás y colaboración (Espinoza, 2011). Asimismo, la buena fe actúa como un límite a la autonomía contractual y regula los riesgos contractuales (Villarreal, 2006). La doctrina de los actos propios, derivada del principio de buena fe, es esencial en su aplicación, aunque no se comprende plenamente en algunas jurisdicciones, como Costa Rica (Arguello Rojas, 2019). En resumen, la buena fe es un requisito ético-social fundamental que influye significativamente en las relaciones contractuales y en las interpretaciones jurídicas.
+
+Arguello Rojas, L.M. (2019). BUENA FE Y DOCTRINA DE LOS ACTOS PROPIOS. Revista Jurídica IUS Doctrina.
+
+De la Maza Gazmuri, I. (2011). La distribución del riesgo y la buena fe: A propósito del error, el dolo y los deberes precontractuales de información.
+
+Zapata-Flórez, J. (2022). Complemento a la teoría del levantamiento del velo corporativo en Colombia desde el principio de la buena fe y el abuso del derecho. Entramado.
+
+
+El principio de buena fe ha sido ampliamente estudiado en la historia jurídica colombiana. En el derecho contractual, está expresamente consagrado en la legislación y posee un amplio ámbito de aplicación, con características y normas que se derivan de él (Villarreal, 2006). Este principio también desempeña un papel crucial en el derecho societario, particularmente en la teoría del levantamiento del velo corporativo, donde se vincula con la doctrina del abuso del derecho (Zapata-Flórez, 2022). En el ámbito del procedimiento civil, la buena fe se distingue entre formas subjetivas y objetivas, sirviendo como base para la creación e interpretación de normas procesales (López, 2020). El Consejo de Estado ha desarrollado criterios relacionados con la no devolución de pagos en exceso realizados por la Administración Pública, considerando el principio de buena fe. En estos casos, se prioriza el aspecto subjetivo de las acciones del individuo al recibir beneficios económicos, por encima del impacto en el erario público (Castillo Yara, 2018). Estos estudios resaltan la importancia del principio en diversas áreas del derecho colombiano.
+
+López, F.H. (2020). APROXIMACIÓN AL PRINCIPIO DE LA BUENA FE EN EL PROCESO CIVIL COLOMBIANO
+
+Castillo Yara, E. (2018). El principio de la buena fe y dineros pagados en exceso por la Administración Estatal: Un análisis de las sentencias del Consejo de Estado. Dos mil tres mil.
